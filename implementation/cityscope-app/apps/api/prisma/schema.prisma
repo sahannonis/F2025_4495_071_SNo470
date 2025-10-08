@@ -1,0 +1,22 @@
+datasource db { provider = "postgresql"; url = env("DATABASE_URL") }
+generator client { provider = "prisma-client-js" }
+
+model Neighborhood {
+  id        Int              @id @default(autoincrement())
+  name      String
+  city      String
+  centerLat Float
+  centerLng Float
+  snapshots MetricSnapshot[]
+}
+
+model MetricSnapshot {
+  id             Int           @id @default(autoincrement())
+  neighborhood   Neighborhood  @relation(fields: [neighborhoodId], references: [id])
+  neighborhoodId Int
+  avgRent        Float
+  transitCount   Int
+  mallCount      Int
+  score          Int
+  capturedAt     DateTime      @default(now())
+}
