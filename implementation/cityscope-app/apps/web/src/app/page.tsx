@@ -1,103 +1,137 @@
-import Image from "next/image";
+"use client";
+import { useEffect, useMemo, useState } from "react";
+import { getNeighborhoods, getSummary, getCompare } from "@/lib/api";
+import type { Neighborhood, Summary } from "@/lib/types";
+import ScoreCards from "@/components/ScoreCards";
+import CompareBar from "@/components/CompareBar";
+import NeighborhoodMap from "@/components/NeighborhoodMap";
 
-export default function Home() {
+export default function HomePage() {
+  const [neighborhoods, setNeighborhoods] = useState<Neighborhood[]>([]);
+  const [selectedIds, setSelectedIds] = useState<number[]>([]);
+  const [activeId, setActiveId] = useState<number | null>(null);
+  const [summary, setSummary] = useState<Summary | null>(null);
+  const [compareRows, setCompareRows] = useState<any[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    getNeighborhoods()
+      .then((data) => {
+        setNeighborhoods(data);
+        const defaults = data.slice(0, 3).map((n) => n.id);
+        setSelectedIds(defaults);
+        setActiveId(defaults[0] ?? null);
+      })
+      .finally(() => setLoading(false));
+  }, []);
+
+  useEffect(() => {
+    if (activeId != null) {
+      getSummary(activeId).then(setSummary).catch(() => setSummary(null));
+    }
+  }, [activeId]);
+
+  useEffect(() => {
+    if (!selectedIds.length) return;
+    getCompare(selectedIds)
+      .then((rows) => {
+        const byId = new Map<number, any>();
+        for (const row of rows) byId.set(row.neighborhoodId, row);
+        const shaped = selectedIds.map((id) => {
+          const n = neighborhoods.find((x) => x.id === id);
+          const r = byId.get(id);
+          return {
+            name: n?.name || `#${id}`,
+            avgRent: r?.avgRent ?? 0,
+            transitCount: r?.transitCount ?? 0,
+            mallCount: r?.mallCount ?? 0,
+            score: r?.score ?? 0,
+          };
+        });
+        setCompareRows(shaped);
+      })
+      .catch(() => setCompareRows([]));
+  }, [selectedIds, neighborhoods]);
+
+  const center = useMemo<[number, number]>(() => {
+    if (!neighborhoods.length) return [49.2827, -123.1207];
+    return [neighborhoods[0].centerLat, neighborhoods[0].centerLng];
+  }, [neighborhoods]);
+
+  function toggleSelect(id: number) {
+    setSelectedIds((prev) => (prev.includes(id) ? prev.filter((x) => x !== id) : [...prev, id]));
+  }
+
+  if (loading) return <div className="p-6">Loading…</div>;
+
   return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+    <div className="p-6 max-w-7xl mx-auto">
+      <h1 className="text-2xl md:text-3xl font-bold">CityScope: Real Estate & Community Data Explorer</h1>
+      <p className="text-gray-600 mt-1">Compare neighborhoods by affordability, transit, and amenities.</p>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+      {/* Controls */}
+      <div className="mt-4 flex flex-col md:flex-row gap-3 md:items-end">
+        <div className="flex-1">
+          <label className="text-sm text-gray-600">Neighborhood</label>
+          <select
+            className="w-full border rounded-lg p-2"
+            value={activeId ?? ""}
+            onChange={(e) => setActiveId(Number(e.target.value))}
           >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+            {neighborhoods.map((n) => (
+              <option key={n.id} value={n.id}>
+                {n.name}
+              </option>
+            ))}
+          </select>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
+
+        <div className="flex-1">
+          <label className="text-sm text-gray-600">Compare (multi-select)</label>
+          <div className="flex flex-wrap gap-2 mt-2">
+            {neighborhoods.map((n) => {
+              const active = selectedIds.includes(n.id);
+              return (
+                <button
+                  key={n.id}
+                  onClick={() => toggleSelect(n.id)}
+                  className={`px-3 py-1 rounded-full border ${
+                    active ? "bg-black text-white" : "bg-white text-black"
+                  }`}
+                >
+                  {n.name}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      </div>
+
+      {/* Map */}
+      <div className="mt-5">
+        <NeighborhoodMap
+          center={center}
+          items={neighborhoods.map((n) => ({
+            id: n.id,
+            name: n.name,
+            centerLat: n.centerLat,
+            centerLng: n.centerLng,
+            score: n.snapshots?.[0]?.score ?? 0,
+            onSelect: (id) => {
+              setActiveId(id);
+              if (!selectedIds.includes(id)) setSelectedIds((prev) => [...prev, id]);
+            },
+          }))}
+        />
+      </div>
+
+      {/* Summary cards */}
+      {summary && <ScoreCards summary={summary} />}
+
+      {/* Compare bar */}
+      <div className="mt-4">
+        <CompareBar data={compareRows} />
+      </div>
     </div>
   );
 }
