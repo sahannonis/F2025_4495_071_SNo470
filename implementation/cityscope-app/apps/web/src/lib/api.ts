@@ -20,3 +20,15 @@ export async function getCompare(ids: number[]) {
   if (!res.ok) throw new Error("Failed to fetch comparison");
   return res.json();
 }
+
+export async function getStopsOverlay(neighborhoodId: number, radiusKm = 1.5) {
+  const res = await fetch(`${BASE}/overlay/stops?neighborhoodId=${neighborhoodId}&radiusKm=${radiusKm}`, { cache: "no-store" });
+  if (!res.ok) throw new Error("Failed to fetch stops overlay");
+  return res.json();
+}
+
+export async function getMallsOverlay(neighborhoodId: number, radiusKm = 3) {
+  const res = await fetch(`${BASE}/overlay/malls?neighborhoodId=${neighborhoodId}&radiusKm=${radiusKm}`, { cache: "no-store" });
+  if (!res.ok) throw new Error("Failed to fetch malls overlay");
+  return res.json();
+}
