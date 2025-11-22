@@ -1,0 +1,2833 @@
+neighbourhood_id,category,name,lat,lon
+VAN_DT,schools,Canada Capstone College,49.2791171,-123.116727
+VAN_DT,schools,Anchor Point Montesorri,49.2769886,-123.1306637
+VAN_DT,schools,Simon Fraser University,49.2824032,-123.1085513
+VAN_DT,schools,Pattison High School,49.2809046,-123.124905
+VAN_DT,schools,Cornerstone Community College,49.2835785,-123.1147762
+VAN_DT,schools,,49.2833602,-123.1145916
+VAN_DT,schools,Vanwest College,49.28166,-123.127029
+VAN_DT,schools,Blanche MacDonald Centre,49.2798087,-123.1176899
+VAN_DT,schools,Greystone College Vancouver,49.2839535,-123.115639
+VAN_DT,schools,EF International Language Centre Vancouver,49.2786617,-123.114003
+VAN_DT,schools,Enjoy Canada,49.2827302,-123.115289
+VAN_DT,schools,ILAC,49.2888774,-123.121472
+VAN_DT,schools,Ashton College,49.2876052,-123.124216
+VAN_DT,schools,Light House Labs,49.2819085,-123.108188
+VAN_DT,schools,Adler University,49.2837148,-123.1140662
+VAN_DT,schools,VGC International College,49.2844007,-123.115654
+VAN_DT,schools,UBC Robson Square,49.2824292,-123.121177
+VAN_DT,schools,Global Village English Centers,49.2773055,-123.116045
+VAN_DT,schools,New Image College,49.2795986,-123.1228028
+VAN_DT,schools,Lighthouse Labs,49.2812082,-123.114825
+VAN_DT,schools,Vancouver Film School,49.2832374,-123.107818
+VAN_DT,schools,Sino Bright School BC,49.2842936,-123.1095896
+VAN_DT,schools,Canadian College,49.2846393,-123.1231492
+VAN_DT,schools,Northeastern University,49.2805472,-123.1158219
+VAN_DT,schools,Canada College Vancouver,49.2819642,-123.1254284
+VAN_DT,schools,Alexander Academy,49.2826985,-123.1153061
+VAN_DT,schools,Canadian College of Technology and Business,49.2767088,-123.1156086
+VAN_DT,schools,Brainstation,49.2850163,-123.1146838
+VAN_DT,schools,Cornerstone Community College,49.2794052,-123.1223713
+VAN_DT,schools,Alexander College,49.282648,-123.1154321
+VAN_DT,schools,The Westside Schools – Miniversity,49.2766137,-123.1185482
+VAN_DT,schools,šxʷwəq̓ʷəθət Crosstown Elementary School,49.278617026845865,-123.1068984702743
+VAN_DT,schools,British Columbia Institute of Technology,49.28342120000001,-123.1153108
+VAN_DT,schools,Harbour Centre,49.28453709132198,-123.1116763224788
+VAN_DT,schools,Lord Roberts School Annex,49.28320857844473,-123.12973262781594
+VAN_DT,schools,Vancouver Film School,49.28305657573775,-123.11099389359687
+VAN_DT,schools,Vancouver Community College,49.28130847023651,-123.1112604557204
+VAN_DT,restaurants,New Amsterdam Cafe,49.2829831,-123.1098733
+VAN_DT,restaurants,Ignite Pizzeria,49.2772564,-123.118737
+VAN_DT,restaurants,Starbucks,49.2846042,-123.124593
+VAN_DT,restaurants,Blenz Coffee,49.2771596,-123.1264928
+VAN_DT,restaurants,Starbucks,49.2799212,-123.117893
+VAN_DT,restaurants,Waves Coffee House,49.2807244,-123.122489
+VAN_DT,restaurants,GO Canada,49.2741793,-123.1328565
+VAN_DT,restaurants,Prego Cofee,49.275078,-123.1335056
+VAN_DT,restaurants,Giardino Restaurant,49.2769504,-123.1300681
+VAN_DT,restaurants,The Halal Guys,49.2804472,-123.1187278
+VAN_DT,restaurants,Freshslice Pizza,49.2845541,-123.1181578
+VAN_DT,restaurants,Shogun,49.2854893,-123.1172155
+VAN_DT,restaurants,Flamingo Cafe,49.2794539,-123.1230577
+VAN_DT,restaurants,Cactus Club Cafe,49.2750892,-123.122758
+VAN_DT,restaurants,Analog Coffee,49.2757856,-123.121109
+VAN_DT,restaurants,Earls,49.275779,-123.1205254
+VAN_DT,restaurants,The Greek by Anatoli,49.2762235,-123.1198664
+VAN_DT,restaurants,The Keg,49.2765618,-123.119369
+VAN_DT,restaurants,Lupo,49.2781583,-123.1172443
+VAN_DT,restaurants,Water Street Cafe,49.2842334,-123.109032
+VAN_DT,restaurants,Bubble World Tea House,49.2873653,-123.128789
+VAN_DT,restaurants,Lee's Donuts,49.284394,-123.108567
+VAN_DT,restaurants,The Basic,49.279771,-123.129926
+VAN_DT,restaurants,Vera's Burger Shack,49.2795194,-123.130102
+VAN_DT,restaurants,Caffe Mira,49.2787557,-123.130101
+VAN_DT,restaurants,Starbucks,49.2803846,-123.130937
+VAN_DT,restaurants,Jerusalem Shwarma,49.2803757,-123.118593
+VAN_DT,restaurants,KOS Waffles by Waffleland Cafe,49.2802809,-123.118395
+VAN_DT,restaurants,Tim Hortons,49.2776017,-123.127219
+VAN_DT,restaurants,Perfecto Cafe,49.2767389,-123.125234
+VAN_DT,restaurants,Samurai Japanese Restaurant,49.2805385,-123.1316982
+VAN_DT,restaurants,Wall Flowers,49.2803909,-123.12543
+VAN_DT,restaurants,Starbucks,49.2878449,-123.1238651
+VAN_DT,restaurants,Faubourg Paris,49.2745255,-123.122419
+VAN_DT,restaurants,Zab Zaab,49.2748252,-123.123057
+VAN_DT,restaurants,JJ Bean,49.2752575,-123.123612
+VAN_DT,restaurants,Red Wasabi,49.2755725,-123.1233974
+VAN_DT,restaurants,Coo Coo Coffee,49.2757447,-123.1237233
+VAN_DT,restaurants,Bistro Sakana,49.2753752,-123.1211177
+VAN_DT,restaurants,Minami,49.275246,-123.120775
+VAN_DT,restaurants,Hula,49.2755974,-123.120309
+VAN_DT,restaurants,Jugo Juice,49.2741294,-123.121871
+VAN_DT,restaurants,Salsa and Agave Mexican Grill,49.2741,-123.1219573
+VAN_DT,restaurants,Subway,49.2740362,-123.1222575
+VAN_DT,restaurants,Dairy Queen,49.2740162,-123.122343
+VAN_DT,restaurants,Cioppino's Mediterranean Grill,49.2756803,-123.121753
+VAN_DT,restaurants,Urban Thai Bistro,49.2757912,-123.121587
+VAN_DT,restaurants,Blue Water Cafe + raw bar,49.2760962,-123.121114
+VAN_DT,restaurants,Nando's,49.2778449,-123.1276301
+VAN_DT,restaurants,Subway,49.2779076,-123.1277317
+VAN_DT,restaurants,Freshbowl,49.274141,-123.120068
+VAN_DT,restaurants,La Terrazza,49.2749531,-123.118655
+VAN_DT,restaurants,Sushi Yamato,49.2766293,-123.1256382
+VAN_DT,restaurants,Basil Pasta Bar,49.2767875,-123.1258792
+VAN_DT,restaurants,Kinkura Sushi + Sake,49.2768123,-123.125931
+VAN_DT,restaurants,Subway,49.2796822,-123.126535
+VAN_DT,restaurants,Nizu,49.2852547,-123.1162397
+VAN_DT,restaurants,Starbucks,49.2846537,-123.115283
+VAN_DT,restaurants,Tim Hortons,49.2849331,-123.115686
+VAN_DT,restaurants,Best Bite Donair,49.2803306,-123.130859
+VAN_DT,restaurants,Caffè Artigiano,49.2859592,-123.115236
+VAN_DT,restaurants,Subway,49.284191,-123.115916
+VAN_DT,restaurants,Uncle Fatih's Pizza,49.2792588,-123.107425
+VAN_DT,restaurants,Freshslice Pizza,49.2793502,-123.107835
+VAN_DT,restaurants,NiNNiN Ramen House,49.2791132,-123.107422
+VAN_DT,restaurants,Cactus Club Cafe,49.285504,-123.118815
+VAN_DT,restaurants,Red Robin,49.2845287,-123.125253
+VAN_DT,restaurants,Costco Food Court,49.2787678,-123.109262
+VAN_DT,restaurants,Tim Hortons,49.287353,-123.1144993
+VAN_DT,restaurants,Rodney's Oyster House,49.2743433,-123.123269
+VAN_DT,restaurants,Eat Bar & Patio Haraheri,49.2799957,-123.125224
+VAN_DT,restaurants,McDonald's,49.2871649,-123.1141682
+VAN_DT,restaurants,HellCrust Pizza,49.2844631,-123.113434
+VAN_DT,restaurants,Subway,49.2890878,-123.1146885
+VAN_DT,restaurants,Tim Hortons,49.2850471,-123.112065
+VAN_DT,restaurants,Blenz Coffee,49.2859301,-123.118281
+VAN_DT,restaurants,Blenz Coffee,49.2796325,-123.10785
+VAN_DT,restaurants,Elysian Coffee Roasters,49.2798648,-123.127675
+VAN_DT,restaurants,Al Porto Ristorante,49.284626,-123.1092825
+VAN_DT,restaurants,MoMo Sushi,49.2847089,-123.110228
+VAN_DT,restaurants,Nuba,49.2827611,-123.109648
+VAN_DT,restaurants,Bean Around The World,49.2825279,-123.1092922
+VAN_DT,restaurants,McDonald's,49.2847682,-123.1210687
+VAN_DT,restaurants,Tim Hortons,49.2848477,-123.120957
+VAN_DT,restaurants,Starbucks,49.2875534,-123.1200025
+VAN_DT,restaurants,Meat & Bread,49.2872474,-123.118925
+VAN_DT,restaurants,Stepho's Greek Restaurant,49.2807022,-123.131961
+VAN_DT,restaurants,Denny's,49.2802104,-123.131197
+VAN_DT,restaurants,Subway,49.2797668,-123.130488
+VAN_DT,restaurants,Joey,49.2827572,-123.123139
+VAN_DT,restaurants,Tim Hortons,49.2811674,-123.1242959
+VAN_DT,restaurants,Earls,49.2815936,-123.123754
+VAN_DT,restaurants,Cafe Bellagio,49.283029,-123.121574
+VAN_DT,restaurants,One Saigon,49.2808226,-123.1247973
+VAN_DT,restaurants,Brioche Ristorante,49.2840979,-123.1069482
+VAN_DT,restaurants,Revolver,49.2831716,-123.109459
+VAN_DT,restaurants,Starbucks,49.285758,-123.1116688
+VAN_DT,restaurants,Rogue Kitchen & Wetbar,49.2853939,-123.1114016
+VAN_DT,restaurants,Burger King,49.2811705,-123.120411
+VAN_DT,restaurants,Starbucks,49.2746904,-123.1221583
+VAN_DT,restaurants,Din Tai Fung,49.285769,-123.124704
+VAN_DT,restaurants,Ho Ho's Yummy Food,49.2820786,-123.1340707
+VAN_DT,restaurants,Davie Dosa Company,49.2821447,-123.1337057
+VAN_DT,restaurants,Halove,49.282131,-123.134155
+VAN_DT,restaurants,Downtown Sushi Bar,49.2819972,-123.1334555
+VAN_DT,restaurants,Melriches Coffee House,49.2822483,-123.1343416
+VAN_DT,restaurants,Al Basha,49.2818284,-123.1336764
+VAN_DT,restaurants,Blenz Coffee,49.2819635,-123.133384
+VAN_DT,restaurants,Hapa Izakaya,49.2874308,-123.114904
+VAN_DT,restaurants,SushiGo,49.2879174,-123.1237682
+VAN_DT,restaurants,Blenz Coffee,49.2810287,-123.118654
+VAN_DT,restaurants,Taki's Taverna,49.2805112,-123.1316527
+VAN_DT,restaurants,JJ Bean,49.2874217,-123.116942
+VAN_DT,restaurants,Thai Basil,49.280291,-123.1315739
+VAN_DT,restaurants,Stack House,49.280456,-123.131581
+VAN_DT,restaurants,Mean Poutine,49.2793561,-123.123413
+VAN_DT,restaurants,Megabite,49.2792751,-123.123342
+VAN_DT,restaurants,Moulin Rouge,49.2792354,-123.122725
+VAN_DT,restaurants,Guu Original Thurlow,49.2840032,-123.125448
+VAN_DT,restaurants,Jugo Juice,49.2848411,-123.1248987
+VAN_DT,restaurants,Joey,49.2866651,-123.11834
+VAN_DT,restaurants,Tokyo Joe's,49.279737,-123.126662
+VAN_DT,restaurants,Starbucks,49.280139,-123.127256
+VAN_DT,restaurants,Yolks,49.2787068,-123.128947
+VAN_DT,restaurants,Riley's Fish & Steak,49.2878057,-123.1153441
+VAN_DT,restaurants,1931 Gallery Bistro,49.2826802,-123.1205496
+VAN_DT,restaurants,Coast Restaurant,49.2847156,-123.1231168
+VAN_DT,restaurants,McDonald's,49.2788264,-123.1155638
+VAN_DT,restaurants,Pho Quynh Express,49.2843286,-123.117811
+VAN_DT,restaurants,Breka Bakery & Café,49.278414,-123.1278962
+VAN_DT,restaurants,The Charles Bar,49.2830756,-123.108384
+VAN_DT,restaurants,Oshi Nori,49.2761172,-123.1200154
+VAN_DT,restaurants,Earls,49.2859532,-123.1264184
+VAN_DT,restaurants,Waves Coffee House,49.278383,-123.1149456
+VAN_DT,restaurants,Donair Drive,49.2796131,-123.123935
+VAN_DT,restaurants,Chipotle,49.2815417,-123.121179
+VAN_DT,restaurants,Sushi Star,49.2795339,-123.123812
+VAN_DT,restaurants,The Keg,49.2833798,-123.116411
+VAN_DT,restaurants,Number e Food,49.2777096,-123.130968
+VAN_DT,restaurants,Mahony's Tavern,49.2893622,-123.1144269
+VAN_DT,restaurants,The Templeton,49.2784378,-123.124545
+VAN_DT,restaurants,Fritz's European Fry House/Poutine,49.2772949,-123.1266675
+VAN_DT,restaurants,Freshslice Pizza,49.2776678,-123.1266852
+VAN_DT,restaurants,Subway,49.280495,-123.121965
+VAN_DT,restaurants,White Spot,49.2819109,-123.1135011
+VAN_DT,restaurants,Easy Grab Easy Go Grab N Go,49.2879677,-123.12142
+VAN_DT,restaurants,Chambar,49.2801513,-123.109872
+VAN_DT,restaurants,Marugame Udon,49.2803275,-123.110493
+VAN_DT,restaurants,Subway,49.2792636,-123.107846
+VAN_DT,restaurants,Tim Hortons,49.2809701,-123.107834
+VAN_DT,restaurants,Starbucks,49.2877059,-123.1133343
+VAN_DT,restaurants,Deville Coffee,49.2853345,-123.112222
+VAN_DT,restaurants,Caffè Artigiano,49.2876852,-123.1205021
+VAN_DT,restaurants,A&W,49.2858989,-123.1122871
+VAN_DT,restaurants,Joyeaux Café and Restaurant,49.2847774,-123.116885
+VAN_DT,restaurants,Jam Cafe,49.2803078,-123.109681
+VAN_DT,restaurants,Starbucks,49.277133,-123.1296758
+VAN_DT,restaurants,JJ Bean,49.2865106,-123.125896
+VAN_DT,restaurants,Sushi Bar Maumi,49.2813956,-123.133708
+VAN_DT,restaurants,Joe Fortes,49.2849273,-123.124611
+VAN_DT,restaurants,Breka Bakery & Café,49.285665,-123.12728
+VAN_DT,restaurants,Cafe Rico,49.2868188,-123.128521
+VAN_DT,restaurants,Tim Hortons,49.2870463,-123.1282973
+VAN_DT,restaurants,Jang Mo Jib,49.2857079,-123.126991
+VAN_DT,restaurants,Brass Fish,49.2873114,-123.117128
+VAN_DT,restaurants,Banana Leaf,49.2799326,-123.1302522
+VAN_DT,restaurants,Osaka Sushi,49.277574,-123.13185
+VAN_DT,restaurants,Gotham Steakhouse & Cocktail Bar,49.2828492,-123.115863
+VAN_DT,restaurants,The Keg,49.2861606,-123.124206
+VAN_DT,restaurants,Kosoo,49.2890693,-123.1325917
+VAN_DT,restaurants,Ju,49.2784435,-123.114328
+VAN_DT,restaurants,Donair Dude,49.2822367,-123.109203
+VAN_DT,restaurants,Tim Hortons,49.2832205,-123.1155257
+VAN_DT,restaurants,Subway,49.2766701,-123.1272113
+VAN_DT,restaurants,911 Pizza,49.2801028,-123.1181207
+VAN_DT,restaurants,Subway,49.2823756,-123.108485
+VAN_DT,restaurants,Shizen Ya,49.2809398,-123.1246266
+VAN_DT,restaurants,Quantum Coffee,49.2850193,-123.1145937
+VAN_DT,restaurants,Osteria Autostrada,49.282596,-123.1119502
+VAN_DT,restaurants,Maple Leaf Delicatessen Coffe Shop,49.2787028,-123.130204
+VAN_DT,restaurants,Olivier's Cafe et Viennoiseries,49.2820156,-123.1229819
+VAN_DT,restaurants,Today Japanses Restaurant,49.2807667,-123.1248876
+VAN_DT,restaurants,Cafe Medina,49.2805588,-123.116906
+VAN_DT,restaurants,Beyond Coffee,49.2809406,-123.126909
+VAN_DT,restaurants,Uncle Fatih's Pizza,49.2789073,-123.122176
+VAN_DT,restaurants,Meat & Bread,49.2810223,-123.118995
+VAN_DT,restaurants,McDonald's,49.280548,-123.121366
+VAN_DT,restaurants,Aladdin Cafe,49.280963,-123.118915
+VAN_DT,restaurants,Five Guys,49.28109,-123.119096
+VAN_DT,restaurants,Charisma Social Club House,49.2799621,-123.1087565
+VAN_DT,restaurants,Pizzeria Ludica,49.2800421,-123.1085984
+VAN_DT,restaurants,Mamalee,49.2796305,-123.10861
+VAN_DT,restaurants,Tsuki Sushi Bar,49.2808958,-123.107845
+VAN_DT,restaurants,Pappa Roti,49.2800088,-123.1086905
+VAN_DT,restaurants,Taishoken,49.2807869,-123.107836
+VAN_DT,restaurants,A&W,49.2831516,-123.1154178
+VAN_DT,restaurants,Guu Toramasa,49.2810728,-123.118583
+VAN_DT,restaurants,Starbucks,49.2820489,-123.118486
+VAN_DT,restaurants,Hungry Guys,49.2792876,-123.1226649
+VAN_DT,restaurants,The Butcher & Bullock,49.2861746,-123.116976
+VAN_DT,restaurants,Numero Uno Pizza,49.2772057,-123.126521
+VAN_DT,restaurants,Starbucks,49.2789586,-123.1212246
+VAN_DT,restaurants,Nero Belgian Waffle Bar,49.2783848,-123.122044
+VAN_DT,restaurants,Sushi Howe,49.277516,-123.127083
+VAN_DT,restaurants,Taylight,49.2818966,-123.124145
+VAN_DT,restaurants,Pizza Garden,49.2801553,-123.1209295
+VAN_DT,restaurants,Pacifico Pizzeria & Ristorante,49.2818326,-123.124023
+VAN_DT,restaurants,Donair King,49.2794471,-123.130019
+VAN_DT,restaurants,Homer St Cafe and Bar,49.2784178,-123.118217
+VAN_DT,restaurants,Kadoya,49.2802018,-123.13067
+VAN_DT,restaurants,Fatburger,49.2802263,-123.130709
+VAN_DT,restaurants,Gyu-Kaku,49.2801081,-123.125117
+VAN_DT,restaurants,Java Cat,49.2817816,-123.1117459
+VAN_DT,restaurants,Rorimomo,49.2777207,-123.126777
+VAN_DT,restaurants,Waves Coffee House,49.2838456,-123.1119201
+VAN_DT,restaurants,Kokoro Tokyo Mazesoba,49.2834021,-123.115045
+VAN_DT,restaurants,Peqish,49.2833879,-123.1145536
+VAN_DT,restaurants,Kita no Donburi,49.2845444,-123.1133011
+VAN_DT,restaurants,Sushi Yan,49.2847964,-123.124306
+VAN_DT,restaurants,Meat & Bread,49.282623,-123.109344
+VAN_DT,restaurants,Fresh Bowl,49.2827131,-123.109315
+VAN_DT,restaurants,,49.2828897,-123.1230681
+VAN_DT,restaurants,Boulevard Kitchen & Oyster Bar,49.2829266,-123.123798
+VAN_DT,restaurants,Burger King,49.2841267,-123.1142755
+VAN_DT,restaurants,Wa! Currey,49.2841806,-123.114361
+VAN_DT,restaurants,Rue 909 Sushi,49.2852511,-123.1186391
+VAN_DT,restaurants,Tim Hortons,49.2860889,-123.116336
+VAN_DT,restaurants,24 Train Express Noodle House,49.2782532,-123.121816
+VAN_DT,restaurants,La Belle Patate/Poutine,49.2820553,-123.1335652
+VAN_DT,restaurants,Gurkha Himalayan Kitchen,49.2812088,-123.131973
+VAN_DT,restaurants,Sushi Den,49.279559,-123.107842
+VAN_DT,restaurants,Noodle Box,49.2819445,-123.107631
+VAN_DT,restaurants,Poke M,49.2816397,-123.107525
+VAN_DT,restaurants,Vegan Cave,49.2818025,-123.107462
+VAN_DT,restaurants,Boba Run,49.2819139,-123.10746
+VAN_DT,restaurants,Wildebeest,49.2819933,-123.107973
+VAN_DT,restaurants,Prado,49.2819016,-123.1074227
+VAN_DT,restaurants,Cafe Duello,49.2835903,-123.111511
+VAN_DT,restaurants,Breka Bakery & Cafe,49.2856543,-123.114727
+VAN_DT,restaurants,CoCo Fresh Tea & Juice,49.2845132,-123.114372
+VAN_DT,restaurants,Social Crust Cafe & Catering,49.2825674,-123.1113699
+VAN_DT,restaurants,Ha Long Bay,49.2830665,-123.1126225
+VAN_DT,restaurants,Gong Cha,49.2838332,-123.113312
+VAN_DT,restaurants,Limegee Bubble Tea,49.2839646,-123.11351
+VAN_DT,restaurants,Pizza 2001,49.2840103,-123.113579
+VAN_DT,restaurants,Saunter,49.2825152,-123.1112958
+VAN_DT,restaurants,Kim House,49.2835675,-123.1128993
+VAN_DT,restaurants,Koala Kebabs,49.2836356,-123.1130258
+VAN_DT,restaurants,Cham Mani,49.2837054,-123.1131194
+VAN_DT,restaurants,PiCaDo,49.2841752,-123.1138796
+VAN_DT,restaurants,Spin Roll,49.2837386,-123.1131665
+VAN_DT,restaurants,Freshslice Pizza,49.2838178,-123.11328
+VAN_DT,restaurants,Salam Bombay,49.2840406,-123.12216
+VAN_DT,restaurants,Indian Burgers Joint,49.2796025,-123.1241661
+VAN_DT,restaurants,Freshslice Pizza,49.2816572,-123.120597
+VAN_DT,restaurants,Orange Julius,49.2795971,-123.117415
+VAN_DT,restaurants,A&W,49.2796191,-123.117481
+VAN_DT,restaurants,Memphis Blues BBQ House,49.2795681,-123.117362
+VAN_DT,restaurants,Big Way Hot Pot,49.2817133,-123.120675
+VAN_DT,restaurants,Curry Hut Indian Bistro,49.2857988,-123.115359
+VAN_DT,restaurants,Mario's Coffee Express Ltd,49.2846149,-123.1171213
+VAN_DT,restaurants,The Pawn Shop,49.2780334,-123.1251115
+VAN_DT,restaurants,Falafel King,49.2801341,-123.118169
+VAN_DT,restaurants,Kinton Ramen,49.2794999,-123.117231
+VAN_DT,restaurants,Cafe Monet Bread & Coffee,49.2803995,-123.118634
+VAN_DT,restaurants,Rollzzy,49.2802404,-123.118333
+VAN_DT,restaurants,Japadog,49.2801999,-123.1182707
+VAN_DT,restaurants,Viet Sub,49.2801622,-123.1182125
+VAN_DT,restaurants,Yet's Cafe,49.2776328,-123.131088
+VAN_DT,restaurants,Daikichi Sushi,49.2774536,-123.131337
+VAN_DT,restaurants,Sushi Coen,49.2777387,-123.130932
+VAN_DT,restaurants,Rocanini,49.2770169,-123.115107
+VAN_DT,restaurants,Nusa Coffee,49.2836087,-123.109495
+VAN_DT,restaurants,Timbertrain,49.2839055,-123.1094962
+VAN_DT,restaurants,Takeout Shack,49.2830143,-123.109178
+VAN_DT,restaurants,Haru Korean Kitchen,49.2829428,-123.109213
+VAN_DT,restaurants,Tokyo In April,49.2803833,-123.1074046
+VAN_DT,restaurants,Einstein Wrap House,49.2805604,-123.1073941
+VAN_DT,restaurants,Yopo,49.2760108,-123.121902
+VAN_DT,restaurants,Nuba,49.2759195,-123.1245551
+VAN_DT,restaurants,Brix & Mortar,49.2756856,-123.1220661
+VAN_DT,restaurants,O-Cha Tea Bar,49.2761071,-123.121757
+VAN_DT,restaurants,Fat Mao,49.2798076,-123.126766
+VAN_DT,restaurants,The Edge,49.277847,-123.1248161
+VAN_DT,restaurants,Tutto,49.2784067,-123.1187517
+VAN_DT,restaurants,Greenhorn Cafe,49.2866176,-123.134001
+VAN_DT,restaurants,Hiro Sushi,49.2829336,-123.108249
+VAN_DT,restaurants,La Casita,49.283064,-123.106967
+VAN_DT,restaurants,Poke Okey,49.2807065,-123.124984
+VAN_DT,restaurants,Pokérrito,49.2807348,-123.124938
+VAN_DT,restaurants,Trish Juice,49.2808062,-123.12482
+VAN_DT,restaurants,Bacchus,49.2823081,-123.1225427
+VAN_DT,restaurants,Pholicious,49.284215,-123.112463
+VAN_DT,restaurants,Alouette,49.2851704,-123.1182262
+VAN_DT,restaurants,Starbucks,49.284888,-123.118063
+VAN_DT,restaurants,JJ Bean,49.2848628,-123.1187816
+VAN_DT,restaurants,Cafe Artigiano,49.2831204,-123.1213927
+VAN_DT,restaurants,Blenz Coffee,49.2840267,-123.1122692
+VAN_DT,restaurants,My Honey's Buns,49.2840486,-123.11997
+VAN_DT,restaurants,Faubourg Paris,49.2830645,-123.121477
+VAN_DT,restaurants,Mangos Kitchen Bar,49.2781376,-123.1263175
+VAN_DT,restaurants,Baghdad Cafe,49.2834343,-123.1144842
+VAN_DT,restaurants,4 Brothers Pizza,49.2772847,-123.127686
+VAN_DT,restaurants,Kim House,49.2835359,-123.114343
+VAN_DT,restaurants,White Spot,49.2761557,-123.128164
+VAN_DT,restaurants,Dilli Heights,49.2834975,-123.1125167
+VAN_DT,restaurants,The Poke Guy,49.2837533,-123.112099
+VAN_DT,restaurants,Subway,49.2839142,-123.1123573
+VAN_DT,restaurants,Monaco Cafe,49.2845195,-123.110442
+VAN_DT,restaurants,Brioche,49.2841913,-123.1099164
+VAN_DT,restaurants,Sake Dining - Hashigo,49.2765186,-123.127442
+VAN_DT,restaurants,Tequila Cocina,49.2767764,-123.1264629
+VAN_DT,restaurants,Fable Diner & Bar,49.2807525,-123.1171855
+VAN_DT,restaurants,Mr. Greek,49.2775029,-123.125931
+VAN_DT,restaurants,Pho Mimosa,49.277701,-123.125626
+VAN_DT,restaurants,Donair Dude,49.2778308,-123.125433
+VAN_DT,restaurants,Union Latino's,49.277764,-123.125533
+VAN_DT,restaurants,Brunch,49.2777995,-123.125475
+VAN_DT,restaurants,TAKO,49.2788984,-123.1082328
+VAN_DT,restaurants,Odo Sushi,49.2794353,-123.106956
+VAN_DT,restaurants,Thai Away Home,49.2784906,-123.12445
+VAN_DT,restaurants,Thai Town Restaurant,49.2786415,-123.124214
+VAN_DT,restaurants,Ancora,49.2738934,-123.132775
+VAN_DT,restaurants,Thida Thai,49.2817168,-123.133062
+VAN_DT,restaurants,Disco Cheetah,49.2816322,-123.132944
+VAN_DT,restaurants,Tom Sushi,49.2815405,-123.132811
+VAN_DT,restaurants,The Hestia Veggie,49.2814332,-123.132631
+VAN_DT,restaurants,Med Grill & Bar,49.2813594,-123.132504
+VAN_DT,restaurants,KFC,49.2812333,-123.132309
+VAN_DT,restaurants,Pho Goodness,49.280931,-123.1323047
+VAN_DT,restaurants,PappaRoti,49.2888664,-123.131101
+VAN_DT,restaurants,Ramen Gojiro,49.2825244,-123.114459
+VAN_DT,restaurants,JJ Bean,49.28207,-123.113731
+VAN_DT,restaurants,Field & Social,49.2819959,-123.1136208
+VAN_DT,restaurants,Blenz Coffee,49.2868125,-123.113169
+VAN_DT,restaurants,Guu ​with Garlic,49.2902892,-123.1338882
+VAN_DT,restaurants,Sushi California,49.2865749,-123.122858
+VAN_DT,restaurants,Cazba,49.280638,-123.131087
+VAN_DT,restaurants,JINYA Ramen Bar,49.2803076,-123.117925
+VAN_DT,restaurants,Fatburger,49.2819977,-123.118635
+VAN_DT,restaurants,O Sushi,49.2818976,-123.118783
+VAN_DT,restaurants,Freshii,49.2870382,-123.118101
+VAN_DT,restaurants,Chit Chat Burger Bar,49.2798107,-123.1224898
+VAN_DT,restaurants,Pho Quynh Express (Granville),49.283914,-123.115705
+VAN_DT,restaurants,Trees Organic Coffee,49.2848589,-123.1143085
+VAN_DT,restaurants,Mo-Ment Crispy Burger,49.2838693,-123.115767
+VAN_DT,restaurants,Nemesis,49.282764,-123.1102832
+VAN_DT,restaurants,Ramen Danbo,49.2874551,-123.128933
+VAN_DT,restaurants,Ebi-Ten,49.2792456,-123.1168603
+VAN_DT,restaurants,Yummy Slice Pizza,49.2813411,-123.132939
+VAN_DT,restaurants,Los Amigos Taqueria,49.2806243,-123.1318323
+VAN_DT,restaurants,City Square Pizza,49.2805792,-123.1317635
+VAN_DT,restaurants,Donair Dude,49.2813691,-123.1329919
+VAN_DT,restaurants,Starbucks,49.2870804,-123.1143203
+VAN_DT,restaurants,Smokehouse Sandwich Co,49.2842686,-123.1197597
+VAN_DT,restaurants,JoongWon,49.2873953,-123.128838
+VAN_DT,restaurants,Chongqing on Robson,49.2865534,-123.128081
+VAN_DT,restaurants,Stepho's Souvlaki Greek Tavern,49.287665,-123.12925
+VAN_DT,restaurants,Chosun Korean BBQ,49.2873464,-123.1283402
+VAN_DT,restaurants,Miko Sushi,49.2874858,-123.12898
+VAN_DT,restaurants,Cora,49.2875631,-123.129718
+VAN_DT,restaurants,Hello Kitty Cafe,49.2866143,-123.1281928
+VAN_DT,restaurants,Little Cafe,49.2865379,-123.1280477
+VAN_DT,restaurants,Abode,49.2863846,-123.1272393
+VAN_DT,restaurants,Dinesty Dumpling House,49.2907725,-123.134078
+VAN_DT,restaurants,McDonald's,49.2906218,-123.133851
+VAN_DT,restaurants,Momo Sushi,49.2862529,-123.1276348
+VAN_DT,restaurants,Hello Nori,49.2856233,-123.1261012
+VAN_DT,restaurants,Kirin Restaurant,49.2863249,-123.1255978
+VAN_DT,restaurants,Paris Baguette,49.2859029,-123.1249177
+VAN_DT,restaurants,A&W,49.2860548,-123.125171
+VAN_DT,restaurants,Subway,49.2860886,-123.125231
+VAN_DT,restaurants,Fantacity Karaoke,49.28525,-123.125406
+VAN_DT,restaurants,Starbucks,49.2876133,-123.114923
+VAN_DT,restaurants,NeNe Chicken,49.2821191,-123.133662
+VAN_DT,restaurants,The Italians,49.2814778,-123.133602
+VAN_DT,restaurants,Pistachio Sweetery Cafe,49.2820397,-123.1166207
+VAN_DT,restaurants,Chakra Indian Restaurant,49.2821231,-123.116481
+VAN_DT,restaurants,Dingding Restaurant,49.2820874,-123.1165418
+VAN_DT,restaurants,Pokérrito,49.2826167,-123.1151176
+VAN_DT,restaurants,Dae Ji,49.2826768,-123.1147158
+VAN_DT,restaurants,The Venti Coffee,49.2826109,-123.114622
+VAN_DT,restaurants,Wow Full Noodle House,49.2825668,-123.114555
+VAN_DT,restaurants,Mirai Sushi,49.2813057,-123.10797
+VAN_DT,restaurants,Subway,49.2908865,-123.1342622
+VAN_DT,restaurants,Liuyishou Hotpot Robson,49.2890564,-123.1320225
+VAN_DT,restaurants,Pressato,49.2792232,-123.116826
+VAN_DT,restaurants,Cardero's,49.2915693,-123.127516
+VAN_DT,restaurants,Shabusen,49.2839339,-123.122349
+VAN_DT,restaurants,Alchemy,49.2742337,-123.123941
+VAN_DT,restaurants,Capo and the Spritz,49.2747239,-123.122703
+VAN_DT,restaurants,Grand Chinese Restaurant,49.2746128,-123.1233641
+VAN_DT,restaurants,Paratha 2 Pasta,49.2744437,-123.123632
+VAN_DT,restaurants,Tasty Indian Bistro,49.274335,-123.1237928
+VAN_DT,restaurants,Hapa Izakaya,49.275171,-123.122572
+VAN_DT,restaurants,Living Produce Aisle,49.2750527,-123.1221518
+VAN_DT,restaurants,The Flying Pig,49.2751034,-123.1220829
+VAN_DT,restaurants,Aburi To-Go,49.2753478,-123.12063
+VAN_DT,restaurants,Robba Da Matti,49.2753202,-123.1212024
+VAN_DT,restaurants,Sushi Maro,49.2748586,-123.1219168
+VAN_DT,restaurants,Glowbal,49.2814683,-123.117244
+VAN_DT,restaurants,Kaide Sushi Bar,49.2743218,-123.126942
+VAN_DT,restaurants,Spicy 6,49.2848775,-123.1256192
+VAN_DT,restaurants,Per Se Social Corner,49.2786045,-123.118459
+VAN_DT,restaurants,Fit Camp Foods,49.2806587,-123.1312864
+VAN_DT,restaurants,Maruhachi Ra-men,49.2906033,-123.13339
+VAN_DT,restaurants,Hokkaido Ramen Santouka,49.2902063,-123.1337425
+VAN_DT,restaurants,Café Crêpe,49.2814148,-123.119467
+VAN_DT,restaurants,Ki Isu Japanese Restaurant,49.2737081,-123.123474
+VAN_DT,restaurants,Pho Quynh Express,49.2737767,-123.123226
+VAN_DT,restaurants,Sushi Hyun Omakase,49.2873076,-123.128401
+VAN_DT,restaurants,Abdul's BBQ,49.2803398,-123.107266
+VAN_DT,restaurants,The Bagel Stop,49.2860715,-123.119875
+VAN_DT,restaurants,Unwind,49.2784038,-123.1257312
+VAN_DT,restaurants,Book Kyung Ban Jeoun & BK Karaoke,49.2897934,-123.133067
+VAN_DT,restaurants,The Alley,49.2807802,-123.1248665
+VAN_DT,restaurants,J & G Fried Chicken,49.2904957,-123.134221
+VAN_DT,restaurants,Catfé,49.2800521,-123.107325
+VAN_DT,restaurants,McDonald's,49.2808969,-123.1073143
+VAN_DT,restaurants,Chi Chi's Cafe,49.2807562,-123.1073999
+VAN_DT,restaurants,Caveman Cafe,49.2808098,-123.107015
+VAN_DT,restaurants,Tacofino,49.2764454,-123.119515
+VAN_DT,restaurants,West Oak,49.2763998,-123.119601
+VAN_DT,restaurants,Dovetail,49.2759244,-123.1203101
+VAN_DT,restaurants,Fanny Bay Oyster Bar,49.278575,-123.114112
+VAN_DT,restaurants,Subway,49.2764887,-123.118966
+VAN_DT,restaurants,Moltaqa,49.276436,-123.1190454
+VAN_DT,restaurants,Frankie’s Italian Kitchen & Bar,49.2781965,-123.113353
+VAN_DT,restaurants,Pho Khanh Express,49.2762526,-123.1155489
+VAN_DT,restaurants,7Days Coffee,49.276166,-123.115703
+VAN_DT,restaurants,Latin Square,49.2806665,-123.1312098
+VAN_DT,restaurants,Nablus Shawarma and Grill,49.2792644,-123.1160937
+VAN_DT,restaurants,El Furniture Warehouse - Granville,49.2795769,-123.1228253
+VAN_DT,restaurants,The Dime,49.2791296,-123.1234852
+VAN_DT,restaurants,Miku,49.2870647,-123.112828
+VAN_DT,restaurants,Tractor,49.2804382,-123.118103
+VAN_DT,restaurants,Thierry,49.2848096,-123.1227296
+VAN_DT,restaurants,Burgoo,49.27993,-123.127571
+VAN_DT,restaurants,Railtown Cafe,49.2802382,-123.123258
+VAN_DT,restaurants,Wela,49.2798153,-123.123638
+VAN_DT,restaurants,The Cockpit,49.290443,-123.1176585
+VAN_DT,restaurants,Fresh Sushi,49.2757358,-123.1151565
+VAN_DT,restaurants,Cafe Bel,49.2833387,-123.1190854
+VAN_DT,restaurants,Le Crocrodile,49.2826171,-123.125193
+VAN_DT,restaurants,,49.2769143,-123.1307852
+VAN_DT,restaurants,Toloache Mexican Kitchen,49.2850132,-123.117913
+VAN_DT,restaurants,Cafe Dilli,49.2771572,-123.116319
+VAN_DT,restaurants,Pho Georgia Express,49.2816876,-123.116537
+VAN_DT,restaurants,Sura Korean,49.2888741,-123.13173
+VAN_DT,restaurants,Hongdae Pocha Korean,49.2898464,-123.133158
+VAN_DT,restaurants,Opa! Of Greece,49.2831882,-123.117592
+VAN_DT,restaurants,Saku,49.2892247,-123.132281
+VAN_DT,restaurants,Beest,49.2861495,-123.1264961
+VAN_DT,restaurants,Original Joe's,49.2786125,-123.1160181
+VAN_DT,restaurants,Patisserie Fur Elise,49.2786063,-123.116857
+VAN_DT,restaurants,Subway,49.2785176,-123.115717
+VAN_DT,restaurants,Cocobay,49.278628,-123.11589
+VAN_DT,restaurants,Manoush’eh,49.2766598,-123.1256875
+VAN_DT,restaurants,The Parlour,49.2766922,-123.120266
+VAN_DT,restaurants,Pallet Coffee Roasters,49.2798788,-123.123637
+VAN_DT,restaurants,The Mexican Antojitos y Cantina,49.278797,-123.124006
+VAN_DT,restaurants,Delicious Pho,49.2786385,-123.115315
+VAN_DT,restaurants,Tim Hortons,49.2821466,-123.1185541
+VAN_DT,restaurants,Firecrust Neopolitan Pizzeria,49.2777744,-123.1275201
+VAN_DT,restaurants,The Captain's Boil,49.2886796,-123.1308269
+VAN_DT,restaurants,Big Way Hot Pot,49.2886197,-123.130733
+VAN_DT,restaurants,Black & Blue,49.284544,-123.122899
+VAN_DT,restaurants,Jollibee,49.2810698,-123.120576
+VAN_DT,restaurants,Chop Steakhouse & Bar,49.2886642,-123.1151811
+VAN_DT,restaurants,House of Dosas,49.2814927,-123.133151
+VAN_DT,restaurants,49th Parallel Café & Lucky's Doughnuts,49.2860362,-123.1230296
+VAN_DT,restaurants,Banju,49.2859246,-123.1274513
+VAN_DT,restaurants,Mumbai Local,49.2809013,-123.1322613
+VAN_DT,restaurants,Burger Crush,49.2797512,-123.123526
+VAN_DT,restaurants,Chronic Tacos,49.2860028,-123.1124564
+VAN_DT,restaurants,A&W,49.2880327,-123.123617
+VAN_DT,restaurants,Botanist,49.2882856,-123.1166693
+VAN_DT,restaurants,Le Petit Crêpe,49.2877451,-123.12066
+VAN_DT,restaurants,Panago,49.288332,-123.122596
+VAN_DT,restaurants,Quiznos,49.2871644,-123.119709
+VAN_DT,restaurants,Tableau,49.2874987,-123.123306
+VAN_DT,restaurants,Domo Sushi,49.2873492,-123.12363
+VAN_DT,restaurants,Rice & Noodle,49.2863433,-123.12779
+VAN_DT,restaurants,Nightingale,49.2874308,-123.117594
+VAN_DT,restaurants,MeeT in Yaletown,49.2749566,-123.121758
+VAN_DT,restaurants,A&W,49.2787971,-123.123458
+VAN_DT,restaurants,Notch8,49.283799,-123.12091
+VAN_DT,restaurants,Hawksworth Restaurant,49.2834872,-123.1193331
+VAN_DT,restaurants,Bahar Bakery & Cafe,49.2807258,-123.118578
+VAN_DT,restaurants,Patrón Tacos & Cantina,49.2786794,-123.115383
+VAN_DT,restaurants,Trish Juice,49.2882329,-123.12745
+VAN_DT,restaurants,Twins Chinese Kitchen,49.2787805,-123.128286
+VAN_DT,restaurants,Momo Factory Davie,49.281185,-123.132227
+VAN_DT,restaurants,Good Earth Coffeehouse,49.2840399,-123.123561
+VAN_DT,restaurants,Tim Hortons,49.2875882,-123.121619
+VAN_DT,restaurants,Triple O's,49.2866181,-123.1209638
+VAN_DT,restaurants,Heritage Asian Eatery,49.287548,-123.121038
+VAN_DT,restaurants,Indian Delicacy,49.2873634,-123.121674
+VAN_DT,restaurants,Symphonie,49.2876652,-123.121895
+VAN_DT,restaurants,Bonta Italian Ristorante,49.2799857,-123.130351
+VAN_DT,restaurants,Honey Salt,49.2751643,-123.112746
+VAN_DT,restaurants,Kiku Sushi Restaurant,49.2892662,-123.126936
+VAN_DT,restaurants,Sushi Mugen,49.2786686,-123.12829
+VAN_DT,restaurants,Tavern,49.2755314,-123.122013
+VAN_DT,restaurants,Meet Fresh,49.2862828,-123.127685
+VAN_DT,restaurants,Trees Organic Coffee,49.2819069,-123.118763
+VAN_DT,restaurants,Maruhachi Ra-men,49.2785491,-123.115763
+VAN_DT,restaurants,Poke Time,49.2811031,-123.121914
+VAN_DT,restaurants,Domino's,49.2776544,-123.125186
+VAN_DT,restaurants,Romano's Pizza,49.279484,-123.1229848
+VAN_DT,restaurants,Lucha Libre Taqueria,49.2793936,-123.123503
+VAN_DT,restaurants,Cibo Trattoria,49.2794177,-123.120598
+VAN_DT,restaurants,Italian Kitchen,49.2824839,-123.123624
+VAN_DT,restaurants,Eggette,49.2858499,-123.127
+VAN_DT,restaurants,Nero Belgian Waffle Bar,49.2906777,-123.133913
+VAN_DT,restaurants,Gringo,49.2800691,-123.130964
+VAN_DT,restaurants,Carlino Restaurant,49.2855856,-123.123807
+VAN_DT,restaurants,Freshii,49.2869324,-123.1246607
+VAN_DT,restaurants,Prestons Restaurant + Lounge,49.28822,-123.122313
+VAN_DT,restaurants,Showcase Restaurant & Bar,49.2878984,-123.1202577
+VAN_DT,restaurants,,49.2916032,-123.128475
+VAN_DT,restaurants,Elisa,49.2759188,-123.121377
+VAN_DT,restaurants,Matchstick,49.2743949,-123.126212
+VAN_DT,restaurants,Mink,49.2866225,-123.115322
+VAN_DT,restaurants,lovelarte,49.2792111,-123.116158
+VAN_DT,restaurants,Pelicana Chicken,49.2791959,-123.116782
+VAN_DT,restaurants,Sushi Bros,49.2791657,-123.116741
+VAN_DT,restaurants,Brooklyn NYC Pizzeria,49.2790996,-123.1166316
+VAN_DT,restaurants,Dante Italian Sandwich,49.2791399,-123.116689
+VAN_DT,restaurants,Le Petit Belge,49.2789978,-123.116477
+VAN_DT,restaurants,Xing Fu Tang,49.2832473,-123.116401
+VAN_DT,restaurants,JOS,49.2890618,-123.1220928
+VAN_DT,restaurants,Quickly,49.2907247,-123.133984
+VAN_DT,restaurants,Neate Donuts,49.2875779,-123.1191516
+VAN_DT,restaurants,Dae Bak Bon Ga,49.2874441,-123.128832
+VAN_DT,restaurants,Hydra Estiatorio Mediterranean,49.2857071,-123.1161599
+VAN_DT,restaurants,Freshslice Pizza,49.2740753,-123.1220882
+VAN_DT,restaurants,Tim Hortons,49.2830656,-123.1164538
+VAN_DT,restaurants,Mr Shawarma,49.2831011,-123.1171034
+VAN_DT,restaurants,Mapo Pancake House,49.2750379,-123.1211163
+VAN_DT,restaurants,Pokébar,49.2800438,-123.130923
+VAN_DT,restaurants,Yaletown Brewing Company,49.2755553,-123.1208603
+VAN_DT,restaurants,Momo Sushi,49.2903487,-123.1342776
+VAN_DT,restaurants,Popeyes,49.2794927,-123.114359
+VAN_DT,restaurants,Subway,49.2859088,-123.1119662
+VAN_DT,restaurants,Real Fruit Bubble Tea,49.2858583,-123.1118595
+VAN_DT,restaurants,Coal Harbour Cafe,49.2883311,-123.1126862
+VAN_DT,restaurants,Cha Yuan,49.2740045,-123.1223976
+VAN_DT,restaurants,Subway,49.2887314,-123.1281326
+VAN_DT,restaurants,Take Five Café,49.2903172,-123.12894
+VAN_DT,restaurants,Nom Nom,49.2899614,-123.1333321
+VAN_DT,restaurants,Avohouse Japanese Restaurant,49.2889396,-123.131209
+VAN_DT,restaurants,Macu Tea,49.2874292,-123.1288956
+VAN_DT,restaurants,De Dutch,49.2900459,-123.116951
+VAN_DT,restaurants,Tim Hortons,49.279992,-123.117306
+VAN_DT,restaurants,Tendon Kohaku,49.2809639,-123.122118
+VAN_DT,restaurants,DD Mau,49.2738992,-123.1227769
+VAN_DT,restaurants,Panago,49.2737512,-123.123314
+VAN_DT,restaurants,Acquafarina,49.2810385,-123.1151572
+VAN_DT,restaurants,Chipotle,49.2792846,-123.116924
+VAN_DT,restaurants,Field & Social,49.2759442,-123.1197913
+VAN_DT,restaurants,Cafe W,49.2856225,-123.126701
+VAN_DT,restaurants,Did's Pizza,49.2828529,-123.1149841
+VAN_DT,restaurants,bb.q Chicken,49.2890176,-123.13128
+VAN_DT,restaurants,Tå Bom Korean Cuisine,49.2890079,-123.131903
+VAN_DT,restaurants,Noodle Arts,49.2910088,-123.1344607
+VAN_DT,restaurants,Auto Strada,49.2743885,-123.1309865
+VAN_DT,restaurants,Kosoo,49.2850507,-123.125811
+VAN_DT,restaurants,Honolulu Coffee,49.2799117,-123.12505
+VAN_DT,restaurants,The Golden Horn Turkish Bakery & Cafe,49.2893941,-123.1148812
+VAN_DT,restaurants,Gyu King Teppanyaki,49.2840553,-123.122434
+VAN_DT,restaurants,Living Foods,49.2826712,-123.1178553
+VAN_DT,restaurants,Sweet 7,49.2902478,-123.133814
+VAN_DT,restaurants,Maxine's Cafe & Bar,49.27789,-123.131368
+VAN_DT,restaurants,Honeybrew Strudel Bar,49.2777831,-123.1268414
+VAN_DT,restaurants,Starbucks,49.2825404,-123.116622
+VAN_DT,restaurants,Jugo Juice,49.2821984,-123.1186974
+VAN_DT,restaurants,Linh Café,49.2746748,-123.129537
+VAN_DT,restaurants,Monzo Burger,49.2749894,-123.1298409
+VAN_DT,restaurants,Ça Marche,49.2745994,-123.130842
+VAN_DT,restaurants,Nam San,49.2894379,-123.132717
+VAN_DT,restaurants,Tokyo in April,49.2804535,-123.107356
+VAN_DT,restaurants,The Heaven on Granville,49.2788585,-123.1233752
+VAN_DT,restaurants,Horin Ramen + Sake,49.2861906,-123.127545
+VAN_DT,restaurants,Chicko Chicken,49.2863164,-123.1277326
+VAN_DT,restaurants,Zabu Chicken,49.289843,-123.13262
+VAN_DT,restaurants,Kaneko Hannosuke,49.2908178,-123.1341534
+VAN_DT,restaurants,Crave India,49.2791093,-123.1235206
+VAN_DT,restaurants,Fresh Donair,49.2791978,-123.123389
+VAN_DT,restaurants,Granville Kebab & Poutine,49.2791753,-123.1234235
+VAN_DT,restaurants,C Prime Modern Italian Steak & Wine,49.2808947,-123.127338
+VAN_DT,restaurants,Qieu,49.2793624,-123.107407
+VAN_DT,restaurants,Zubu,49.2818772,-123.123509
+VAN_DT,restaurants,Super Chef Grill,49.2785821,-123.11581
+VAN_DT,restaurants,Giovane Caffè,49.2880334,-123.1169453
+VAN_DT,restaurants,Kurotaki,49.2744888,-123.1256738
+VAN_DT,restaurants,Ignite Pizzeria Express,49.2846905,-123.111183
+VAN_DT,restaurants,Railtown,49.2852307,-123.114311
+VAN_DT,restaurants,Taf's Cafe,49.2811178,-123.1205
+VAN_DT,restaurants,Gong Cha,49.2811659,-123.1204439
+VAN_DT,restaurants,Happy Lemon,49.285752,-123.126884
+VAN_DT,restaurants,Napoletana Pizza,49.2860622,-123.1273577
+VAN_DT,restaurants,Camay Wok,49.2846465,-123.112562
+VAN_DT,restaurants,My Toan Vietnamese Gourmet,49.2845955,-123.1124903
+VAN_DT,restaurants,Harbour Spoon,49.2845516,-123.112411
+VAN_DT,restaurants,Thaï Express,49.2845146,-123.1123326
+VAN_DT,restaurants,Fatburger,49.2844796,-123.1122746
+VAN_DT,restaurants,Bubble Waffle Cafe,49.284398,-123.112144
+VAN_DT,restaurants,Little Japan,49.2843495,-123.1120745
+VAN_DT,restaurants,Salad Loop,49.2844646,-123.1119722
+VAN_DT,restaurants,Osaka Sushi & Oshi,49.2845282,-123.1120539
+VAN_DT,restaurants,Hugo's Coffee,49.2845844,-123.1121362
+VAN_DT,restaurants,Teppan Kitchen,49.2846964,-123.1121842
+VAN_DT,restaurants,Rice 'N Spice,49.284732,-123.1121303
+VAN_DT,restaurants,Brooklyn Dumpling Shop,49.2798702,-123.1178068
+VAN_DT,restaurants,The Food Story Cuisine,49.2791791,-123.11713
+VAN_DT,restaurants,,49.2835545,-123.1143209
+VAN_DT,restaurants,La Prep,49.2829198,-123.1179071
+VAN_DT,restaurants,Holts Café,49.2845675,-123.116288
+VAN_DT,restaurants,Take Five Café,49.2833899,-123.117124
+VAN_DT,restaurants,Hula,49.2832543,-123.117706
+VAN_DT,restaurants,Tractor,49.2847278,-123.1155552
+VAN_DT,restaurants,Orange Julius,49.2830324,-123.117697
+VAN_DT,restaurants,A&W,49.2832223,-123.117663
+VAN_DT,restaurants,Trees Organic Coffee,49.2818796,-123.124522
+VAN_DT,restaurants,Kafka's Coffee,49.2790265,-123.119065
+VAN_DT,restaurants,Kyochon Chicken,49.2885778,-123.1306706
+VAN_DT,restaurants,Pizza Hut,49.2909157,-123.134307
+VAN_DT,restaurants,Sushi Bar Maumi,49.2900302,-123.133493
+VAN_DT,restaurants,Viet Sub Vietnamese Cuisine,49.2901318,-123.1336518
+VAN_DT,restaurants,Vegas Donuts,49.2896956,-123.132978
+VAN_DT,restaurants,Blenz Coffee,49.2896767,-123.132304
+VAN_DT,restaurants,Pho 37 Vietnamese Restaurant,49.2891307,-123.1321209
+VAN_DT,restaurants,CinCin Ristorante + Bar,49.2852965,-123.1262599
+VAN_DT,restaurants,Forêt Noire Café,49.2850251,-123.1257769
+VAN_DT,restaurants,Karma Lounge,49.2867846,-123.1243963
+VAN_DT,restaurants,Craffles,49.2759622,-123.1246588
+VAN_DT,restaurants,Freshslice Pizza,49.2858144,-123.126964
+VAN_DT,restaurants,Starbucks,49.2858656,-123.124319
+VAN_DT,restaurants,Eh! Restaurant,49.2846571,-123.123248
+VAN_DT,restaurants,Red Burrito,49.2862649,-123.125507
+VAN_DT,restaurants,Bread x Butter,49.2843952,-123.1198026
+VAN_DT,restaurants,Cavo Bar+Kitchen,49.2802282,-123.121882
+VAN_DT,restaurants,Roxy Burger,49.2799776,-123.121632
+VAN_DT,restaurants,Cafe Club,49.2846946,-123.121891
+VAN_DT,restaurants,Pallet Coffee Roasters,49.286852,-123.122304
+VAN_DT,restaurants,Melville Café,49.2874862,-123.123855
+VAN_DT,restaurants,Mangez Mangez,49.2863855,-123.12271
+VAN_DT,restaurants,Giovane Caffè,49.2806489,-123.1157638
+VAN_DT,restaurants,Sharetea,49.2761813,-123.1194321
+VAN_DT,restaurants,L'Apres Midi Patisserie,49.2899471,-123.128186
+VAN_DT,restaurants,Green Leaf Salad Bar,49.2879697,-123.123681
+VAN_DT,restaurants,Captain's Oven Pizza,49.2875711,-123.121131
+VAN_DT,restaurants,Guu,49.2847824,-123.110352
+VAN_DT,restaurants,Kamei Royale,49.2872989,-123.118403
+VAN_DT,restaurants,Aidan’s Coffee & Food,49.2876599,-123.118113
+VAN_DT,restaurants,Tractor,49.2875812,-123.116761
+VAN_DT,restaurants,P2B Restaurant + Bar,49.2884353,-123.1205374
+VAN_DT,restaurants,Sulbing Cafe Robson,49.2896203,-123.1328373
+VAN_DT,restaurants,AlHadbah Donair,49.2896414,-123.1328634
+VAN_DT,restaurants,Palate Kitchen,49.286264,-123.1156676
+VAN_DT,restaurants,Cafe Tica,49.2803407,-123.1198129
+VAN_DT,restaurants,Kafka's,49.2824748,-123.1089178
+VAN_DT,restaurants,Grab N Go,49.2748562,-123.1229971
+VAN_DT,restaurants,H Kitchen,49.280447,-123.118809
+VAN_DT,restaurants,Ole Chicken,49.286515,-123.128029
+VAN_DT,restaurants,Open Outcry,49.2855708,-123.1159896
+VAN_DT,restaurants,Hundy,49.2757371,-123.1222786
+VAN_DT,restaurants,C4U Cafe,49.2819068,-123.1254132
+VAN_DT,restaurants,Zac Zac,49.2804298,-123.1187668
+VAN_DT,restaurants,Il Nido Italian Restaurant,49.2846388,-123.124156
+VAN_DT,restaurants,Pizza Pizza,49.2791324,-123.1159876
+VAN_DT,restaurants,Deville Coffee,49.2853769,-123.1242222
+VAN_DT,restaurants,Lattea,49.2857648,-123.126293
+VAN_DT,restaurants,Hida Takayama Ramen,49.2894518,-123.1328229
+VAN_DT,restaurants,Starbucks,49.2850347,-123.1206124
+VAN_DT,restaurants,Tim Hortons,49.2796913,-123.1098414
+VAN_DT,restaurants,Starbucks,49.2809943,-123.1142019
+VAN_DT,restaurants,Carve/Catch,49.2776463,-123.1096758
+VAN_DT,restaurants,Steamers,49.2776235,-123.1094568
+VAN_DT,restaurants,Triple Os,49.2775257,-123.1087373
+VAN_DT,restaurants,Captains Room,49.2783144,-123.1086913
+VAN_DT,restaurants,Konica Minolta Champion's Club,49.2779281,-123.1094291
+VAN_DT,restaurants,Dawson's Hot Dogs,49.277322,-123.1110668
+VAN_DT,restaurants,oyo Korean Noodles,49.2807802,-123.1249609
+VAN_DT,restaurants,Time Out Cafe,49.2870978,-123.1233125
+VAN_DT,restaurants,Booster Juice,49.284827,-123.1116421
+VAN_DT,restaurants,Carnitas Don Jose,49.2803187,-123.107113
+VAN_DT,restaurants,Yunqueen - Rice Noodles,49.2883455,-123.1309604
+VAN_DT,restaurants,Popeyes,49.280525,-123.1214879
+VAN_DT,restaurants,Ban Bu Xian Szechuan,49.286717,-123.1283561
+VAN_DT,restaurants,Haifa,49.2805071,-123.11573
+VAN_DT,restaurants,Quesada,49.2888365,-123.1149962
+VAN_DT,restaurants,Sonder Cafe,49.2845171,-123.1092219
+VAN_DT,restaurants,Hungrey Zus,49.2851447,-123.1144698
+VAN_DT,restaurants,Panago,49.2775891,-123.1091743
+VAN_DT,restaurants,Madrí Excepcional Lounge,49.2775858,-123.1083264
+VAN_DT,restaurants,Triple O's,49.2782019,-123.108729
+VAN_DT,restaurants,Rogers Studio Lounge,49.2777428,-123.1078905
+VAN_DT,restaurants,Crisp,49.2779311,-123.1080804
+VAN_DT,restaurants,Freshii,49.2770752,-123.1285901
+VAN_DT,restaurants,Caspian Castle Food,49.2797526,-123.1264371
+VAN_DT,restaurants,Speakeasy On Granville,49.2801234,-123.1220089
+VAN_DT,restaurants,bb.q Chicken,49.2789562,-123.1237394
+VAN_DT,restaurants,Andonis,49.2773483,-123.1261579
+VAN_DT,restaurants,Straight Outta Brooklyn Pizza,49.283885,-123.1070422
+VAN_DT,restaurants,Cheese Slap,49.2800928,-123.1220758
+VAN_DT,restaurants,JJ's Restaurant,49.2812999,-123.111673
+VAN_DT,restaurants,,49.2814266,-123.1114416
+VAN_DT,restaurants,Mr. Shawarma,49.2825719,-123.1215294
+VAN_DT,restaurants,Banter Room,49.2763183,-123.1197396
+VAN_DT,restaurants,Pizza Tori,49.2835387,-123.1148875
+VAN_DT,restaurants,Taco Bell,49.2795277,-123.1223805
+VAN_DT,restaurants,Club Kitchen,49.2749282,-123.1155829
+VAN_DT,restaurants,Belgian Chocolate Cafe,49.2749243,-123.1134509
+VAN_DT,restaurants,Taco Nori,49.2861625,-123.1196945
+VAN_DT,restaurants,Bacaro,49.2879492,-123.1166128
+VAN_DT,restaurants,Unni Pasteries,49.2747134,-123.1227701
+VAN_DT,restaurants,Starbucks,49.2884844,-123.1153946
+VAN_DT,restaurants,Steve's Poke Bar,49.2889585,-123.1148585
+VAN_DT,restaurants,Rice Noodle,49.2794815,-123.1224502
+VAN_DT,restaurants,Awesome Bagel & More,49.2865725,-123.11418
+VAN_DT,restaurants,The Flying Whale,49.2891794,-123.1100531
+VAN_DT,restaurants,Mott 32,49.2868949,-123.1245212
+VAN_DT,restaurants,Sai Plant Deli,49.2837191,-123.1121566
+VAN_DT,restaurants,Arc,49.2875047,-123.1139234
+VAN_DT,restaurants,Master Chef,49.2836678,-123.1162297
+VAN_DT,restaurants,Oakberry,49.2848095,-123.1108687
+VAN_DT,restaurants,Top of Vancouver,49.2849107,-123.1119842
+VAN_DT,restaurants,Ciclo Espresso The Post,49.2809262,-123.1150452
+VAN_DT,restaurants,Deville Coffee,49.2813023,-123.113332
+VAN_DT,restaurants,Oakberry Acai,49.2812993,-123.1137687
+VAN_DT,restaurants,Artigiano,49.2813206,-123.1167852
+VAN_DT,restaurants,Thaï Express,49.2872098,-123.1140737
+VAN_DT,restaurants,Chatime,49.2870296,-123.1142452
+VAN_DT,restaurants,Subway,49.2874125,-123.1142208
+VAN_DT,restaurants,Hula,49.2873873,-123.1141203
+VAN_DT,restaurants,Fatburger,49.2871978,-123.1146004
+VAN_DT,restaurants,We Grill,49.2871809,-123.113993
+VAN_DT,restaurants,My Toan,49.2871707,-123.1145323
+VAN_DT,restaurants,Umi Sushi Express,49.2871192,-123.114393
+VAN_DT,restaurants,Famous Wok,49.2872138,-123.1138197
+VAN_DT,restaurants,Jugo Juice,49.2873606,-123.1140294
+VAN_DT,restaurants,Basha,49.2871645,-123.1138993
+VAN_DT,restaurants,Gong Cha,49.2810255,-123.1130938
+VAN_DT,restaurants,Cactus Club Cafe,49.28963593160979,-123.1180578646505
+VAN_DT,restaurants,Boston Pizza,49.27717334999999,-123.1141199
+VAN_DT,restaurants,HY's Steakhouse,49.284651944685216,-123.11930625023223
+VAN_DT,restaurants,JJ Bean,49.279189553070395,-123.11498188965469
+VAN_DT,restaurants,Happy Noodle House,49.27667823347793,-123.12579374771285
+VAN_DT,restaurants,Kobe,49.28452691282821,-123.12312213236768
+VAN_DT,transit_stops,Granville St (SB) at West Georgia St,49.2827522,-123.1178908
+VAN_DT,transit_stops,West Georgia Street (WB) at Burrard Street (1),49.2848161,-123.1214762
+VAN_DT,transit_stops,Granville St (SB) at Nelson St,49.2789042,-123.1237081
+VAN_DT,transit_stops,Granville St (SB) at Davie St,49.2767756,-123.1269246
+VAN_DT,transit_stops,West Georgia St (WB) at Bute St,49.2874063,-123.1255385
+VAN_DT,transit_stops,West Georgia St (EB) at Bute St,49.2867133,-123.1249166
+VAN_DT,transit_stops,Granville St (NB) at Drake St,49.2764381,-123.1270861
+VAN_DT,transit_stops,West Georgia St (WB) at Cardero St,49.2908853,-123.130788
+VAN_DT,transit_stops,West Georgia Street (EB) at Broughton Street,49.2886283,-123.1278628
+VAN_DT,transit_stops,Granville St (SB) at Drake St,49.275801,-123.1283517
+VAN_DT,transit_stops,West Georgia Street (WB) at Broughton Street,49.2894024,-123.1286226
+VAN_DT,transit_stops,West Georgia St (EB) at Cardero St,49.2902387,-123.130375
+VAN_DT,transit_stops,Granville St (NB) at West Georgia St,49.2822977,-123.1182691
+VAN_DT,transit_stops,West Georgia St (EB) at Granville St,49.2825458,-123.1184205
+VAN_DT,transit_stops,West Georgia St (WB) at Bute St,49.2874867,-123.1256656
+VAN_DT,transit_stops,Davie St (WB) at Richards St,49.2760502,-123.1243228
+VAN_DT,transit_stops,Yaletown-Roundhouse Station Bay 1,49.2748036,-123.1224099
+VAN_DT,transit_stops,Expo Blvd (WB) at Nelson St,49.2747686,-123.1162973
+VAN_DT,transit_stops,Yaletown-Roundhouse Station Bay 2,49.2742729,-123.1219646
+VAN_DT,transit_stops,,49.2786617,-123.109008
+VAN_DT,transit_stops,Expo Blvd (WB) at Abbott St,49.2788117,-123.1080424
+VAN_DT,transit_stops,Cambie St (SB) at Robson St,49.2780406,-123.1153996
+VAN_DT,transit_stops,Waterfront Station Bay 2,49.2858589,-123.1123991
+VAN_DT,transit_stops,Seymour St (NB) at West Hastings St,49.2849036,-123.1123866
+VAN_DT,transit_stops,Seymour St (NB) at Davie St,49.2767956,-123.1246262
+VAN_DT,transit_stops,West Pender Street (WB) NS Howe Street (Bay 1),49.2851814,-123.1154796
+VAN_DT,transit_stops,Burrard Street (NB) at Davie Street,49.2788989,-123.1292418
+VAN_DT,transit_stops,West Hastings St (WB) at Hamilton St,49.2830825,-123.1102501
+VAN_DT,transit_stops,West Hastings St (WB) FS Abbott St,49.2822636,-123.1081571
+VAN_DT,transit_stops,Granville St (NB) at Davie St,49.2775601,-123.125456
+VAN_DT,transit_stops,West Georgia St (WB) at Granville St,49.2823357,-123.1176509
+VAN_DT,transit_stops,West Hastings St (WB) at Granville St,49.2852648,-123.1136199
+VAN_DT,transit_stops,West Georgia St (WB) at Homer St,49.2809293,-123.1154633
+VAN_DT,transit_stops,Davie St (EB) at Howe St,49.2775703,-123.1270293
+VAN_DT,transit_stops,Burrard St (NB) at Comox St,49.280719,-123.1265302
+VAN_DT,transit_stops,Davie St (EB) at Thurlow St,49.2801547,-123.1310251
+VAN_DT,transit_stops,Davie Street (WB) at Burrard Street,49.2794785,-123.1296247
+VAN_DT,transit_stops,Granville St (SB) at West Pender St,49.2841182,-123.1158573
+VAN_DT,transit_stops,Burrard Station Bay 1,49.2854032,-123.1198942
+VAN_DT,transit_stops,Burrard Street (SB) at Davie Street,49.2789385,-123.1296767
+VAN_DT,transit_stops,Davie St (WB) at Thurlow St,49.2808197,-123.1317151
+VAN_DT,transit_stops,Robson Street (WB) at Granville Street,49.2812744,-123.1195259
+VAN_DT,transit_stops,West Hastings St (EB) at Granville St,49.2854072,-123.1142274
+VAN_DT,transit_stops,West Pender Street (WB) at Granville St,49.2838931,-123.1135029
+VAN_DT,transit_stops,Burrard St (SB) at Nelson St,49.281012,-123.1265211
+VAN_DT,transit_stops,Burrard Station Bay 7,49.2847093,-123.1204962
+VAN_DT,transit_stops,Burrard St (SB) at Smithe St,49.2820471,-123.1249485
+VAN_DT,transit_stops,West Pender St (EB) at Burrard St,49.2861084,-123.1172706
+VAN_DT,transit_stops,Burrard St (SB) at Robson St,49.2830874,-123.1233743
+VAN_DT,transit_stops,Burrard St (NB) at Pacific St,49.2772602,-123.131799
+VAN_DT,transit_stops,Davie Street (EB) at Burrard Street,49.278798,-123.1289293
+VAN_DT,transit_stops,Cambie St (SB) at West Georgia St,49.2797021,-123.1129024
+VAN_DT,transit_stops,Howe St (SB) at Nelson St,49.2796652,-123.1245488
+VAN_DT,transit_stops,Seymour St (NB) at Nelson St,49.278802,-123.1216436
+VAN_DT,transit_stops,Howe Street (SB) FS Dunsmuir Street (Bay 4),49.284111,-123.1178318
+VAN_DT,transit_stops,Howe Street (SB) NS Dunsmuir Street (Bay 3),49.2845897,-123.1171088
+VAN_DT,transit_stops,Howe St (SB) at West Georgia St,49.2829075,-123.1196584
+VAN_DT,transit_stops,Howe Street (SB) at West Pender Street (Unloading Only Stop),49.2847338,-123.1168853
+VAN_DT,transit_stops,Howe St (SB) at Robson St,49.2817879,-123.1213268
+VAN_DT,transit_stops,Burrard Station Bay 2,49.2860372,-123.1203508
+VAN_DT,transit_stops,West Pender St (WB) at Granville St,49.2845748,-123.1145503
+VAN_DT,transit_stops,West Pender St (EB) at Granville St,49.2847902,-123.1152515
+VAN_DT,transit_stops,Abbott St (SB) at West Pender St,49.2807099,-123.1077459
+VAN_DT,transit_stops,West Georgia St (WB) at Granville St,49.2828954,-123.118514
+VAN_DT,transit_stops,Richards St (SB) at West Hastings St,49.2838223,-123.1124192
+VAN_DT,transit_stops,Cambie St (SB) at Dunsmuir St,49.2808966,-123.111093
+VAN_DT,transit_stops,West Pender St (EB) at Bute St,49.2881406,-123.1228472
+VAN_DT,transit_stops,West Pender St (EB) at Nicola St,49.2898789,-123.1287392
+VAN_DT,transit_stops,Waterfront Station Bay 4,49.2850341,-123.1116168
+VAN_DT,transit_stops,West Cordova St (EB) at Homer St,49.2836607,-123.1095141
+VAN_DT,transit_stops,West Pender St (EB) at Thurlow St,49.2873089,-123.1199601
+VAN_DT,transit_stops,West Pender St (EB) at Jervis St,49.2888295,-123.1251926
+VAN_DT,transit_stops,West Pender St (WB) at Bute St,49.2885818,-123.1236795
+VAN_DT,transit_stops,Granville St (NB) at Dunsmuir St,49.283476,-123.1164903
+VAN_DT,transit_stops,Granville St (NB) at West Hastings St,49.2855122,-123.1133926
+VAN_DT,transit_stops,Burrard Station Bay 3,49.2864054,-123.1217501
+VAN_DT,transit_stops,Granville St (NB) at Smithe St,49.2808194,-123.1204881
+VAN_DT,transit_stops,Granville St (NB) at West Pender St,49.2845003,-123.1149644
+VAN_DT,transit_stops,Howe Street (SB) at West Pender Street (Bay 2),49.2850859,-123.1163427
+VAN_DT,transit_stops,Burrard St (NB) at Robson St,49.2835996,-123.1221083
+VAN_DT,transit_stops,West Pender St (WB) at Hamilton St,49.2824943,-123.1113504
+VAN_DT,transit_stops,Davie St (WB) at Howe St,49.2780753,-123.1274637
+VAN_DT,transit_stops,West Hastings St (EB) at Homer St,49.283069,-123.1106111
+VAN_DT,transit_stops,West Hastings St (EB) at Seymour St,49.2844207,-123.1127019
+VAN_DT,transit_stops,West Hastings St (EB) at Cambie St,49.2822794,-123.1092617
+VAN_DT,transit_stops,Beach Ave (WB) at Howe St,49.2749669,-123.1320679
+VAN_DT,transit_stops,West Pender St (WB) at Abbott St,49.2813103,-123.108216
+VAN_DT,transit_stops,Davie St (WB) at Granville St,49.2774546,-123.1264924
+VAN_DT,transit_stops,Davie St (WB) at Bute St,49.2820026,-123.1335369
+VAN_DT,transit_stops,Davie St (EB) at Bute St,49.2814212,-123.1329834
+VAN_DT,transit_stops,Seymour St (NB) at Dunsmuir St,49.2827397,-123.1156364
+VAN_DT,transit_stops,Robson St (WB) at Burrard St,49.2835747,-123.1231614
+VAN_DT,transit_stops,Homer St (NB) at West Pender St,49.2829915,-123.1114408
+VAN_DT,transit_stops,West Pender St (EB) at Hamilton St,49.2817477,-123.1105728
+VAN_DT,transit_stops,Nelson St (EB) at Cambie St,49.2758367,-123.117892
+VAN_DT,transit_stops,Richards St (SB) at Dunsmuir St,49.2819302,-123.1152776
+VAN_DT,transit_stops,West Pender St (WB) at Broughton St,49.2897753,-123.127751
+VAN_DT,transit_stops,,49.2785977,-123.1301832
+VAN_DT,transit_stops,Robson St (WB) at Broughton St,49.2881793,-123.1301669
+VAN_DT,transit_stops,Davie St (EB) at Richards St,49.2759405,-123.1245246
+VAN_DT,transit_stops,Cambie St (SB) at West Hastings St,49.2822283,-123.1098163
+VAN_DT,transit_stops,West Pender St (EB) at Seymour Street,49.2837913,-123.1136748
+VAN_DT,transit_stops,Burrard Station Bay 6,49.2861453,-123.1182894
+VAN_DT,transit_stops,West Hastings St (WB) at Richards St,49.2844723,-123.1124136
+VAN_DT,transit_stops,Howe St (SB) at Davie St,49.277993,-123.1270606
+VAN_DT,transit_stops,Cambie St (NB) at Robson St,49.2783293,-123.1146356
+VAN_DT,transit_stops,Granville St (SB) at Robson St,49.2817187,-123.1194704
+VAN_DT,transit_stops,Robson St (EB) at Bidwell St,49.2902291,-123.1336701
+VAN_DT,transit_stops,Robson St (EB) at Broughton St,49.2876665,-123.1297363
+VAN_DT,transit_stops,Robson St (WB) at Cardero St,49.2897216,-123.1325539
+VAN_DT,transit_stops,West Pender St (WB) at Thurlow St,49.2877297,-123.1208138
+VAN_DT,transit_stops,Burrard Station Bay 4,49.2868523,-123.1212924
+VAN_DT,transit_stops,Robson St (WB) at Hamilton St,49.279143,-123.1162396
+VAN_DT,transit_stops,West Pender St (EB) at Abbott St,49.2809163,-123.1070927
+VAN_DT,transit_stops,Waterfront Station Bay 3,49.2856526,-123.1120764
+VAN_DT,transit_stops,Burrard Station Bay 5,49.2857615,-123.1193556
+VAN_DT,transit_stops,Cambie St (NB) at Dunsmuir St,49.2802117,-123.1117997
+VAN_DT,transit_stops,Cambie St (NB) at Nelson St,49.2762826,-123.1176854
+VAN_DT,transit_stops,Burrard St (SB) at Drake St,49.2778257,-123.1312633
+VAN_DT,transit_stops,Water St (WB) at Abbott St,49.2841295,-123.10745
+VAN_DT,transit_stops,Dunsmuir St (NB) at Cambie St,49.2808475,-123.1120383
+VAN_DT,transit_stops,Hop-On Hop-Off P1,49.2844767,-123.1094652
+VAN_DT,transit_stops,Hop-On Hop-Off C1,49.2844735,-123.1094565
+VAN_DT,transit_stops,Cambie St (SB) at Nelson St,49.2759566,-123.1184393
+VAN_DT,transit_stops,West Georgia St (WB) at Seymour St,49.2821238,-123.117313
+VAN_DT,transit_stops,West Pender Street (WB) FS Howe Street,49.2856289,-123.116175
+VAN_DT,transit_stops,,49.2754349,-123.130242
+VAN_DT,transit_stops,Yaletown-Roundhouse Station Bay 4,49.2740372,-123.1208293
+VAN_DT,transit_stops,Hop-On Hop-Off C5,49.2807021,-123.1269941
+VAN_DT,transit_stops,Yaletown-Roundhouse Station Bay 3,49.2740714,-123.1218702
+VAN_DT,transit_stops,Smithe St (WB) at Expo Blvd,49.2761926,-123.1149684
+VAN_DT,transit_stops,West Pender St (EB) at Broughton St,49.2893931,-123.1271005
+VAN_DT,transit_stops,Seymour St (NB) at Robson St,49.2809707,-123.1183121
+VAN_DT,transit_stops,Tour Busses,49.2878675,-123.1142846
+VAN_DT,transit_stops,hop-on hop-off stop,49.2825326,-123.1241855
+VAN_DT,transit_stops,Davie St (EB) at Granville St,49.2769142,-123.1260215
+VAN_DT,transit_stops,Pat Quinn Way (NB) at Expo Blvd,49.2783914,-123.1075218
+VAN_DT,transit_stops,Pat Quinn Way (NB) at Pacific Blvd,49.2774349,-123.1075514
+VAN_DT,transit_stops,Pacific Blvd (EB) at Marinaside Cres,49.2742134,-123.11445
+VAN_DT,transit_stops,West Georgia St (EB) at Homer St,49.2802345,-123.1148762
+VAN_DT,transit_stops,Canada Place,49.2879688,-123.1146561
+VAN_DT,transit_stops,West Georgia St (EB) at Seymour St,49.281522,-123.116874
+VAN_DT,transit_stops,Seymour St (NB) at West Georgia St,49.281463,-123.1175695
+VAN_DT,transit_stops,,49.2813562,-123.1255011
+VAN_DT,transit_stops,Waterfront Station Bay 1,49.2862614,-123.1130405
+VAN_DT,transit_stops,,49.2743928,-123.1286709
+VAN_DT,transit_stops,West Georgia St (WB) At Richards St,49.2812063,-123.1158894
+VAN_DT,transit_stops,Burrard St (SB) At West Georgia St,49.2842031,-123.1217087
+VAN_DT,transit_stops,West Pender St (WB) at Burrard St,49.286867,-123.1180275
+VAN_DT,transit_stops,Burrard St (NB) at Smithe St,49.2823423,-123.1240046
+VAN_DT,transit_stops,Capilano Bridge Shuttle Stop #2,49.2853078,-123.1204276
+VAN_DT,transit_stops,Capilano Bridge Shuttle Stop #1,49.288006,-123.114697
+VAN_DT,transit_stops,Robson St (WB) at Thurlow St,49.2848426,-123.1250767
+VAN_DT,transit_stops,Robson St (EB) at Thurlow St,49.2843758,-123.124645
+VAN_DT,transit_stops,West Georgia Street (EB) at Burrard Street,49.2839242,-123.1205789
+VAN_DT,transit_stops,West Georgia Street (WB) at Burrard Street,49.2843328,-123.1207852
+VAN_DT,transit_stops,Cordova Street (WB) at Abbott Street,49.2830716,-123.1072011
+VAN_DT,transit_stops,Robson St (WB) at Bute St,49.2858737,-123.1266823
+VAN_DT,transit_stops,Robson St (EB) at Bute St,49.2861321,-123.1272314
+VAN_DT,transit_stops,,49.2739994,-123.1276912
+VAN_DT,parks,Victory Square,49.28219946781633,-123.11018490040755
+VAN_DT,parks,May & Lorne Brown Park,49.27520985447449,-123.1320751234568
+VAN_DT,parks,Emery Barnes Park,49.276638583390486,-123.12411602562167
+VAN_DT,parks,Helmcken Park,49.27491937517116,-123.11971549017443
+VAN_DT,parks,Yaletown Park,49.2770372004275,-123.11897794471795
+VAN_DT,parks,Cathedral Square,49.282486149759286,-123.1137245629377
+VAN_DT,parks,Art Phillips Park,49.28565900211916,-123.12030245086731
+VAN_DT,parks,Nelson Park,49.282855263410895,-123.1296466491843
+VAN_DT,parks,Barclay Heritage Square,49.287236955997244,-123.13223735711188
+VAN_DT,parks,Portal Park,49.28804291331091,-123.11919520875871
+VAN_DT,parks,Harbour Green Park,49.29005951695377,-123.12157278633008
+VAN_DT,parks,Coopers' Park,49.27323308996286,-123.1142770729161
+VAN_DT,parks,Coal Harbour Park,49.290033469684055,-123.12492929465766
+VAN_DT,parks,BC Hydro Plaza,49.2815502889939,-123.11266785419899
+VAN_DT,parks,sθәqәlxenәm ts'exwts'áxwi7 (Rainbow Park),49.27919201399363,-123.11871496370347
+VAN_DT,parks,,49.27393517894783,-123.12323008788556
+VAN_DT,parks,Saint Julien Square,49.27912877300217,-123.1110912620696
+VAN_DT,parks,Ring Gear,49.27431050916654,-123.11715637155349
+VAN_DT,parks,Robson Square,49.282697058326,-123.12074941693446
+VAN_DT,parks,,49.28649119754358,-123.12508338402829
+VAN_DT,parks,,49.273318536252134,-123.12170752557084
+VAN_DT,parks,,49.28563107215825,-123.13339857572402
+VAN_DT,grocery,7-Eleven,49.2829841,-123.115166
+VAN_DT,grocery,Nesters Market,49.278642,-123.1216903
+VAN_DT,grocery,IGA,49.2800788,-123.1174613
+VAN_DT,grocery,7-Eleven,49.2788081,-123.116272
+VAN_DT,grocery,7-Eleven,49.2760946,-123.127478
+VAN_DT,grocery,Sashimiya,49.2767415,-123.130413
+VAN_DT,grocery,Urban Fare,49.2892045,-123.1225516
+VAN_DT,grocery,Choices Market,49.2757311,-123.124231
+VAN_DT,grocery,IGA,49.2822136,-123.124929
+VAN_DT,grocery,Martway,49.2743145,-123.1221035
+VAN_DT,grocery,7-Eleven,49.2764951,-123.1216802
+VAN_DT,grocery,大統華 T&T Supermarket,49.2799356,-123.1081374
+VAN_DT,grocery,H Mart,49.2805229,-123.118864
+VAN_DT,grocery,7-Eleven,49.2884384,-123.122991
+VAN_DT,grocery,Urban Fare,49.2859852,-123.1244926
+VAN_DT,grocery,Mart Way,49.2803888,-123.131473
+VAN_DT,grocery,One Stop Shop,49.279649,-123.123989
+VAN_DT,grocery,Granville Food Market,49.2781932,-123.1242984
+VAN_DT,grocery,7-Eleven,49.2765465,-123.115167
+VAN_DT,grocery,Danial Market,49.2872617,-123.1335205
+VAN_DT,grocery,Foodness Supermarket,49.279303,-123.1213597
+VAN_DT,grocery,Victory Food Market,49.2822519,-123.109283
+VAN_DT,grocery,Oscar's Smoke Shop,49.2811016,-123.124385
+VAN_DT,grocery,Terrace Smoke Shop,49.2819564,-123.123078
+VAN_DT,grocery,Burrard Corner Store,49.2783946,-123.130591
+VAN_DT,grocery,Urban Choice Market,49.277439,-123.12696
+VAN_DT,grocery,Al-Madina General Store,49.2833921,-123.113138
+VAN_DT,grocery,My Convenience Store,49.283786,-123.1118241
+VAN_DT,grocery,Seymour Mini Mart,49.2840683,-123.1134863
+VAN_DT,grocery,Neotown,49.2794688,-123.107847
+VAN_DT,grocery,Mexican Stop,49.2816781,-123.107508
+VAN_DT,grocery,Jubilee Smoke & Things,49.2862492,-123.1165796
+VAN_DT,grocery,7-Eleven,49.2802877,-123.1074
+VAN_DT,grocery,Smoke & Food Market,49.280083,-123.1208635
+VAN_DT,grocery,Express News,49.2828522,-123.107023
+VAN_DT,grocery,Nesters Market,49.2825578,-123.1071738
+VAN_DT,grocery,Mi Tierra Latina,49.2804768,-123.131611
+VAN_DT,grocery,Kin's Farm Market,49.2812854,-123.132874
+VAN_DT,grocery,Cherry Market,49.2868204,-123.1286434
+VAN_DT,grocery,Circle K,49.2818491,-123.116762
+VAN_DT,grocery,Fujiya,49.2870439,-123.119786
+VAN_DT,grocery,Your Dollar Store,49.2763124,-123.1208
+VAN_DT,grocery,Farm to Table,49.2745481,-123.1259674
+VAN_DT,grocery,Stop 'n Go,49.274455,-123.126735
+VAN_DT,grocery,Konbiniya Japan Centre,49.2863788,-123.127863
+VAN_DT,grocery,Dank Mart,49.2844311,-123.125345
+VAN_DT,grocery,Aria Market,49.2902777,-123.1344236
+VAN_DT,grocery,Yaletown Express,49.2740907,-123.120278
+VAN_DT,grocery,Fresco Foods,49.2819265,-123.1329073
+VAN_DT,grocery,El Paisano,49.2787756,-123.1283516
+VAN_DT,grocery,Fresh Street Market,49.275371,-123.130507
+VAN_DT,grocery,Circle K,49.2815956,-123.133376
+VAN_DT,grocery,Freshco Food Mart,49.2893278,-123.129092
+VAN_DT,grocery,Easy Day Store,49.275085,-123.1326542
+VAN_DT,grocery,Loblaws,49.2810656,-123.1140114
+VAN_DT,grocery,Harbour News,49.2849258,-123.1122173
+VAN_DT,grocery,Aisle 24 Market,49.2882438,-123.1308257
+VAN_DT,grocery,Whole Foods Market,49.290088,-123.132668
+VAN_DT,grocery,Your Independent Grocer,49.28251089763712,-123.1339097815643
+VAN_KITS,schools,St John's School,49.26316169572709,-123.15613069934427
+VAN_KITS,schools,Kitsilano Secondary,49.262110886096515,-123.16360728599064
+VAN_KITS,schools,General Gordon Elementary School,49.2659886,-123.17043754999999
+VAN_KITS,schools,Fraser Academy,49.26266977268926,-123.1572592729317
+VAN_KITS,schools,Bayview School,49.26644140181393,-123.18274063402343
+VAN_KITS,schools,Kitsilano Secondary School,49.26210128676517,-123.16364115167961
+VAN_KITS,restaurants,McDonald's,49.2640388,-123.178066
+VAN_KITS,restaurants,Olympia Pizza,49.2643413,-123.1760619
+VAN_KITS,restaurants,East is East,49.2642766,-123.1727212
+VAN_KITS,restaurants,JJ Bean,49.2639716,-123.1702755
+VAN_KITS,restaurants,Folke,49.2641587,-123.164402
+VAN_KITS,restaurants,Thomas Haas Chocolates,49.264149,-123.1633
+VAN_KITS,restaurants,Platform 7,49.2637411,-123.1578526
+VAN_KITS,restaurants,Banana Leaf,49.26428,-123.1722925
+VAN_KITS,restaurants,Cafe Lokal,49.2681926,-123.1647247
+VAN_KITS,restaurants,Hi Nippon,49.2680378,-123.1569284
+VAN_KITS,restaurants,Provisions Kitsilano,49.2680441,-123.1573309
+VAN_KITS,restaurants,White Spot,49.2637686,-123.163261
+VAN_KITS,restaurants,Artistry Coffee Shop & Bistro,49.2685244,-123.1709004
+VAN_KITS,restaurants,Tim Hortons,49.264044,-123.174166
+VAN_KITS,restaurants,Subway,49.2639983,-123.1737583
+VAN_KITS,restaurants,Pho Japolo,49.2642246,-123.1686344
+VAN_KITS,restaurants,Mamalee,49.264051,-123.175052
+VAN_KITS,restaurants,Uncle Pu's Sichuan Taste,49.2640543,-123.1748733
+VAN_KITS,restaurants,nuba,49.2640299,-123.1745214
+VAN_KITS,restaurants,Neverland Tea Salon,49.2640168,-123.173364
+VAN_KITS,restaurants,Domino's,49.2639753,-123.171349
+VAN_KITS,restaurants,Tandoori Fusion,49.2639522,-123.169522
+VAN_KITS,restaurants,The Painted Ship,49.2639533,-123.169618
+VAN_KITS,restaurants,Uncle Fatih's Pizza,49.2639335,-123.167823
+VAN_KITS,restaurants,iki Japanese Bistro,49.2639326,-123.1676074
+VAN_KITS,restaurants,The Eatery,49.2644636,-123.180771
+VAN_KITS,restaurants,Amberdo Cafe and Bakery,49.268174,-123.165639
+VAN_KITS,restaurants,Karma Indian Bistro,49.2684763,-123.1671204
+VAN_KITS,restaurants,Simpatico,49.2680211,-123.1558693
+VAN_KITS,restaurants,Peaceful Restaurant,49.2681152,-123.1595834
+VAN_KITS,restaurants,Raisu,49.2681046,-123.1582908
+VAN_KITS,restaurants,Au Comptoir,49.2680391,-123.157013
+VAN_KITS,restaurants,Delara,49.2680363,-123.156837
+VAN_KITS,restaurants,Maria's Taverna,49.2680988,-123.1580755
+VAN_KITS,restaurants,McDonald's,49.2683578,-123.1595125
+VAN_KITS,restaurants,Starbucks,49.26437,-123.1674354
+VAN_KITS,restaurants,Starbucks,49.2686141,-123.158778
+VAN_KITS,restaurants,Cafe Zen,49.2711366,-123.1552312
+VAN_KITS,restaurants,Green Leaf Sushi,49.2640395,-123.1801008
+VAN_KITS,restaurants,Casereccio Foods,49.2641802,-123.15747
+VAN_KITS,restaurants,Kokomo,49.2678638,-123.1573505
+VAN_KITS,restaurants,IGA Bistro,49.2637272,-123.1573404
+VAN_KITS,restaurants,Yak & Yeti Bistro,49.2683055,-123.1723907
+VAN_KITS,restaurants,Hanoi Old Quarter Restaurant,49.2643226,-123.174195
+VAN_KITS,restaurants,Tachingón,49.264266,-123.171855
+VAN_KITS,restaurants,Pokay,49.2642652,-123.171801
+VAN_KITS,restaurants,Harvest Delicatessen,49.2642636,-123.1717479
+VAN_KITS,restaurants,Tera V Burger,49.2642602,-123.1716944
+VAN_KITS,restaurants,Double DD Pizza,49.2684317,-123.1821761
+VAN_KITS,restaurants,Tyybeh,49.2682491,-123.1690256
+VAN_KITS,restaurants,Chewie's Chicken & Biscuits,49.2682488,-123.1687379
+VAN_KITS,restaurants,Nusa Coffee,49.2682531,-123.1677783
+VAN_KITS,restaurants,Healthy Noodle House,49.2682236,-123.16677
+VAN_KITS,restaurants,Sunshine Classic Diner,49.264159,-123.165409
+VAN_KITS,restaurants,Dark Table,49.2684412,-123.1647514
+VAN_KITS,restaurants,"Puerto Mexico, Tacos and Mexican Products",49.2682229,-123.1666416
+VAN_KITS,restaurants,Napoli Pastas and More,49.2682216,-123.1665951
+VAN_KITS,restaurants,Thai Ni Yom,49.2685203,-123.1706945
+VAN_KITS,restaurants,Nishi Restaurant,49.2685192,-123.1706435
+VAN_KITS,restaurants,Lucky Taco,49.2710152,-123.1552381
+VAN_KITS,restaurants,Thai Basil,49.2643867,-123.1772264
+VAN_KITS,restaurants,Kung Fu Tea,49.2642325,-123.1694173
+VAN_KITS,restaurants,Great Wall Mongolian BBQ,49.2642424,-123.1703112
+VAN_KITS,restaurants,Storm City Coffee,49.2644035,-123.180076
+VAN_KITS,restaurants,Simply Sushi Bar,49.2643924,-123.178298
+VAN_KITS,restaurants,China Lanzhou Beef Noodles,49.2643496,-123.176555
+VAN_KITS,restaurants,Colony,49.264355,-123.176937
+VAN_KITS,restaurants,Starbucks,49.2643151,-123.173779
+VAN_KITS,restaurants,Just Another,49.2640134,-123.172947
+VAN_KITS,restaurants,Midam Cafe,49.2643516,-123.1764671
+VAN_KITS,restaurants,Kitsilano Beach Cafe,49.2730547,-123.157463
+VAN_KITS,restaurants,Enroute Coffee,49.2709577,-123.1553756
+VAN_KITS,restaurants,Haidilao Hot Pot,49.2640311,-123.176224
+VAN_KITS,restaurants,Ahi Sushi,49.2642236,-123.168976
+VAN_KITS,restaurants,Petite Bao,49.2642236,-123.169086
+VAN_KITS,restaurants,Rice and Noodle,49.2642338,-123.1694864
+VAN_KITS,restaurants,The Corner Hotpot,49.2642354,-123.170206
+VAN_KITS,restaurants,Viva Cafe & Bakery,49.2720193,-123.1551831
+VAN_KITS,restaurants,The Naam,49.2682285,-123.166974
+VAN_KITS,restaurants,Ah Long Sushi,49.2641806,-123.16623
+VAN_KITS,restaurants,Mr. Red Cafe,49.2639093,-123.1657872
+VAN_KITS,restaurants,Nat's New York Pizzaria,49.2639141,-123.1659273
+VAN_KITS,restaurants,Pure Delight Cafe,49.2640795,-123.1766615
+VAN_KITS,restaurants,Sahel,49.2643544,-123.1762496
+VAN_KITS,restaurants,La La Island,49.2643268,-123.17142
+VAN_KITS,restaurants,Nostos Taverna,49.2640543,-123.1753237
+VAN_KITS,restaurants,Oakberry,49.264348,-123.1749523
+VAN_KITS,restaurants,Koko Monk,49.2642405,-123.1699374
+VAN_KITS,restaurants,Panago,49.2642466,-123.1704877
+VAN_KITS,restaurants,Quesada,49.2642357,-123.1689277
+VAN_KITS,restaurants,Little Bird Dim Sum + Craft Beer,49.2682988,-123.1715376
+VAN_KITS,restaurants,Hestia Kitchen Lab,49.2709609,-123.1555104
+VAN_KITS,restaurants,Reggiano's Pizza,49.2682483,-123.1689158
+VAN_KITS,restaurants,CM Chicken,49.2711973,-123.1552278
+VAN_KITS,restaurants,Kits Coffee & Bistro,49.2686437,-123.1778637
+VAN_KITS,restaurants,Hitoe Sushi Japanese Restaurant,49.2686567,-123.1787206
+VAN_KITS,restaurants,Sazon Mexican Cuisine,49.2681971,-123.1661609
+VAN_KITS,restaurants,Dairy Queen,49.264245291139794,-123.16488722526387
+VAN_KITS,restaurants,Nook,49.272230797140985,-123.15531612326966
+VAN_KITS,transit_stops,West Broadway (WB) at Balsam Street,49.2640592,-123.1604829
+VAN_KITS,transit_stops,West Broadway (EB) at Vine Street,49.2637937,-123.1572781
+VAN_KITS,transit_stops,West Broadway (WB) at Yew St,49.2639836,-123.1557152
+VAN_KITS,transit_stops,West Broadway (EB) at Larch Street,49.2639039,-123.1619874
+VAN_KITS,transit_stops,West Broadway (WB) at Macdonald Street,49.2641696,-123.1675423
+VAN_KITS,transit_stops,West Broadway (EB) at Macdonald Street,49.2639788,-123.167293
+VAN_KITS,transit_stops,West Broadway (WB) FS Macdonald Street,49.2641881,-123.1688847
+VAN_KITS,transit_stops,West Broadway (WB) at Trafalgar Street,49.2641253,-123.1652062
+VAN_KITS,transit_stops,West Broadway (WB) at Collingwood Street,49.2643795,-123.1822855
+VAN_KITS,transit_stops,West Broadway (WB) at Bayswater St,49.2642055,-123.1716819
+VAN_KITS,transit_stops,West Broadway (WB) at Blenheim St,49.2643167,-123.1782706
+VAN_KITS,transit_stops,West Broadway (WB) at Balaclava St,49.2642547,-123.1744279
+VAN_KITS,transit_stops,West 4th Ave (EB) at Trafalgar St,49.2682089,-123.164132
+VAN_KITS,transit_stops,West 4th Ave (WB) at Macdonald St,49.2684797,-123.1689759
+VAN_KITS,transit_stops,Macdonald St (SB) at West Broadway,49.2642531,-123.1684135
+VAN_KITS,transit_stops,West Broadway (EB) at Balaclava St,49.2640934,-123.173552
+VAN_KITS,transit_stops,West Broadway (EB) at Bayswater St,49.2640539,-123.170827
+VAN_KITS,transit_stops,West 4th Ave (EB) at Macdonald St,49.2682673,-123.1677995
+VAN_KITS,transit_stops,Cornwall Ave (WB) at Yew St,49.2726538,-123.1554323
+VAN_KITS,transit_stops,Macdonald St (NB) at West 3rd Ave,49.2690777,-123.1681709
+VAN_KITS,transit_stops,West 4th Ave (EB) at Blenheim St,49.2684039,-123.1773214
+VAN_KITS,transit_stops,Macdonald Street (NB) at West 12th Avenue,49.2617683,-123.168146
+VAN_KITS,transit_stops,Macdonald St (SB) at West 6th Ave,49.2663017,-123.1685046
+VAN_KITS,transit_stops,Macdonald St (NB) at West 7th Ave,49.2660664,-123.1683018
+VAN_KITS,transit_stops,Macdonald Street (SB) at West 11th Avenue,49.2619012,-123.1683565
+VAN_KITS,transit_stops,West 4th Ave (EB) at Balsam St,49.2681507,-123.1594312
+VAN_KITS,transit_stops,Macdonald St (SB) at West 4th Ave,49.2680457,-123.1684485
+VAN_KITS,transit_stops,West 4th Ave (EB) at Balaclava St,49.2683486,-123.1733579
+VAN_KITS,transit_stops,West 4th Ave (WB) at Collingwood St,49.2686724,-123.182063
+VAN_KITS,transit_stops,Macdonald Street (SB) at West 13th Avenue,49.2601909,-123.168394
+VAN_KITS,transit_stops,West 4th Ave (WB) at Yew St,49.2682831,-123.1555879
+VAN_KITS,transit_stops,West 4th Ave (WB) at Balsam St,49.2683462,-123.1602532
+VAN_KITS,transit_stops,West 4th Ave (WB) at Blenheim St,49.2685969,-123.1780767
+VAN_KITS,transit_stops,Macdonald Street (NB) at West 13th Avenue,49.2602987,-123.1682014
+VAN_KITS,transit_stops,West 4th Ave (WB) at Balaclava St,49.2685407,-123.1742034
+VAN_KITS,transit_stops,West Broadway (EB) at Blenheim St,49.2641591,-123.177424
+VAN_KITS,transit_stops,West Broadway (EB) at Collingwood Street,49.2642302,-123.1814619
+VAN_KITS,transit_stops,West 4th Ave (EB) at Collingwood St,49.2684727,-123.1812912
+VAN_KITS,transit_stops,West 4th Ave (WB) at Trafalgar St,49.2684151,-123.1649414
+VAN_KITS,transit_stops,Macdonald St (NB) at West Broadway,49.2644822,-123.168177
+VAN_KITS,transit_stops,Cornwall Ave (EB) at Balsam St,49.272569,-123.159366
+VAN_KITS,transit_stops,Macdonald St (SB) at West 1st Ave,49.2707287,-123.1683288
+VAN_KITS,transit_stops,Cornwall Ave (EB) at Trafalgar St,49.2726394,-123.163921
+VAN_KITS,transit_stops,Macdonald St (NB) at West 2nd Ave,49.2703733,-123.168118
+VAN_KITS,transit_stops,West Broadway (EB) at Trafalgar Street,49.263903,-123.1642503
+VAN_KITS,transit_stops,Cornwall Ave (WB) at Point Grey Rd,49.2727529,-123.160186
+VAN_KITS,transit_stops,Macdonald St (NB) at West 10th Ave,49.2634491,-123.1681025
+VAN_KITS,transit_stops,Point Grey Road (WB) at Trafalgar Street,49.272816,-123.1646771
+VAN_KITS,parks,Connaught Park,49.26205553059951,-123.16010507965895
+VAN_KITS,parks,Tatlow Park,49.270190531832995,-123.16945846295393
+VAN_KITS,parks,McBride Park,49.26811512237871,-123.18074357178095
+VAN_KITS,parks,Jean Beaty Park,49.27192108560333,-123.17947349726913
+VAN_KITS,parks,Point Grey Road Park,49.271630586953876,-123.17618607102365
+VAN_KITS,parks,Volunteer Park,49.271587145464764,-123.16925215699699
+VAN_KITS,parks,Margaret Pigott Park,49.272133072350904,-123.16747160349443
+VAN_KITS,parks,Point Grey Park Site at Stephens Street,49.27261973283565,-123.16614510809526
+VAN_KITS,parks,Point Grey Park Site at Trafalgar Street,49.27345264318021,-123.16457713476233
+VAN_KITS,parks,Rosemary Brown Park,49.261796629454366,-123.1574063456744
+VAN_KITS,parks,Kitsilano Beach Park,49.27454728353226,-123.15461003639648
+VAN_KITS,parks,Arbutus Greenway Park,49.26200122511256,-123.15577921070705
+VAN_KITS,parks,McBride Park,49.26808259715511,-123.17867024537033
+VAN_KITS,grocery,Lena Market,49.268108,-123.1583841
+VAN_KITS,grocery,Parthenon Market,49.264314,-123.173526
+VAN_KITS,grocery,Snack Pack,49.2680151,-123.155485
+VAN_KITS,grocery,IGA,49.268724,-123.1820452
+VAN_KITS,grocery,IGA,49.2637012,-123.1570984
+VAN_KITS,grocery,City Avenue Market,49.2643382,-123.175158
+VAN_KITS,grocery,Sunshine Coast Convenience Store,49.2682587,-123.1681728
+VAN_KITS,grocery,Persia Foods,49.2642278,-123.169179
+VAN_KITS,grocery,F.I.S.H Market/ Cafe,49.2642796,-123.1714968
+VAN_KITS,grocery,Sungiven Foods,49.264419,-123.1780803
+VAN_KITS,grocery,Kitsilano Natural Foods,49.2715891,-123.1552309
+VAN_KITS,grocery,Circle K,49.2640182,-123.1735531
+VAN_KITS,grocery,The Source Bulk Foods,49.2641842,-123.166285
+VAN_KITS,grocery,,49.2718359,-123.1551893
+VAN_KITS,grocery,Whole Foods Market,49.2683752,-123.1570989
+VAN_KITS,grocery,Safeway,49.26446685664308,-123.16721433113229
+VAN_KITS,grocery,Safeway,49.26876497563064,-123.15854825875756
+BBY_METRO,schools,Alexander College,49.2276158,-122.9960769
+BBY_METRO,schools,Kidoodles,49.2267508,-122.9994624
+BBY_METRO,schools,Create Career College,49.2280827,-122.9967068
+BBY_METRO,schools,Chaffey-Burke Elementary School,49.23412343065689,-123.0053726505029
+BBY_METRO,schools,Maywood Community Elementary School,49.22281439796868,-122.99976349042159
+BBY_METRO,schools,École Marlborough Elementary,49.22898676204647,-122.9914445797149
+BBY_METRO,restaurants,Domino's,49.2218272,-122.9969589
+BBY_METRO,restaurants,Saffron Indian Cuisine,49.2311658,-123.008436
+BBY_METRO,restaurants,Zhengxin Chicken Steak,49.2257138,-122.99048
+BBY_METRO,restaurants,88 Noodle House,49.2261659,-122.99175
+BBY_METRO,restaurants,Maruhachi Ramen,49.2244672,-122.987867
+BBY_METRO,restaurants,Lattea,49.2283623,-123.0045231
+BBY_METRO,restaurants,Club Salmon,49.2218399,-123.0054728
+BBY_METRO,restaurants,Chongqing Qing Qin-Ma Hot Pot Restaurant,49.2265741,-122.9930695
+BBY_METRO,restaurants,Subway,49.2280822,-122.997835
+BBY_METRO,restaurants,Ha Cafe,49.2282144,-122.9982869
+BBY_METRO,restaurants,Kamamarui Ramen & Sushi,49.224395,-122.988696
+BBY_METRO,restaurants,Bliss Cafe,49.2315354,-123.0056472
+BBY_METRO,restaurants,Hui Flavor,49.2314869,-123.005697
+BBY_METRO,restaurants,Hanju,49.2297572,-123.0048963
+BBY_METRO,restaurants,Green Bamboo,49.2296691,-123.0049961
+BBY_METRO,restaurants,Fish With You,49.2295475,-123.0051017
+BBY_METRO,restaurants,Sushi Garden,49.2291311,-123.000868
+BBY_METRO,restaurants,Ricey Yogurt,49.2292376,-123.001332
+BBY_METRO,restaurants,Alvin Garden,49.2218267,-122.994703
+BBY_METRO,restaurants,Isami Sushi,49.22987,-123.0019032
+BBY_METRO,restaurants,Jia Wei Restaurant,49.2218285,-122.994549
+BBY_METRO,restaurants,Jin Jiang Shanghai Restaurant,49.2243084,-122.985487
+BBY_METRO,restaurants,McDonald's,49.2273867,-122.9997206
+BBY_METRO,restaurants,Tim Hortons,49.2274236,-122.9999891
+BBY_METRO,restaurants,Chongqing Restaurant,49.226799,-122.993756
+BBY_METRO,restaurants,Tim Hortons,49.2266837,-123.0048318
+BBY_METRO,restaurants,Subway,49.2263872,-123.0042373
+BBY_METRO,restaurants,Boston Pizza,49.2268102,-123.004076
+BBY_METRO,restaurants,A&W,49.2259997,-123.0025889
+BBY_METRO,restaurants,Starbucks,49.2262895,-123.00397
+BBY_METRO,restaurants,Neptune Noodle Bar,49.226354,-123.003963
+BBY_METRO,restaurants,Freshii,49.226408,-123.003622
+BBY_METRO,restaurants,Neptune Seafood Restaurant,49.2262972,-123.004016
+BBY_METRO,restaurants,Chipotle,49.226025,-123.0023596
+BBY_METRO,restaurants,Booster Juice,49.2257698,-122.9969729
+BBY_METRO,restaurants,Popeyes,49.2257375,-122.996441
+BBY_METRO,restaurants,McCafé,49.2273356,-122.9997733
+BBY_METRO,restaurants,Presotea,49.2266823,-123.001773
+BBY_METRO,restaurants,Umi Sushi Express,49.2272898,-123.0001015
+BBY_METRO,restaurants,Orange Julius,49.2272799,-123.000179
+BBY_METRO,restaurants,Sushi Oyama,49.225024,-122.990072
+BBY_METRO,restaurants,Blenz Coffee,49.2260832,-123.001846
+BBY_METRO,restaurants,Steve's Poke Bar,49.2261625,-123.0020739
+BBY_METRO,restaurants,Cinnzeo,49.2273214,-123.000227
+BBY_METRO,restaurants,Waves Coffee House,49.2315873,-123.009736
+BBY_METRO,restaurants,Freshslice Pizza,49.2255444,-122.996802
+BBY_METRO,restaurants,Burger King,49.2258643,-122.9969705
+BBY_METRO,restaurants,Chronic Tacos,49.2253972,-122.9972623
+BBY_METRO,restaurants,Thaï Express,49.2254547,-122.9975777
+BBY_METRO,restaurants,Sulmida Dessert Cafe,49.2286297,-122.999512
+BBY_METRO,restaurants,Koya Japan,49.2254008,-122.997067
+BBY_METRO,restaurants,Subway,49.2254531,-122.996886
+BBY_METRO,restaurants,Nando's,49.2257668,-122.9968006
+BBY_METRO,restaurants,Bubble Waffle Cafe,49.2257969,-122.9968887
+BBY_METRO,restaurants,Manchu Wok,49.2258275,-122.996939
+BBY_METRO,restaurants,Vina Vietnamese,49.2254863,-122.9976519
+BBY_METRO,restaurants,,49.2255226,-122.9977261
+BBY_METRO,restaurants,U-Grill,49.2255531,-122.9977931
+BBY_METRO,restaurants,Hula,49.2255796,-122.998189
+BBY_METRO,restaurants,Blenz Coffee,49.2274443,-123.0007461
+BBY_METRO,restaurants,Kawawa,49.2273734,-123.0000139
+BBY_METRO,restaurants,Kawawa Ramen,49.2273299,-122.9999156
+BBY_METRO,restaurants,Starbucks,49.2256778,-122.9973902
+BBY_METRO,restaurants,Crêpe de Licious,49.2259279,-122.9975146
+BBY_METRO,restaurants,Curry Express,49.2258084,-122.9977187
+BBY_METRO,restaurants,Orange Julius,49.2257836,-122.9978073
+BBY_METRO,restaurants,Kernels Popcorn,49.2255829,-122.998365
+BBY_METRO,restaurants,HellCrust Pizza,49.2275306,-122.999928
+BBY_METRO,restaurants,Togo Sushi,49.2257638,-122.99672
+BBY_METRO,restaurants,Lavazza,49.2263089,-122.99998
+BBY_METRO,restaurants,Opa! Of Greece,49.2253988,-122.9971646
+BBY_METRO,restaurants,KFC,49.2254197,-122.9969699
+BBY_METRO,restaurants,New York Fries,49.2254951,-122.9968289
+BBY_METRO,restaurants,Bourbon St. Grill,49.2258501,-122.9976493
+BBY_METRO,restaurants,A&W,49.2254058,-122.9973612
+BBY_METRO,restaurants,Tim Hortons,49.2254283,-122.9974687
+BBY_METRO,restaurants,The American Cheese Steak Co.,49.2274703,-122.9998197
+BBY_METRO,restaurants,Sunshine,49.2284012,-123.004667
+BBY_METRO,restaurants,Yunshang Rice Noodle,49.2284147,-123.00452
+BBY_METRO,restaurants,Choo Tea,49.2285595,-123.004524
+BBY_METRO,restaurants,Zhou's Black Duck,49.22878,-123.004522
+BBY_METRO,restaurants,S&W Pepper House,49.2289206,-123.004359
+BBY_METRO,restaurants,Xishi,49.2294463,-123.0042952
+BBY_METRO,restaurants,Fung May,49.2289752,-123.004759
+BBY_METRO,restaurants,Yummy Bao,49.2288579,-123.00467
+BBY_METRO,restaurants,J & G Fried Chicken,49.2288122,-123.004688
+BBY_METRO,restaurants,Grains Fish Noodle,49.2287171,-123.004694
+BBY_METRO,restaurants,Shanghai Fortune Cuisine,49.2286734,-123.004702
+BBY_METRO,restaurants,Bubble Waffle Cafe,49.2284836,-123.0047158
+BBY_METRO,restaurants,Yunnan Cross Bridge Rice Noodle,49.2286928,-123.00496
+BBY_METRO,restaurants,Crystal Cafe,49.2287233,-123.005074
+BBY_METRO,restaurants,99 Bbq,49.2287426,-123.005125
+BBY_METRO,restaurants,Money Tea,49.2290169,-123.004897
+BBY_METRO,restaurants,Dak Mai,49.2290176,-123.005049
+BBY_METRO,restaurants,Chef Rong Noodle House,49.228991,-123.004826
+BBY_METRO,restaurants,Happy Ice House,49.2287748,-123.004688
+BBY_METRO,restaurants,DaWanGong,49.2285999,-123.0047059
+BBY_METRO,restaurants,Chao Shou Wang,49.2285573,-123.004716
+BBY_METRO,restaurants,Delicious B.b.q.,49.2285195,-123.004717
+BBY_METRO,restaurants,Shanghai Dimsum,49.2284351,-123.0049538
+BBY_METRO,restaurants,Huaxi,49.2285576,-123.004925
+BBY_METRO,restaurants,Ipoh Malaysian Cuisine,49.2286059,-123.004901
+BBY_METRO,restaurants,Kingspark Good Food,49.2287064,-123.005013
+BBY_METRO,restaurants,El Chilakil,49.2294216,-123.0052386
+BBY_METRO,restaurants,Hei Hei Rice Roll,49.2287671,-123.0052
+BBY_METRO,restaurants,Old Xian's Food,49.2287982,-123.005247
+BBY_METRO,restaurants,Hung's Teppanyaki,49.2288285,-123.005298
+BBY_METRO,restaurants,Snail Rice Noodle King,49.2289212,-123.00524
+BBY_METRO,restaurants,Mad Chicken,49.2289438,-123.005188
+BBY_METRO,restaurants,New Beijing Taste,49.228968,-123.005139
+BBY_METRO,restaurants,Grand Crystal Seafood,49.2290042,-123.0054102
+BBY_METRO,restaurants,Donair Delight,49.2310818,-123.0061322
+BBY_METRO,restaurants,Subway,49.231039,-123.006178
+BBY_METRO,restaurants,Nando's,49.2307097,-123.007297
+BBY_METRO,restaurants,Hon Sushi,49.2312109,-123.0067421
+BBY_METRO,restaurants,Kowloon,49.228639,-123.004661
+BBY_METRO,restaurants,Green Basil Thai,49.2291967,-123.001075
+BBY_METRO,restaurants,Mr. Mustache Tea & Dessert,49.2290279,-122.9989508
+BBY_METRO,restaurants,Ki Tea House Cafe,49.2209612,-122.9884416
+BBY_METRO,restaurants,Colour See See Shanghainese Cuisine,49.2286986,-122.999749
+BBY_METRO,restaurants,Sugar Lab,49.2234245,-122.9860601
+BBY_METRO,restaurants,Song Tea,49.2234415,-122.986855
+BBY_METRO,restaurants,BenGong's Tea,49.2234409,-122.986958
+BBY_METRO,restaurants,Trattoria Italian Kitchen,49.2301514,-123.003978
+BBY_METRO,restaurants,Chatime,49.2261109,-123.0020646
+BBY_METRO,restaurants,ZUBU Ramen,49.2242006,-122.999661
+BBY_METRO,restaurants,Chatime,49.2246328,-122.98836
+BBY_METRO,restaurants,SunTea,49.2248956,-122.989539
+BBY_METRO,restaurants,Uncle Willy's Buffet,49.2258237,-122.994418
+BBY_METRO,restaurants,Pot Empire,49.2271784,-122.994952
+BBY_METRO,restaurants,Starbucks,49.2273082,-122.995242
+BBY_METRO,restaurants,CM Chicken,49.2272795,-122.994524
+BBY_METRO,restaurants,Bun Cha Ca Hoang Yen,49.2271279,-122.994661
+BBY_METRO,restaurants,Happy Lamb Hot Pot,49.2280713,-122.997509
+BBY_METRO,restaurants,Dinesty Dumpling House,49.2300571,-123.003696
+BBY_METRO,restaurants,Ramie's Greek Restaurant,49.2316909,-123.00871
+BBY_METRO,restaurants,Pizza Hut,49.2318234,-123.0090888
+BBY_METRO,restaurants,Bubble World,49.2313081,-123.008923
+BBY_METRO,restaurants,Pho 24 Express,49.2313875,-123.009081
+BBY_METRO,restaurants,Sweet Puffin,49.2217743,-122.9884902
+BBY_METRO,restaurants,Horin Ramen,49.2296,-123.0038743
+BBY_METRO,restaurants,Fondway Cafe,49.2253027,-123.0040361
+BBY_METRO,restaurants,Nam Dae Moon Rice Cake,49.2215669,-122.9885007
+BBY_METRO,restaurants,Estea Cafe,49.2252259,-123.0038545
+BBY_METRO,restaurants,Pizza Garden,49.2252537,-123.0039474
+BBY_METRO,restaurants,Dragon Bowl,49.2266075,-122.993383
+BBY_METRO,restaurants,Kiku Sushi,49.2258004,-122.992721
+BBY_METRO,restaurants,Wushiland Boba,49.2250154,-122.999408
+BBY_METRO,restaurants,Stuffies Pastries,49.2255679,-122.997972
+BBY_METRO,restaurants,MeetRice Noodles,49.2246246,-122.9882078
+BBY_METRO,restaurants,Earls,49.2280148,-123.002893
+BBY_METRO,restaurants,Dairy Queen,49.2272788,-123.0001497
+BBY_METRO,restaurants,Mr. Pretzels,49.2273343,-123.0000498
+BBY_METRO,restaurants,Dairy Queen,49.2257641,-122.9978351
+BBY_METRO,restaurants,Cactus Club Cafe,49.2276704,-123.003325
+BBY_METRO,restaurants,Macu Tea,49.2312541,-123.005933
+BBY_METRO,restaurants,Boiling Point,49.2244988,-122.987974
+BBY_METRO,restaurants,L'OTUS Cake Boutique,49.2270308,-123.0077239
+BBY_METRO,restaurants,CoCo Fresh Tea & Juice,49.2255861,-122.9967101
+BBY_METRO,restaurants,The Dolar Shop Burnaby,49.2278561,-123.003073
+BBY_METRO,restaurants,Got Lot Tea,49.2261609,-122.991951
+BBY_METRO,restaurants,Galbi Korean BBQ,49.2310832,-123.008299
+BBY_METRO,restaurants,HiFive Chicken,49.2310623,-123.0067
+BBY_METRO,restaurants,Big Way Hotpot,49.2314446,-123.009257
+BBY_METRO,restaurants,Big Way Hot Pot,49.230978,-123.008347
+BBY_METRO,restaurants,Tairyou ichiba,49.2312999,-123.008816
+BBY_METRO,restaurants,Pizza Factory,49.2311346,-123.008544
+BBY_METRO,restaurants,Guulu Cafe,49.2292042,-123.001204
+BBY_METRO,restaurants,Gokudo Shabu Shabu Hot Pot,49.2300918,-123.003798
+BBY_METRO,restaurants,Bella Pizza,49.2218374,-122.9989393
+BBY_METRO,restaurants,Haku Sushi,49.2315441,-123.0051958
+BBY_METRO,restaurants,Indian Wok,49.2246505,-122.9884653
+BBY_METRO,restaurants,La foret,49.2213927,-122.995504
+BBY_METRO,restaurants,Obanhmi,49.2267065,-122.992884
+BBY_METRO,restaurants,Teapressu,49.2245873,-122.988095
+BBY_METRO,restaurants,Captain Thai Noodle House,49.228745,-122.999858
+BBY_METRO,restaurants,Chicko Chicken,49.2313451,-123.0058497
+BBY_METRO,restaurants,Something Sweet,49.2213596,-122.9884067
+BBY_METRO,restaurants,CoCo Fresh Tea & Juice,49.2287527,-123.001236
+BBY_METRO,restaurants,Mui Garden Restaurant,49.2282463,-122.998374
+BBY_METRO,restaurants,JJ Bean,49.2277573,-123.003644
+BBY_METRO,restaurants,Freshslice Pizza,49.2254294,-122.993655
+BBY_METRO,restaurants,Chicha San Chen,49.2304185,-123.004184
+BBY_METRO,restaurants,Pizza Pizza,49.2314781,-123.0052457
+BBY_METRO,restaurants,Tendon Kohaku,49.2278826,-123.003493
+BBY_METRO,restaurants,Kokoro Tokyo Mazesoba,49.2283264,-123.00305
+BBY_METRO,restaurants,Café 106,49.2237312,-122.9886603
+BBY_METRO,restaurants,Audrey Moment Cafe,49.224551,-122.9899971
+BBY_METRO,restaurants,Basha,49.2262455,-123.0018569
+BBY_METRO,restaurants,Shanghai Dimsum House,49.2284216,-123.0047226
+BBY_METRO,restaurants,Pixwi,49.2297143,-123.0049585
+BBY_METRO,restaurants,Chocho Hot Pot,49.2311152,-123.006822
+BBY_METRO,restaurants,Pür & Simple,49.2280239,-123.004076
+BBY_METRO,restaurants,Pokerrito,49.2280573,-123.0033111
+BBY_METRO,restaurants,Chungchun,49.225642,-123.0048602
+BBY_METRO,restaurants,bb.q Chicken,49.2256951,-123.0049805
+BBY_METRO,restaurants,La Forêt,49.2202801,-122.9866601
+BBY_METRO,restaurants,Taan Char,49.2297348,-123.0043116
+BBY_METRO,restaurants,Abdul's,49.2296682,-123.004121
+BBY_METRO,restaurants,Hey I am Yogost,49.2255869,-123.004763
+BBY_METRO,restaurants,Sushi Toki,49.2261737,-123.005909
+BBY_METRO,restaurants,Tacofino - Burrito Bar,49.2287465,-123.0032527
+BBY_METRO,restaurants,Little Tea House,49.2269551,-123.0009048
+BBY_METRO,restaurants,Big Orange,49.227647,-123.0001465
+BBY_METRO,restaurants,Marble House Eatery,49.229731,-123.0048695
+BBY_METRO,restaurants,Starbucks,49.2310824,-123.004656
+BBY_METRO,restaurants,Aroma Eatery,49.2284223,-123.0048814
+BBY_METRO,restaurants,Meat Up,49.2255736,-122.9899929
+BBY_METRO,restaurants,Sharetea,49.2265415,-123.0067673
+BBY_METRO,restaurants,Freshslice Pizza,49.2202776,-122.9884144
+BBY_METRO,restaurants,Jang Mo Jib Restaurants,49.22579933706718,-122.99067886906043
+BBY_METRO,restaurants,KFC,49.2252927,-122.99064899999999
+BBY_METRO,restaurants,The Boss Restaurant,49.225452735583204,-122.99977397599537
+BBY_METRO,transit_stops,Kingsway (EB) at Patterson Ave,49.2324229,-123.012291
+BBY_METRO,transit_stops,Patterson Station Bay 3,49.2293005,-123.01209
+BBY_METRO,transit_stops,Kingsway (EB) at Marlborough Ave,49.2256147,-122.9911518
+BBY_METRO,transit_stops,Kingsway (EB) at Nelson Ave,49.2264795,-122.993941
+BBY_METRO,transit_stops,Nelson Ave (NB) at Newton St,49.2273392,-122.9941021
+BBY_METRO,transit_stops,Kingsway (WB) at Royal Oak Ave,49.2253034,-122.989523
+BBY_METRO,transit_stops,Kingsway (EB) at Royal Oak Ave,49.2247328,-122.988481
+BBY_METRO,transit_stops,Kingsway (WB) at Denbigh Ave,49.2240142,-122.9855143
+BBY_METRO,transit_stops,Kingsway (WB) at Marlborough Ave,49.2261412,-122.992055
+BBY_METRO,transit_stops,Nelson Ave (NB) at Bennett St,49.2255571,-122.9940276
+BBY_METRO,transit_stops,Bennett St (WB) at Nelson Ave,49.2252899,-122.9956686
+BBY_METRO,transit_stops,Bonsor Ave (SB) at Bennett St,49.2249004,-122.997185
+BBY_METRO,transit_stops,Bonsor Ave (NB) at Central Blvd,49.2240884,-122.997725
+BBY_METRO,transit_stops,Central Blvd (WB) at Bonsor Ave,49.2238046,-122.9990599
+BBY_METRO,transit_stops,Central Blvd (EB) at 4500 Block,49.2242283,-123.0003401
+BBY_METRO,transit_stops,Central Blvd (WB) at 4500 Block,49.224531,-123.0004287
+BBY_METRO,transit_stops,Kingsway (WB) at Nelson Ave,49.2271584,-122.995043
+BBY_METRO,transit_stops,Kingsway (WB) at McMurray Ave,49.2277016,-122.996762
+BBY_METRO,transit_stops,Kingsway (EB) at Sussex Ave,49.2278648,-122.9982897
+BBY_METRO,transit_stops,Kingsway (WB) at Sussex Ave,49.2286614,-122.999725
+BBY_METRO,transit_stops,McKay Ave (SB) at Kingsway,49.2291005,-123.003411
+BBY_METRO,transit_stops,Patterson Station Bay 1,49.2293845,-123.012328
+BBY_METRO,transit_stops,Patterson Station Bay 2,49.229351,-123.011573
+BBY_METRO,transit_stops,Kingsway (WB) at Willingdon Ave,49.2305914,-123.0056051
+BBY_METRO,transit_stops,Willingdon Ave (SB) at Kemp St,49.2295694,-123.0057433
+BBY_METRO,transit_stops,Kingsway (EB) at Wilson Ave,49.2309707,-123.007521
+BBY_METRO,transit_stops,Metrotown Station Bay 2,49.2261507,-123.002918
+BBY_METRO,transit_stops,Metrotown Station Bay 5,49.2258743,-123.002639
+BBY_METRO,transit_stops,Metrotown Station Bay 8,49.2261795,-123.003353
+BBY_METRO,transit_stops,Metrotown Station Bay 3,49.225994,-123.002552
+BBY_METRO,transit_stops,Central Blvd (EB) at Willingdon Ave,49.2272466,-123.0069377
+BBY_METRO,transit_stops,Willingdon Ave (NB) at Maywood St,49.2248539,-123.0104226
+BBY_METRO,transit_stops,Metrotown Station Bay 4,49.2257951,-123.0025045
+BBY_METRO,transit_stops,Metrotown Station Bay 6,49.2259743,-123.002882
+BBY_METRO,transit_stops,Metrotown Station Bay 7,49.226073,-123.003089
+BBY_METRO,transit_stops,Metrotown Station Bay 1,49.2262674,-123.0032968
+BBY_METRO,transit_stops,Willingdon Ave (SB) at Maywood St,49.2244377,-123.0111387
+BBY_METRO,transit_stops,Willingdon Ave (NB) at Central Blvd,49.2280006,-123.006971
+BBY_METRO,transit_stops,Kingsway (WB) at Wilson Ave,49.2314622,-123.0081931
+BBY_METRO,transit_stops,Willingdon Extension (NB) at Imperial St,49.2223241,-123.0124587
+BBY_METRO,transit_stops,Willingdon Ave (NB) at Bond St,49.2360686,-123.0032677
+BBY_METRO,transit_stops,Willingdon Ave (SB) at Sardis St,49.2334524,-123.0034717
+BBY_METRO,transit_stops,Metrotown Station Bay 11,49.2260456,-123.0041931
+BBY_METRO,transit_stops,Bond St (WB) at Sussex Ave,49.2354628,-122.998189
+BBY_METRO,transit_stops,Bond St (EB) at Willingdon Ave,49.2353171,-123.00289
+BBY_METRO,transit_stops,Bond St (EB) at Elsom Ave,49.2353431,-123.0006421
+BBY_METRO,transit_stops,Bond St (WB) at Elsom Ave,49.2354521,-123.0015631
+BBY_METRO,transit_stops,Bond St (EB) at Sussex Ave,49.2353516,-122.997448
+BBY_METRO,transit_stops,Bond St (WB) at Nelson Ave,49.2354716,-122.9948095
+BBY_METRO,transit_stops,Willingdon Ave (NB) at Kingsborough St,49.2289981,-123.005916
+BBY_METRO,transit_stops,Willingdon Ave (NB) at Grafton St,49.2323702,-123.003229
+BBY_METRO,transit_stops,Kingsway (WB) at Barker Ave,49.2322398,-123.0106337
+BBY_METRO,transit_stops,Kingsway (EB) at Olive Ave,49.2316505,-123.0096
+BBY_METRO,transit_stops,Metrotown Station Bay 10,49.2263593,-123.0048907
+BBY_METRO,transit_stops,Metrotown Station Bay 12,49.2257315,-123.0035046
+BBY_METRO,transit_stops,Beresford St (WB) at Willingdon Ave,49.2277404,-123.0087312
+BBY_METRO,transit_stops,McKay Ave (SB) at Kingsborough St,49.2275659,-123.0050911
+BBY_METRO,transit_stops,McKay Ave (NB) at Kingsborough St,49.2281507,-123.0040799
+BBY_METRO,transit_stops,Patterson Ave (NB) at Kingsway,49.2320775,-123.0125631
+BBY_METRO,transit_stops,Patterson Avenue (NB) at Victory Street,49.2186413,-123.0123758
+BBY_METRO,transit_stops,Imperial St (WB) at McKay Ave,49.2220161,-123.009428
+BBY_METRO,transit_stops,Patterson Ave (SB) at Imperial St,49.2216227,-123.0127166
+BBY_METRO,transit_stops,Sussex Avenue (SB) at Imperial Avenue,49.2213945,-123.005161
+BBY_METRO,transit_stops,Imperial Avenue (WB) at Dow Avenue,49.2220145,-123.003677
+BBY_METRO,transit_stops,Imperial Ave (WB) at Frederick Ave,49.2220072,-123.001499
+BBY_METRO,transit_stops,Imperial Ave (WB) at Waverley Ave,49.2220167,-122.9981625
+BBY_METRO,transit_stops,Sussex Avenue (NB) at Hurst Street,49.2205132,-123.0049192
+BBY_METRO,transit_stops,Sussex Avenue (SB) at Hurst Street,49.2200545,-123.0051355
+BBY_METRO,transit_stops,Sussex Avenue (NB) at Victory Street,49.2186957,-123.0048924
+BBY_METRO,transit_stops,Beresford Street (WB) at Royal Oak Avenue,49.2198668,-122.988197
+BBY_METRO,transit_stops,Metrotown Station Bay 14,49.2250956,-123.0021227
+BBY_METRO,transit_stops,Oakland St (WB) at Oakdale Rd,49.2297257,-122.9862817
+BBY_METRO,transit_stops,Nelson Ave (NB) at Dover St,49.2303011,-122.9941222
+BBY_METRO,transit_stops,Dover St (EB) at Nelson Ave,49.2298234,-122.9936214
+BBY_METRO,transit_stops,Nelson Ave (SB) at Grange St,49.2291214,-122.9943331
+BBY_METRO,transit_stops,Nelson Ave (SB) at Hazel St,49.2275985,-122.9943831
+BBY_METRO,transit_stops,Nelson Ave (NB) at Grafton St,49.2321032,-122.994113
+BBY_METRO,transit_stops,Nelson Ave (SB) at Shepherd St,49.232206,-122.9943391
+BBY_METRO,transit_stops,Nelson Ave (SB) at Buxton St,49.2341169,-122.9943414
+BBY_METRO,transit_stops,Dover St (WB) at Royal Oak Ave,49.2299838,-122.989635
+BBY_METRO,transit_stops,Oakland St (EB) at Royal Oak Ave,49.2297539,-122.9880595
+BBY_METRO,transit_stops,Barker Ave (NB) at Grange St,49.23322,-123.0110235
+BBY_METRO,transit_stops,,49.2294974,-123.011887
+BBY_METRO,transit_stops,Metrotown Station Bay 13,49.2254353,-123.0028637
+BBY_METRO,transit_stops,,49.2251252,-123.0030144
+BBY_METRO,transit_stops,Kingsway (EB) at McKay Ave,49.2292022,-123.0023625
+BBY_METRO,transit_stops,,49.2270736,-123.0083696
+BBY_METRO,parks,Burnaby Civic Square,49.22781799281897,-123.00601684173597
+BBY_METRO,parks,BC Parkway,49.21957397706091,-122.98333119607555
+BBY_METRO,parks,Deer Lake Park,49.23615610200724,-122.97877635477931
+BBY_METRO,parks,Royal Oakland Park,49.231744199971,-122.98607886259359
+BBY_METRO,parks,Central Park,49.227275537898265,-123.01800945353088
+BBY_METRO,parks,Bonsor Park,49.22358211881629,-122.9961504665583
+BBY_METRO,parks,Old Orchard Park,49.233158812904925,-123.00561831332647
+BBY_METRO,parks,Maywood Park,49.22420078308685,-123.00782035381874
+BBY_METRO,parks,Forest Glen Park,49.23622427582966,-122.99504713084642
+BBY_METRO,parks,Kinnee Park,49.22665939166323,-123.00936705590212
+BBY_METRO,parks,Lobley Park,49.22457896103034,-122.99238385097254
+BBY_METRO,parks,,49.23135654852712,-123.00929283211657
+BBY_METRO,parks,,49.22246165661969,-122.9946438347395
+BBY_METRO,grocery,Real Canadian Superstore,49.2274377,-123.001096
+BBY_METRO,grocery,大統華 T&T Supermarket,49.2249256,-122.999969
+BBY_METRO,grocery,,49.2288243,-123.0049061
+BBY_METRO,grocery,,49.2286334,-123.0048854
+BBY_METRO,grocery,Boemma Euro Foods & Deli,49.2246448,-122.9891519
+BBY_METRO,grocery,Express News Convenience,49.2265734,-123.0045685
+BBY_METRO,grocery,Sheffield Express,49.2255745,-122.9980644
+BBY_METRO,grocery,Gibo Health,49.2285038,-123.0048988
+BBY_METRO,grocery,Kingwuu,49.228748,-123.0047976
+BBY_METRO,grocery,TF,49.2286791,-123.0048805
+BBY_METRO,grocery,Amigos Mios Mexican & Latino Grocery Store,49.2313912,-123.0058037
+BBY_METRO,grocery,PriceSmart Foods,49.2289211,-123.002018
+BBY_METRO,grocery,Trafalgar Market,49.2218347,-123.0053012
+BBY_METRO,grocery,Sendex Latino Store,49.2220546,-122.9951972
+BBY_METRO,grocery,Maggie's Convenience Store,49.2204549,-122.988439
+BBY_METRO,grocery,S Mart,49.2259881,-123.0054922
+BBY_METRO,grocery,ON the RUN,49.2215673,-122.998019
+BBY_METRO,grocery,Imperial Eatery,49.2218336,-122.9940235
+BBY_METRO,grocery,,49.2288243,-123.0053356
+BBY_METRO,grocery,Good Neighbour Supermarket,49.2288734,-123.0050406
+BBY_METRO,grocery,Save-On-Foods,49.2311611,-123.0046692
+BBY_METRO,grocery,Wholesale Club,49.22514555426189,-122.98707624010217
+BBY_METRO,grocery,Canadian Food Market,49.221721599999995,-123.00603735
+BBY_METRO,grocery,Select,49.23267426865407,-123.011420790141
+BBY_METRO,grocery,M & B Grocery,49.219919591501004,-122.98888229211614
+BBY_METRO,grocery,smartstop,49.23018821197288,-123.00584705964694
+BBY_METRO,grocery,,49.22642896836954,-122.99232316446773
+BBY_METRO,grocery,Walmart Supercentre,49.22497640424412,-122.99992060025755
+SUR_CC,schools,Simon Fraser University Surrey Campus,49.1873731,-122.849479
+SUR_CC,schools,Kwantlen Polytechnic University (Civic Plaza Campus),49.1906766,-122.8483432
+SUR_CC,schools,Kwantlen Park Secondary,49.19253169030812,-122.85826562230302
+SUR_CC,schools,K.B. Woodward Elementary,49.194404379982835,-122.85880236261147
+SUR_CC,schools,Old Yale Road Elementary,49.18710579681298,-122.85821146536867
+SUR_CC,schools,A.H.P. Matthew Elementary School,49.180077585697155,-122.85353700177076
+SUR_CC,schools,Forsyth Road Elementary,49.19751664564811,-122.83557380175657
+SUR_CC,schools,Our Lady of Good Counsel School,49.19345925675638,-122.83521616917044
+SUR_CC,restaurants,Ken's Tea House,49.1970049,-122.8464156
+SUR_CC,restaurants,Huyen Cafe,49.1946233,-122.8466723
+SUR_CC,restaurants,Guacamole Mexican Grill,49.1967314,-122.8456602
+SUR_CC,restaurants,Alebi African Cuisine,49.1970164,-122.8462529
+SUR_CC,restaurants,Goto Moto & Huong Que,49.1967391,-122.8459387
+SUR_CC,restaurants,Taqueria Jalisco Mexican Restaurant,49.1967353,-122.8460612
+SUR_CC,restaurants,Bozzini's,49.1917865,-122.8438
+SUR_CC,restaurants,,49.1918267,-122.8442801
+SUR_CC,restaurants,Starbucks,49.1910007,-122.8446255
+SUR_CC,restaurants,Tim Hortons,49.1864097,-122.8502764
+SUR_CC,restaurants,Subway,49.1913787,-122.8449032
+SUR_CC,restaurants,Fresgo Inn,49.1863982,-122.8444496
+SUR_CC,restaurants,Rickshaw Chinese Food,49.1934619,-122.8457041
+SUR_CC,restaurants,Neptune Seafood Restaurant,49.1865512,-122.847648
+SUR_CC,restaurants,Blenz Coffee,49.1880051,-122.8492686
+SUR_CC,restaurants,KFC,49.1945691,-122.8456605
+SUR_CC,restaurants,Church's Chicken,49.1942617,-122.844799
+SUR_CC,restaurants,All About Pho,49.1876519,-122.8447333
+SUR_CC,restaurants,Boston Pizza,49.1863895,-122.8474565
+SUR_CC,restaurants,Ricky's,49.1861186,-122.8474382
+SUR_CC,restaurants,Blenz,49.1861239,-122.8479282
+SUR_CC,restaurants,Big Orange,49.1860857,-122.8479254
+SUR_CC,restaurants,An Nam,49.1855201,-122.84755
+SUR_CC,restaurants,Orange Julius,49.1868482,-122.8490317
+SUR_CC,restaurants,Booster Juice,49.1871184,-122.8490357
+SUR_CC,restaurants,A&W,49.1871177,-122.8491133
+SUR_CC,restaurants,Go Grill,49.1871162,-122.8492835
+SUR_CC,restaurants,Manchu Wok,49.1871155,-122.8493572
+SUR_CC,restaurants,Freshslice Pizza,49.187114,-122.849531
+SUR_CC,restaurants,Surrey Indian Bite,49.1871697,-122.849752
+SUR_CC,restaurants,Quesada,49.1871291,-122.849602
+SUR_CC,restaurants,KFC,49.1871919,-122.849834
+SUR_CC,restaurants,Starbucks,49.1864343,-122.8488672
+SUR_CC,restaurants,CoCo Fresh Tea & Juice,49.1867508,-122.848725
+SUR_CC,restaurants,Toyama Express,49.187117,-122.8491994
+SUR_CC,restaurants,Charleys Philly Steaks,49.1871146,-122.8494584
+SUR_CC,restaurants,Opa!,49.1871485,-122.8496743
+SUR_CC,restaurants,Steve's Poké Bar,49.1869648,-122.8498822
+SUR_CC,restaurants,Subway,49.186992,-122.84998
+SUR_CC,restaurants,Burger King,49.186768,-122.8499392
+SUR_CC,restaurants,Potato Corner,49.1863136,-122.8480116
+SUR_CC,restaurants,Burger King,49.190346,-122.8448374
+SUR_CC,restaurants,Sushi King George,49.190348,-122.8450114
+SUR_CC,restaurants,Manis Pan-Asian Eatery,49.1981403,-122.8421071
+SUR_CC,restaurants,Prado Cafe,49.190781,-122.848331
+SUR_CC,restaurants,Dominion Bar & Kitchen,49.1902621,-122.8482749
+SUR_CC,restaurants,DONI Korean Restaurant,49.1948776,-122.8443305
+SUR_CC,restaurants,Top King's Restaurant & Cafe,49.189735,-122.8474426
+SUR_CC,restaurants,Umami Ramen + Grill,49.1899411,-122.847341
+SUR_CC,restaurants,Phở Tâm,49.1899408,-122.8468149
+SUR_CC,restaurants,Grandt Kitchen,49.1892746,-122.8463189
+SUR_CC,restaurants,Chatime,49.1891857,-122.8463132
+SUR_CC,restaurants,Sushi & Roll,49.1889683,-122.8461338
+SUR_CC,restaurants,Bubble 88,49.1880887,-122.8465151
+SUR_CC,restaurants,Ustaad G 76,49.1845873,-122.843637
+SUR_CC,restaurants,Tim Hortons,49.1821446,-122.8439927
+SUR_CC,restaurants,A&W,49.1822909,-122.84436
+SUR_CC,restaurants,Freshslice Pizza,49.1829337,-122.844312
+SUR_CC,restaurants,New Town Bakery,49.1899409,-122.8469496
+SUR_CC,restaurants,Uncle Fatih’s Pizza,49.1896608,-122.847876
+SUR_CC,restaurants,Phở Hòa,49.189941,-122.847175
+SUR_CC,restaurants,D-Plus Pizza,49.1880039,-122.8465109
+SUR_CC,restaurants,Freshslice Pizza,49.1890794,-122.8474254
+SUR_CC,restaurants,Central Cafe,49.1890081,-122.8474254
+SUR_CC,restaurants,Papa John's,49.1946688,-122.844843
+SUR_CC,restaurants,Dell Lanes,49.1947506,-122.844843
+SUR_CC,restaurants,Donair Hub,49.1895759,-122.8478744
+SUR_CC,restaurants,Freshii,49.19063,-122.847976
+SUR_CC,restaurants,Gong Cha,49.1896312,-122.8474531
+SUR_CC,restaurants,Tim Hortons,49.1899799,-122.8480699
+SUR_CC,restaurants,Newton Hotpot,49.1845633,-122.8446011
+SUR_CC,restaurants,Taste of Africa,49.1963325,-122.845583
+SUR_CC,restaurants,KINTON RAMEN,49.18181,-122.8437168
+SUR_CC,restaurants,Jollibee,49.1815854,-122.8450706
+SUR_CC,restaurants,Starbucks,49.1815364,-122.8439289
+SUR_CC,restaurants,Pho 68,49.1820709,-122.8436052
+SUR_CC,restaurants,Subway,49.1815234,-122.8437147
+SUR_CC,restaurants,Ruex Café & Bar,49.1807575,-122.8445437
+SUR_CC,restaurants,Panago,49.1815554,-122.8438437
+SUR_CC,restaurants,Sushi Street,49.1814971,-122.8435709
+SUR_CC,restaurants,Presotea,49.1814401,-122.8435132
+SUR_CC,restaurants,Waffle House Diner,49.1811913,-122.843764
+SUR_CC,restaurants,Domino's,49.1980603,-122.8421098
+SUR_CC,restaurants,Trees Organic Coffee & Cheesecake,49.1899397,-122.850122
+SUR_CC,restaurants,D-Plus Curry House,49.1907076,-122.8479761
+SUR_CC,restaurants,King George Donair,49.1845652,-122.844393
+SUR_CC,restaurants,Freshslice Pizza,49.1828263,-122.8450068
+SUR_CC,restaurants,Pita Pit,49.1830091,-122.8445188
+SUR_CC,restaurants,A-1Pizza,49.1845682,-122.8437612
+SUR_CC,restaurants,Rice and Noodle,49.1819249,-122.8436855
+SUR_CC,restaurants,Ocean Park Pizza,49.1914366,-122.8571974
+SUR_CC,restaurants,Chiiwala of London,49.1866524,-122.8495796
+SUR_CC,restaurants,Combine Cafe & Bar,49.182038,-122.8459243
+SUR_CC,restaurants,King Do Seafood Restaurant,49.1912503,-122.8364887
+SUR_CC,restaurants,Nemesis Coffee,49.1887011,-122.8515284
+SUR_CC,restaurants,Big Star Sandwich Co.,49.1914464,-122.8507537
+SUR_CC,restaurants,Kokoro Japanese Ramen House,49.1918561,-122.8503138
+SUR_CC,restaurants,AHA Indian Food Paradise,49.187633,-122.8434895
+SUR_CC,restaurants,Take Five Café,49.1911074,-122.8491663
+SUR_CC,restaurants,Skye Avenue Kitchen & Lounge,49.1877134,-122.8485694
+SUR_CC,restaurants,McDonald's,49.188720869498106,-122.844777543908
+SUR_CC,restaurants,White Spot,49.187572519072035,-122.84597066531651
+SUR_CC,transit_stops,King George Station Bay 4,49.1828338,-122.845162
+SUR_CC,transit_stops,104 Ave (WB) at Whalley Blvd,49.1916666,-122.842418
+SUR_CC,transit_stops,University Dr (NB) at 107A Ave,49.1976572,-122.850745
+SUR_CC,transit_stops,University Dr (SB) at 107A Ave,49.1972515,-122.85102
+SUR_CC,transit_stops,University Dr (NB) at 105A Ave,49.1948016,-122.850755
+SUR_CC,transit_stops,University Dr (SB) at 105A Ave,49.1938292,-122.851038
+SUR_CC,transit_stops,104 Ave (EB) at University Dr,49.1915294,-122.849179
+SUR_CC,transit_stops,104 Ave (EB) at Whalley Blvd,49.1914764,-122.841144
+SUR_CC,transit_stops,University Dr (NB) at 104 Ave,49.1920425,-122.850687
+SUR_CC,transit_stops,King George Station Bay 3,49.1818201,-122.842111
+SUR_CC,transit_stops,King George Station Bay 1,49.1824462,-122.8456862
+SUR_CC,transit_stops,Surrey Central Station Bay 14,49.1891041,-122.847569
+SUR_CC,transit_stops,Surrey Central Station Bay 13,49.1896992,-122.847635
+SUR_CC,transit_stops,Surrey Central Station Bay 5A,49.1892765,-122.849727
+SUR_CC,transit_stops,Surrey Central Station Bay 11,49.1893021,-122.84776
+SUR_CC,transit_stops,Surrey Central Station Bay 6,49.1889506,-122.849375
+SUR_CC,transit_stops,Surrey Central Station Bay 5,49.188844,-122.849649
+SUR_CC,transit_stops,Surrey Central Station Bay 4,49.1888448,-122.849356
+SUR_CC,transit_stops,Surrey Central Station Bay 7,49.1889559,-122.84911
+SUR_CC,transit_stops,Surrey Central Station Bay 8,49.1889578,-122.848748
+SUR_CC,transit_stops,Surrey Central Station Bay 9,49.1889671,-122.848475
+SUR_CC,transit_stops,Surrey Central Station Bay 10,49.1890073,-122.847993
+SUR_CC,transit_stops,Surrey Central Station Bay 3,49.1888423,-122.848831
+SUR_CC,transit_stops,Surrey Central Station Bay 2,49.188842,-122.848558
+SUR_CC,transit_stops,Surrey Central Station Bay 1,49.1888665,-122.8481842
+SUR_CC,transit_stops,King George Station Bay 2,49.1831229,-122.845166
+SUR_CC,transit_stops,104 Ave (WB) at University Dr,49.1917306,-122.851706
+SUR_CC,transit_stops,104 Ave (WB) at 133 St,49.1917758,-122.854571
+SUR_CC,transit_stops,104 Ave (EB) at 132 St,49.1915693,-122.85585
+SUR_CC,transit_stops,104 Ave (WB) at 132 St,49.1917506,-122.857155
+SUR_CC,transit_stops,University Dr (SB) at 104 Ave,49.1910418,-122.850229
+SUR_CC,transit_stops,104 Ave (EB) at King George Blvd,49.1915006,-122.844176
+SUR_CC,transit_stops,104 Ave (WB) at 138A St,49.1916343,-122.838194
+SUR_CC,transit_stops,104 Ave (EB) at 139 St,49.191418,-122.837208
+SUR_CC,transit_stops,102 Ave (EB) at 139 St,49.1876831,-122.83752
+SUR_CC,transit_stops,102 Ave (WB) at 139 St,49.1878584,-122.837864
+SUR_CC,transit_stops,102 Ave (EB) at 137A St,49.1876988,-122.840763
+SUR_CC,transit_stops,102 Ave (WB) at 137A St,49.1878826,-122.841636
+SUR_CC,transit_stops,102 Ave (EB) at Whalley Blvd,49.1877242,-122.842829
+SUR_CC,transit_stops,Fraser Hwy (WB) at Whalley Blvd,49.1807766,-122.842321
+SUR_CC,transit_stops,King George Blvd (NB) at 100 Ave,49.1846274,-122.845179
+SUR_CC,transit_stops,104 Ave (WB) at 13000 Block,49.1917734,-122.861362
+SUR_CC,transit_stops,104 Ave (EB) at 13000 Block,49.1916139,-122.860409
+SUR_CC,transit_stops,University Dr (SB) at 10100 Block,49.1875062,-122.851494
+SUR_CC,transit_stops,University Dr (NB) at Old Yale Rd,49.186521,-122.851508
+SUR_CC,transit_stops,Old Yale Rd (EB) at University Dr,49.185693,-122.85106
+SUR_CC,transit_stops,Old Yale Rd (WB) at University Dr,49.1863877,-122.852334
+SUR_CC,transit_stops,Old Yale Rd (EB) at 13500 Block,49.1843231,-122.847535
+SUR_CC,transit_stops,132 St (NB) at Old Yale Rd,49.1879265,-122.856341
+SUR_CC,transit_stops,132 St (SB) at Old Yale Rd,49.1874201,-122.856619
+SUR_CC,transit_stops,132 St (SB) at 103A Ave,49.190978,-122.856552
+SUR_CC,transit_stops,132 St (NB) at 100 Ave,49.1848721,-122.856388
+SUR_CC,transit_stops,132 St (SB) at 100 Ave,49.1840597,-122.8566714
+SUR_CC,transit_stops,132 St (NB) at 98 Ave,49.1810699,-122.856521
+SUR_CC,transit_stops,Surrey Central Station Bay 12,49.1897469,-122.847749
+SUR_CC,transit_stops,100 Ave (EB) at 130 St,49.1843604,-122.861711
+SUR_CC,transit_stops,100 Ave (WB) at 132 St,49.1844713,-122.8575
+SUR_CC,transit_stops,Old Yale Rd (EB) at 132 St,49.1873906,-122.855642
+SUR_CC,transit_stops,King George Stn Bay 5,49.1837142,-122.8457454
+SUR_CC,transit_stops,King George Boulevard (SB) at 108 Avenue,49.1984602,-122.8459348
+SUR_CC,transit_stops,King George Boulevard (SB) at 105A Avenue,49.1941451,-122.8455446
+SUR_CC,transit_stops,Ace Charters,49.1822622,-122.8436089
+SUR_CC,transit_stops,King George Blvd (NB) at Fraser Highway,49.1809369,-122.845268
+SUR_CC,transit_stops,King George Blvd (NB) at 102 Ave,49.1881843,-122.845187
+SUR_CC,transit_stops,King George Boulevard (NB) at 105A Avenue,49.1947289,-122.845118
+SUR_CC,transit_stops,,49.1879084,-122.843875
+SUR_CC,parks,Holland Park,49.18389700532607,-122.84929844623412
+SUR_CC,parks,Royal Kwantlen Park,49.19358582080392,-122.8621783804456
+SUR_CC,parks,Tom Binnie Park,49.195826077199385,-122.84959964969325
+SUR_CC,parks,Evergreen Park,49.18324181831684,-122.86071317992452
+SUR_CC,parks,Forsyth Park,49.19600564014005,-122.83565060230663
+SUR_CC,parks,Whalley Athletic Park,49.19600828817872,-122.8523895344486
+SUR_CC,parks,West Village Park,49.190829261450034,-122.85480951341681
+SUR_CC,grocery,大統華 T&T Supermarket,49.1855236,-122.848078
+SUR_CC,grocery,GG's African Caribbean Market,49.1956582,-122.8456588
+SUR_CC,grocery,Sari-Sari Filipino Grocery,49.1853393,-122.8437748
+SUR_CC,grocery,Union Latino's Food,49.194619,-122.8462562
+SUR_CC,grocery,Big Bazaar,49.1846232,-122.844217
+SUR_CC,grocery,Surrey Super Market,49.1917988,-122.8381063
+SUR_CC,grocery,Farm fresh Produce,49.1866549,-122.8500396
+SUR_CC,grocery,Circle K,49.1913538,-122.856942
+SUR_CC,grocery,Habib Market,49.1864446,-122.8437309
+SUR_CC,grocery,Lucky Supermarket,49.1955766,-122.8441242
+SUR_CC,grocery,Daily Fresh,49.1891341,-122.8474195
+SUR_CC,grocery,Express Convenience Store,49.1855612,-122.843514
+SUR_CC,grocery,Queen's Market,49.1899407,-122.8466818
+SUR_CC,grocery,7-Eleven,49.192261,-122.844967
+SUR_CC,grocery,Sky Stop,49.1894784,-122.8478732
+SUR_CC,grocery,Beauty 4 Ashes,49.1967352,-122.8457883
+SUR_CC,grocery,African Superstore,49.1980811,-122.8458444
+SUR_CC,grocery,Save-On-Foods,49.1812224,-122.8442496
+SUR_CC,grocery,Beeni's Market,49.1813039,-122.8460153
+SUR_CC,grocery,Krave Smoke Vape Shop & Convenience,49.1845717,-122.843876
+SUR_CC,grocery,Thakar Thal Foods,49.1849688,-122.844582
+SUR_CC,grocery,SunFarm International Specialty Foods,49.1861982,-122.8437225
+SUR_CC,grocery,,49.1913871,-122.8506854
+RMD_CC,schools,Trinity Western University - Richmond,49.1714223,-123.1397379
+RMD_CC,schools,Richmond Secondary School,49.16127964958677,-123.14197413746703
+RMD_CC,schools,William Cook Elementary School,49.165556829732196,-123.12756921969014
+RMD_CC,schools,Kwantlen Polytechnic University,49.17494744918857,-123.12742631304941
+RMD_CC,schools,General Currie Elementary,49.15827655844292,-123.13367485196163
+RMD_CC,schools,,49.16739363926864,-123.13408522652762
+RMD_CC,restaurants,Starbucks,49.1722688,-123.136106
+RMD_CC,restaurants,Gyubee Japanese Grill,49.1711386,-123.136051
+RMD_CC,restaurants,Blenz Coffee,49.1712706,-123.135892
+RMD_CC,restaurants,IHOP,49.1645143,-123.136119
+RMD_CC,restaurants,Empire Seafood Restaurant,49.1708481,-123.1369363
+RMD_CC,restaurants,Kumare Restaurant & Bakery,49.1642526,-123.134705
+RMD_CC,restaurants,Myth Grill & Yakitori Bistro,49.1724594,-123.1361327
+RMD_CC,restaurants,theVenti,49.1698815,-123.1368146
+RMD_CC,restaurants,Kirin Seafood Restaurant,49.1697933,-123.1378771
+RMD_CC,restaurants,Haidilao Hot Pot,49.1707675,-123.135859
+RMD_CC,restaurants,Pho Lan Beef Noodle Soup,49.1630345,-123.1363814
+RMD_CC,restaurants,Once More Restaurant,49.1721,-123.132726
+RMD_CC,restaurants,Piping Hot,49.172236,-123.135835
+RMD_CC,restaurants,Big Rock Café,49.1743008,-123.1462035
+RMD_CC,restaurants,Shanghai River Restaurant,49.170376,-123.138704
+RMD_CC,restaurants,Pho An Nam,49.1642073,-123.136373
+RMD_CC,restaurants,Neptune Seafood Restaurant,49.1728469,-123.1361738
+RMD_CC,restaurants,Kingspark Steak House,49.1703624,-123.1323842
+RMD_CC,restaurants,Chuan BBQ Restaurant,49.1705561,-123.1323956
+RMD_CC,restaurants,Fisherman's Seafood House,49.1707296,-123.132402
+RMD_CC,restaurants,Beijing Hot Pot,49.1704519,-123.1329301
+RMD_CC,restaurants,Banzai Sushi House,49.1706192,-123.1330644
+RMD_CC,restaurants,Tsim Chai Noodles,49.1705547,-123.133066
+RMD_CC,restaurants,Samsoonie Noodle & Rice,49.1707515,-123.1334065
+RMD_CC,restaurants,Enjoy Cafe 1+1,49.1708683,-123.134169
+RMD_CC,restaurants,Thai Box Restaurant,49.1699868,-123.134371
+RMD_CC,restaurants,覓Me Coffee&Tea,49.1693064,-123.136163
+RMD_CC,restaurants,Mui Garden,49.171046,-123.1394324
+RMD_CC,restaurants,Phở M&K Vietnamese House,49.1690148,-123.133937
+RMD_CC,restaurants,Converge Restaurant,49.16895,-123.1352595
+RMD_CC,restaurants,Freshslice Pizza,49.1687064,-123.135534
+RMD_CC,restaurants,Tokyo Joe's Sushi,49.1721471,-123.1335978
+RMD_CC,restaurants,Oriental Rice Noodle,49.1713091,-123.1349132
+RMD_CC,restaurants,Sun Tea,49.1721939,-123.1335185
+RMD_CC,restaurants,Golden Paramount Seafood Restaurant,49.1636243,-123.1351027
+RMD_CC,restaurants,John 3:16 Malaysian Delights,49.1641291,-123.136378
+RMD_CC,restaurants,Storeys Cafe,49.1633547,-123.1350931
+RMD_CC,restaurants,Wing Kee Restaurant,49.1622749,-123.132539
+RMD_CC,restaurants,Redbud Restaurant,49.16229,-123.1316477
+RMD_CC,restaurants,Sea Fortune Restaurant,49.1620454,-123.1316764
+RMD_CC,restaurants,Tian Shi Fu Restaurant,49.1691429,-123.136796
+RMD_CC,restaurants,Xiang Chuan Mansion,49.1692987,-123.136793
+RMD_CC,restaurants,Sing Cafe Fusion Style,49.1737186,-123.1464033
+RMD_CC,restaurants,JJang Korean BBQ and Social House,49.1736747,-123.1472813
+RMD_CC,restaurants,Dinesty Dumpling House,49.173166,-123.146525
+RMD_CC,restaurants,Co'm Vietnamese,49.1741305,-123.143635
+RMD_CC,restaurants,Myth Szechuan Cuisine,49.1713829,-123.1356013
+RMD_CC,restaurants,Top Shanghai Cuisine Restaurant,49.1713722,-123.1350086
+RMD_CC,restaurants,Yanbian BBQ,49.1723518,-123.1324365
+RMD_CC,restaurants,Hồng Phát,49.1723529,-123.1332043
+RMD_CC,restaurants,South Silk Road Restaurant,49.1700098,-123.1437868
+RMD_CC,restaurants,Matcha Cafe Maiko,49.1689583,-123.1330128
+RMD_CC,restaurants,Harold's,49.171158,-123.1416095
+RMD_CC,restaurants,Wo Fung Noodle Express,49.1642937,-123.1353047
+RMD_CC,restaurants,Mango Yummy,49.1704803,-123.1326878
+RMD_CC,restaurants,Yang Guo Fu Malatang,49.1712741,-123.134055
+RMD_CC,restaurants,75 West Coast Grill,49.1704108,-123.1404738
+RMD_CC,restaurants,Subway,49.1700508,-123.137816
+RMD_CC,restaurants,Free Bird Table & Bar,49.170351,-123.1448673
+RMD_CC,restaurants,Penguin Bros.,49.1737227,-123.1467201
+RMD_CC,restaurants,Xing Fu Tang,49.1750112,-123.130625
+RMD_CC,restaurants,R Ki Coffee Lab,49.1736077,-123.1327199
+RMD_CC,restaurants,Obanhmi,49.169084,-123.1339168
+RMD_CC,restaurants,PETPLS Café & Supply,49.1674861,-123.1357349
+RMD_CC,restaurants,Kumo Sukiyaki Restaurant,49.1636218,-123.1348258
+RMD_CC,restaurants,Grains Fish Noodle,49.1708833,-123.1338252
+RMD_CC,restaurants,Chicko Chicken,49.1707066,-123.1326429
+RMD_CC,restaurants,Uncle Fatih's Pizza,49.16747,-123.1349778
+RMD_CC,restaurants,Yoki Tapas,49.1666941,-123.1347739
+RMD_CC,restaurants,Hokkaido Ramen Santouka,49.1687065,-123.1357152
+RMD_CC,restaurants,Quesada,49.1710526,-123.13679
+RMD_CC,restaurants,Tea Industries,49.1668279,-123.1361749
+RMD_CC,restaurants,Yummy Slice Pizza,49.1667123,-123.135791
+RMD_CC,restaurants,Jing Tan Grill House,49.1710445,-123.1398065
+RMD_CC,restaurants,SYU Japanese Cuisine & Sushi Bar,49.1751215,-123.1472565
+RMD_CC,restaurants,Big Way Hot Pot,49.171278,-123.1343497
+RMD_CC,restaurants,House of Dawn Steakhouse + Bar,49.1727529,-123.135531
+RMD_CC,restaurants,Panago,49.1705095,-123.1396205
+RMD_CC,restaurants,Parkhill Seafood Restaurant,49.1704462,-123.1373673
+RMD_CC,restaurants,Real Love Sushi & BBQ,49.1706323,-123.1373731
+RMD_CC,restaurants,Chicha San Chen,49.16748,-123.1353296
+RMD_CC,restaurants,Triple O's,49.1673668,-123.1361286
+RMD_CC,restaurants,Fresh Press Coffee Bar,49.1667249,-123.1360567
+RMD_CC,restaurants,Miion Café,49.1666991,-123.1352522
+RMD_CC,restaurants,A Bao Time,49.1674854,-123.1354911
+RMD_CC,restaurants,Lattea,49.173312,-123.1464253
+RMD_CC,restaurants,cafe & life co.,49.1636183,-123.1346381
+RMD_CC,restaurants,Tea Origin,49.1636218,-123.1343606
+RMD_CC,restaurants,Hui Lau Shan,49.1648583,-123.1339829
+RMD_CC,restaurants,Sushi Lovers,49.1648675,-123.1353962
+RMD_CC,restaurants,Bubble Fruity,49.1686976,-123.1341474
+RMD_CC,restaurants,Silkway Halal Cuisine,49.1687053,-123.1346957
+RMD_CC,restaurants,Eggette House,49.1700325,-123.1332936
+RMD_CC,restaurants,Wu Han Spicy Duck,49.1700325,-123.1331783
+RMD_CC,restaurants,Afghan Chopan Restaurant,49.1700343,-123.1330441
+RMD_CC,restaurants,Quds Halal Noodle House,49.1734218,-123.1317733
+RMD_CC,restaurants,Milksha,49.1690951,-123.136794
+RMD_CC,restaurants,Starbucks,49.174795,-123.1306306
+RMD_CC,restaurants,Lao Shan Dong Homemade Noodle House,49.1669644,-123.1361819
+RMD_CC,restaurants,Deer One Hotpot,49.1648507,-123.1345765
+RMD_CC,restaurants,Juicy BBQ,49.1707646,-123.1338279
+RMD_CC,restaurants,Neptune Wonton Noodle,49.172769,-123.1359934
+RMD_CC,restaurants,Waves Coffee House,49.1707718,-123.1368258
+RMD_CC,restaurants,Kiraku Sushi,49.1708947,-123.1368143
+RMD_CC,restaurants,Peanut's Bubble Tea,49.1697463,-123.1331147
+RMD_CC,restaurants,Captain Wa,49.1696796,-123.1331173
+RMD_CC,restaurants,Hight Dragon Vietnamese Cuisine,49.1698421,-123.133116
+RMD_CC,restaurants,Xi An Cuisine,49.1697215,-123.1334005
+RMD_CC,restaurants,1915 Lan Zhou Beef Noodle,49.1696168,-123.1334003
+RMD_CC,restaurants,Chef Liu Kitchen,49.1695562,-123.1334001
+RMD_CC,restaurants,Hotpot Potato Noodle,49.1698301,-123.1334022
+RMD_CC,restaurants,Hong Kong Cafeteria,49.1694928,-123.1333979
+RMD_CC,restaurants,Mr. Dumpling,49.169429,-123.1332822
+RMD_CC,restaurants,Mr. Mango,49.1694285,-123.1332359
+RMD_CC,restaurants,Hei Hei Rice Roll,49.1695393,-123.1331095
+RMD_CC,restaurants,Chuan Siang Kitchen,49.1695806,-123.1331122
+RMD_CC,restaurants,Wonder Wok,49.1696702,-123.1333999
+RMD_CC,restaurants,Snail Rice Noodle King,49.1694935,-123.1331088
+RMD_CC,restaurants,YM Food LTD HK Style BBQ,49.169792,-123.1330015
+RMD_CC,restaurants,Bamboo Grove Restaurant,49.1632026,-123.1363816
+RMD_CC,restaurants,King Fried Chicken,49.1633703,-123.1363648
+RMD_CC,restaurants,DongShuJiaoMa,49.172746,-123.1346907
+RMD_CC,restaurants,KungFu Dumplings,49.1705089,-123.1397502
+RMD_CC,restaurants,Tasty BBQ & Beer Bar,49.170486,-123.1394086
+RMD_CC,restaurants,CAVU Kitchen Bar,49.1718536,-123.1404605
+RMD_CC,restaurants,Yummy Deli & Coffee,49.1707337,-123.1472051
+RMD_CC,restaurants,Shawarma 2 Go Grill,49.1700134,-123.1361993
+RMD_CC,restaurants,Choowee,49.167495,-123.1351417
+RMD_CC,restaurants,White Spot,49.17180431165757,-123.13598114736001
+RMD_CC,restaurants,Pizza Hut,49.169900291484716,-123.13177235034559
+RMD_CC,restaurants,McDonald's,49.16164415286264,-123.13589730162781
+RMD_CC,restaurants,White Spot,49.16715656640724,-123.13769689386264
+RMD_CC,restaurants,Starbucks,49.16788623518635,-123.13781503625135
+RMD_CC,restaurants,Shi-Art Chinese Cuisine,49.165586044895946,-123.13768492143737
+RMD_CC,restaurants,Tim Hortons,49.16595441097089,-123.13766772189332
+RMD_CC,restaurants,Hey! I am Yogost,49.16589359441014,-123.13792962566905
+RMD_CC,restaurants,Chatime,49.16687779630112,-123.13793600985407
+RMD_CC,restaurants,Cactus Club Cafe,49.166755459859544,-123.13770225478244
+RMD_CC,restaurants,Hello Nori,49.1668669690376,-123.13931996386054
+RMD_CC,restaurants,Blenz Coffee,49.167868861635164,-123.13834854670466
+RMD_CC,restaurants,CoCo Fresh Tea & Juice,49.16808668039845,-123.13834379413473
+RMD_CC,restaurants,Togo Sushi,49.16843939621365,-123.13894660242121
+RMD_CC,restaurants,Mr. Pretzels,49.1681562,-123.13872639999998
+RMD_CC,restaurants,A&W,49.16760753198483,-123.13913637336233
+RMD_CC,restaurants,KFC,49.16760699999999,-123.13905479999998
+RMD_CC,restaurants,Subway,49.167606858738814,-123.13897358788385
+RMD_CC,restaurants,Dinesty Dumpling House,49.16760498757314,-123.1388940174615
+RMD_CC,restaurants,Umi Japanese Eatery & Udon Bar,49.1675756030922,-123.13874678251061
+RMD_CC,restaurants,Bourbon St. Grill,49.16751264237692,-123.13922467378706
+RMD_CC,restaurants,Thaï Express,49.16745695236179,-123.13922354568491
+RMD_CC,restaurants,Kung Pao Wok,49.167400167094996,-123.13922331466651
+RMD_CC,restaurants,Jugo Juice,49.16731964923264,-123.13925804168866
+RMD_CC,restaurants,Curry Express,49.16725964360924,-123.13927496799316
+RMD_CC,restaurants,New York Fries,49.167199437017025,-123.13927630788925
+RMD_CC,restaurants,Basha Restaurant,49.16713850417126,-123.13927962562322
+RMD_CC,restaurants,Dairy Queen,49.16737573831993,-123.13896502508175
+RMD_CC,restaurants,Real Fruit Bubble Tea,49.1673798086337,-123.13885522945661
+RMD_CC,restaurants,Don Tacos,49.16753977490227,-123.13852690924053
+RMD_CC,restaurants,Bubble Waffle Cafe,49.167479386854644,-123.13852664159651
+RMD_CC,restaurants,Opa! Of Greece,49.16742544394382,-123.13852692509603
+RMD_CC,restaurants,Edo Japan,49.16737148645249,-123.13852751476823
+RMD_CC,restaurants,% Arabica,49.16707387495358,-123.13859612719476
+RMD_CC,restaurants,The Dolar Shop,49.17513836007033,-123.13428314659986
+RMD_CC,restaurants,Cotti Coffee,49.17524851715726,-123.1315915907582
+RMD_CC,restaurants,Katte Poke Don & Japanese Curry,49.17562208529821,-123.13218783091125
+RMD_CC,transit_stops,Garden City Rd (NB) at Lansdowne Rd,49.1741568,-123.1244039
+RMD_CC,transit_stops,Lansdowne Station Bay 4,49.1728964,-123.136858
+RMD_CC,transit_stops,No. 3 Rd (SB) at Granville Ave,49.1631417,-123.136685
+RMD_CC,transit_stops,No. 3 Rd (SB) at Cook Rd,49.1657869,-123.1367525
+RMD_CC,transit_stops,Richmond-Brighouse Station Bay 3,49.1681117,-123.1363802
+RMD_CC,transit_stops,Westminster Hwy (EB) at Gilbert Rd,49.1700846,-123.1471313
+RMD_CC,transit_stops,Westminster Hwy (EB) at Alderbridge Way,49.170102,-123.1442423
+RMD_CC,transit_stops,Westminster Hwy (WB) at Alderbridge Way,49.1702952,-123.1452044
+RMD_CC,transit_stops,Westminster Hwy (WB) at Minoru Blvd,49.1703108,-123.1407895
+RMD_CC,transit_stops,Westminster Hwy (EB) at Minoru Blvd,49.1701033,-123.1392546
+RMD_CC,transit_stops,Westminster Hwy. at No. 3 Rd.,49.1703224,-123.1373282
+RMD_CC,transit_stops,No. 3 Rd (SB) at Westminster Hwy,49.1697902,-123.1367348
+RMD_CC,transit_stops,Richmond-Brighouse Station Bay 5,49.168397,-123.1367067
+RMD_CC,transit_stops,Granville Ave (EB) at Gilbert Rd,49.1626119,-123.1469734
+RMD_CC,transit_stops,Granville Ave (WB) at Moffatt Rd,49.1628638,-123.1453959
+RMD_CC,transit_stops,Granville Ave (EB) at Moffatt Rd,49.1626099,-123.1424739
+RMD_CC,transit_stops,Granville Ave (WB) at Minoru Blvd,49.1628589,-123.1408748
+RMD_CC,transit_stops,Granville Ave (EB) at Minoru Blvd,49.1626108,-123.1397599
+RMD_CC,transit_stops,Richmond-Brighouse Station Bay 4,49.1684812,-123.1363772
+RMD_CC,transit_stops,Richmond-Brighouse Station Bay 6,49.1687603,-123.1354598
+RMD_CC,transit_stops,Cook Rd (EB) at No. 3 Rd,49.1664522,-123.1357879
+RMD_CC,transit_stops,Lansdowne Station Bay 1,49.1743903,-123.1366276
+RMD_CC,transit_stops,Lansdowne Station Bay 2,49.1737612,-123.1359988
+RMD_CC,transit_stops,No. 3 Road (NB) at Park Road,49.1641591,-123.136442
+RMD_CC,transit_stops,Garden City Rd (SB) at Bennett Rd,49.1604714,-123.1255134
+RMD_CC,transit_stops,Cook Rd (WB) at Cooney Rd,49.1665605,-123.1320149
+RMD_CC,transit_stops,Garden City Rd (NB) at General Currie Rd,49.1595438,-123.1253015
+RMD_CC,transit_stops,Garden City Rd (NB) at Bennett Rd,49.1611634,-123.1252901
+RMD_CC,transit_stops,Cook Rd (WB) at Pimlico Way,49.1665187,-123.1263634
+RMD_CC,transit_stops,Garden City Rd (NB) at Jones Rd,49.1576139,-123.1252709
+RMD_CC,transit_stops,Anderson Rd (EB) at Buswell St,49.1633945,-123.1340675
+RMD_CC,transit_stops,Granville Avenue (WB) at Buswell Street,49.1628524,-123.1343963
+RMD_CC,transit_stops,Granville Avenue (EB) at Buswell Street,49.1626092,-123.132936
+RMD_CC,transit_stops,Anderson Rd (WB) at Buswell St,49.1635617,-123.1346939
+RMD_CC,transit_stops,Anderson Rd (EB) at No. 3 Rd,49.1634068,-123.135731
+RMD_CC,transit_stops,Cook Rd (EB) at Buswell St,49.1664388,-123.1331457
+RMD_CC,transit_stops,Cook Rd (EB) at Eckersley Rd,49.1664105,-123.1297794
+RMD_CC,transit_stops,Cook Rd (EB) at Pimlico Way,49.1663803,-123.1256616
+RMD_CC,transit_stops,Garden City Rd (NB) at Cook Rd,49.1668412,-123.1244701
+RMD_CC,transit_stops,Garden City Rd (NB) at Ferndale Rd,49.1692813,-123.1243662
+RMD_CC,transit_stops,Garden City Road (SB) at Ferndale Road,49.1683462,-123.1248447
+RMD_CC,transit_stops,Garden City Rd (SB) at Westminster Hwy,49.169641,-123.1247988
+RMD_CC,transit_stops,Westminster Hwy (EB) at Garden City Rd,49.1700222,-123.1230101
+RMD_CC,transit_stops,Garden City Rd (NB) at Westminster Hwy,49.1705627,-123.124409
+RMD_CC,transit_stops,Westminster Hwy (WB) at Garden City Rd,49.1702309,-123.1256464
+RMD_CC,transit_stops,Garden City Rd (SB) at General Currie Rd,49.1588375,-123.1255279
+RMD_CC,transit_stops,Garden City Road (SB) at Lansdowne Rd,49.173325,-123.1247719
+RMD_CC,transit_stops,Lansdowne Station Bay 3,49.1750902,-123.1369317
+RMD_CC,transit_stops,Lansdowne Rd (EB) at Cooney Rd,49.1737278,-123.1309315
+RMD_CC,transit_stops,Lansdowne Rd (WB) at Kwantlen St,49.1739569,-123.12733
+RMD_CC,transit_stops,Granville Ave (EB) at No. 3 Rd,49.1626124,-123.1360164
+RMD_CC,transit_stops,Granville Ave (EB) at Garden City Rd,49.1627484,-123.124855
+RMD_CC,transit_stops,Granville Ave (WB) at Garden City Rd,49.1628764,-123.1240703
+RMD_CC,transit_stops,No. 3 Rd (NB) at Ackroyd Rd,49.1723436,-123.136501
+RMD_CC,transit_stops,Granville Ave (WB) at Ash St,49.1628783,-123.1203993
+RMD_CC,transit_stops,Granville Ave (EB) at Heather St,49.162797,-123.1222182
+RMD_CC,transit_stops,Granville Ave (WB) at Cooney Rd,49.1628587,-123.1299304
+RMD_CC,transit_stops,Granville Ave (EB) at Saint Albans Rd,49.1625804,-123.130106
+RMD_CC,transit_stops,No. 3 Rd (NB) at Jones Rd,49.1577533,-123.136452
+RMD_CC,transit_stops,No. 3 Rd (SB) at General Currie Rd,49.1595351,-123.1367314
+RMD_CC,transit_stops,No. 3 Rd (NB) at General Currie Rd,49.1598213,-123.1364656
+RMD_CC,transit_stops,No. 3 Rd (NB) at Bennett Rd,49.1616806,-123.136412
+RMD_CC,transit_stops,Richmond-Brighouse Station Bay 1,49.1677311,-123.136177
+RMD_CC,transit_stops,Richmond-Brighouse Station Bay 2,49.1675434,-123.1357133
+RMD_CC,transit_stops,Richmond-Brighouse Station Bay 7,49.1677455,-123.135432
+RMD_CC,transit_stops,Cook Rd (WB) at No. 3 Rd,49.1665996,-123.1355087
+RMD_CC,transit_stops,Cooney Rd (NB) at Westminster Hwy,49.1707729,-123.1313693
+RMD_CC,transit_stops,Cooney Rd (SB) at Ackroyd Rd,49.1715791,-123.1316567
+RMD_CC,transit_stops,Lansdowne Rd (EB) at Kwantlen St,49.1736728,-123.128274
+RMD_CC,transit_stops,Kwantlen St (NB) at Lansdowne Rd,49.1747647,-123.1285419
+RMD_CC,transit_stops,No. 3 Rd (NB) at Saba Rd,49.1693823,-123.1363732
+RMD_CC,transit_stops,Cook Rd (EB) at No. 3 Rd,49.1664506,-123.1350519
+RMD_CC,transit_stops,Lansdowne Rd (WB) at Cooney Rd,49.1739075,-123.1329326
+RMD_CC,transit_stops,Lansdowne Rd (WB) at No. 3 Rd,49.1739478,-123.1377248
+RMD_CC,transit_stops,Lansdowne Rd (WB) at Cedarbridge Way,49.1738964,-123.1416706
+RMD_CC,transit_stops,Lansdowne Rd (EB) at Cedarbridge Way,49.1738182,-123.1429182
+RMD_CC,transit_stops,Gilbert Rd (NB) at Elmbridge Way,49.1727436,-123.1463469
+RMD_CC,transit_stops,Gilbert Rd (SB) at Elmbridge Way,49.1723521,-123.1469778
+RMD_CC,transit_stops,Buswell St (SB) at Cook Rd,49.166179,-123.1338565
+RMD_CC,transit_stops,Minoru Blvd (NB) at Granville Ave,49.1631249,-123.1401097
+RMD_CC,transit_stops,Minoru Blvd (NB) at Minoru Gate,49.1652845,-123.1408681
+RMD_CC,transit_stops,Minoru Blvd (NB) at Murdoch Ave,49.1672878,-123.1401831
+RMD_CC,transit_stops,Minoru Blvd (NB) at Westminster Hwy,49.1705603,-123.1400357
+RMD_CC,transit_stops,Elmbridge Way (WB) at Minoru Blvd,49.1720872,-123.1412594
+RMD_CC,transit_stops,Elmbridge Way (WB) at Alderbridge Way,49.1721132,-123.1442738
+RMD_CC,transit_stops,Elmbridge Way (WB) at Gilbert Rd,49.1728477,-123.1472805
+RMD_CC,transit_stops,Minoru Blvd (SB) at Westminster Hwy,49.169618,-123.1403913
+RMD_CC,transit_stops,Minoru Blvd (SB) at Murdoch Ave,49.166743,-123.1410197
+RMD_CC,transit_stops,Minoru Blvd (SB) at Minoru Gate,49.1646589,-123.1408093
+RMD_CC,parks,Garden City Community Park,49.16429699769232,-123.12224769631543
+RMD_CC,parks,Paulik Neighbourhood Park,49.15791323541334,-123.1213581550973
+RMD_CC,parks,Garden City Lands,49.17372596220831,-123.11929892938863
+RMD_CC,parks,Katsura Neighbourhood Park,49.1682820049831,-123.12098504951219
+RMD_CC,parks,Lang (Saba/Buswell) Park,49.169120825358746,-123.1333752799423
+RMD_CC,parks,Brighouse Park,49.16203285835443,-123.13771359213821
+RMD_CC,parks,Minoru Park,49.165695956689305,-123.14447172917274
+RMD_CC,parks,General Currie Neighbourhood School Park,49.158203302829484,-123.13389570204131
+RMD_CC,parks,,49.16415009240377,-123.12900856666089
+RMD_CC,parks,Cook Neighbourhood School Park,49.16539016983613,-123.12925840414694
+RMD_CC,grocery,PriceSmart Foods,49.1714559,-123.133239
+RMD_CC,grocery,7-Eleven,49.1624326,-123.131755
+RMD_CC,grocery,Grand Value Asian Supermarket,49.1707611,-123.13313
+RMD_CC,grocery,Freshnote Market,49.1705211,-123.1334021
+RMD_CC,grocery,Wah Shang Supermarket,49.1642928,-123.1350627
+RMD_CC,grocery,On the Run,49.1674815,-123.136147
+RMD_CC,grocery,Happy Veggie World,49.1723534,-123.1329148
+RMD_CC,grocery,Peppers Produce,49.1698912,-123.1332535
+RMD_CC,grocery,Lee Men Grocery,49.1699472,-123.1330366
+RMD_CC,grocery,Tindahan Grocery,49.1709227,-123.1398618
+RMD_CC,grocery,B & R's Convenience Store,49.1705575,-123.1404494
+RMD_CC,grocery,Sungiven Foods,49.1648823,-123.1349623
+RMD_CC,grocery,,49.17334607880961,-123.12517606246925
+RMD_CC,grocery,大統華 T&T Supermarket,49.17493587536737,-123.13115840784415
+RMD_CC,grocery,,49.169774422479215,-123.12398154966733
+RMD_CC,grocery,Yuen Shing,49.16823695720496,-123.13903077442711
+RMD_CC,grocery,Smart 'n Save,49.1750068940741,-123.13269284662914
+RMD_CC,grocery,Langley Farm Market,49.17504552635964,-123.13318616279801
+NVAN_CENT,schools,,49.3274203,-123.0683895
+NVAN_CENT,schools,,49.321830335243845,-123.07398354243037
+NVAN_CENT,schools,,49.321715742755245,-123.0734055719236
+NVAN_CENT,schools,,49.32155665000001,-123.07508089999999
+NVAN_CENT,schools,Marlborough Tower,49.32139382785797,-123.07408266852619
+NVAN_CENT,schools,,49.31966143426164,-123.07385260353098
+NVAN_CENT,schools,,49.31967451558636,-123.07430435565561
+NVAN_CENT,schools,,49.318810549999995,-123.07563384999999
+NVAN_CENT,schools,,49.32124437757859,-123.0751569487889
+NVAN_CENT,schools,,49.3194359248547,-123.07805577612464
+NVAN_CENT,schools,,49.318573390678765,-123.07510262981631
+NVAN_CENT,schools,,49.31970788158519,-123.07501514997197
+NVAN_CENT,schools,,49.32180445,-123.0750916
+NVAN_CENT,schools,,49.32139480000001,-123.07509185
+NVAN_CENT,schools,,49.318915222511656,-123.07659209110852
+NVAN_CENT,schools,,49.31909625,-123.07622334999999
+NVAN_CENT,schools,,49.321830335243845,-123.07398354243037
+NVAN_CENT,schools,,49.321776187615995,-123.0744803089605
+NVAN_CENT,schools,,49.32235063909965,-123.07124477413869
+NVAN_CENT,schools,,49.32298088099542,-123.07111748679583
+NVAN_CENT,schools,Queensbury Elementary School,49.32763957604135,-123.05865184185024
+NVAN_CENT,schools,St. Edmund's Elementary School,49.31835742864147,-123.08173447273398
+NVAN_CENT,schools,Ridgeway Elementary School,49.315184971437965,-123.06163898926525
+NVAN_CENT,schools,St. Thomas Aquinas Regional Secondary School,49.31945651759785,-123.08634392107874
+NVAN_CENT,schools,Marine Campus,49.312591575058484,-123.08637802185314
+NVAN_CENT,schools,Carson Graham Secondary School,49.32880405870349,-123.08267504789485
+NVAN_CENT,schools,Queen Mary Elementary School,49.31927572796488,-123.07764931095106
+NVAN_CENT,restaurants,Zestea,49.3227659,-123.0720834
+NVAN_CENT,restaurants,Danbo,49.3217244,-123.072586
+NVAN_CENT,restaurants,Alberello Pizzeria,49.321953,-123.0728213
+NVAN_CENT,restaurants,Eighties Restaurant,49.3211676,-123.0730131
+NVAN_CENT,restaurants,Tehran Nights Restaurant,49.322223,-123.073174
+NVAN_CENT,restaurants,McDonald's,49.3273947,-123.072432
+NVAN_CENT,restaurants,Starbucks,49.3242961,-123.0725862
+NVAN_CENT,restaurants,Blenz Coffee,49.3219602,-123.072537
+NVAN_CENT,restaurants,Palki Indian,49.3222679,-123.0714
+NVAN_CENT,restaurants,Brazza Gelato & Coffee,49.325842,-123.071965
+NVAN_CENT,restaurants,Sushi Katsu,49.3260968,-123.0724768
+NVAN_CENT,restaurants,Tim Hortons,49.3224421,-123.0726121
+NVAN_CENT,restaurants,West of Java Cafe,49.311651,-123.0784505
+NVAN_CENT,restaurants,Thai House Restaurant,49.3115338,-123.0801501
+NVAN_CENT,restaurants,Browns Socialhouse,49.3126535,-123.0781809
+NVAN_CENT,restaurants,Sushi Bella,49.3124756,-123.077748
+NVAN_CENT,restaurants,Meat at O'Neill's,49.3124069,-123.0778328
+NVAN_CENT,restaurants,Pho98,49.326021,-123.0724875
+NVAN_CENT,restaurants,Buddha-full - Lonsdale,49.3122034,-123.078959
+NVAN_CENT,restaurants,Fishworks,49.3117439,-123.0790782
+NVAN_CENT,restaurants,Bean Around The World,49.3164945,-123.078151
+NVAN_CENT,restaurants,Boston Pizza,49.3125664,-123.0822132
+NVAN_CENT,restaurants,Freshii,49.3124327,-123.08221
+NVAN_CENT,restaurants,Yaas Grill House,49.3281564,-123.0725782
+NVAN_CENT,restaurants,Indian Fusion,49.3279483,-123.0724252
+NVAN_CENT,restaurants,Haru Sushi,49.3279098,-123.0724225
+NVAN_CENT,restaurants,Bori Korean Restaurant,49.3278642,-123.0724211
+NVAN_CENT,restaurants,Bubble Tea Bluemoon,49.3278104,-123.0724142
+NVAN_CENT,restaurants,Sushi UMI,49.3271302,-123.072477
+NVAN_CENT,restaurants,Panago,49.327016,-123.0724817
+NVAN_CENT,restaurants,Tequila Cocina Cantina & Traditional Mexican Eatery,49.3268197,-123.0724864
+NVAN_CENT,restaurants,Chilli Lee Szechuan Cuisine,49.3267078,-123.0724863
+NVAN_CENT,restaurants,Pawans Indian Kitchen,49.3266675,-123.0724874
+NVAN_CENT,restaurants,South Castle Korean Restaurant,49.3118642,-123.0764933
+NVAN_CENT,restaurants,Gringo,49.3126822,-123.0774776
+NVAN_CENT,restaurants,Winston,49.3130233,-123.077144
+NVAN_CENT,restaurants,Subway,49.3131411,-123.0768211
+NVAN_CENT,restaurants,Sushi Kumo,49.3116069,-123.0748444
+NVAN_CENT,restaurants,V-Nam,49.3120538,-123.0743405
+NVAN_CENT,restaurants,The Green Leaf Aburi Sushi,49.3120589,-123.0795495
+NVAN_CENT,restaurants,Farina a Legna,49.3122227,-123.077183
+NVAN_CENT,restaurants,Lee's Donuts,49.3123621,-123.07931
+NVAN_CENT,restaurants,Nando's,49.3200814,-123.070244
+NVAN_CENT,restaurants,Subway,49.3208761,-123.0721449
+NVAN_CENT,restaurants,Ga Hyang Ru,49.3190471,-123.0726675
+NVAN_CENT,restaurants,BridgeDeck Kitchen & Taps,49.3191771,-123.0726668
+NVAN_CENT,restaurants,Freshslice Pizza,49.3116539,-123.080344
+NVAN_CENT,restaurants,Tim Hortons,49.3117019,-123.08043
+NVAN_CENT,restaurants,Andrews on 8th,49.3150944,-123.066758
+NVAN_CENT,restaurants,Palermo Cucina,49.3253307,-123.0720196
+NVAN_CENT,restaurants,Sadra,49.3233764,-123.0725666
+NVAN_CENT,restaurants,BLENZ HOpe cafe,49.3202692,-123.0665723
+NVAN_CENT,restaurants,Chicken Box,49.3123632,-123.0774675
+NVAN_CENT,restaurants,Minemura Sushi,49.3137959,-123.0783722
+NVAN_CENT,restaurants,Lionsgate Pizza,49.3248856,-123.0720621
+NVAN_CENT,restaurants,JJ Bean,49.3240082,-123.071704
+NVAN_CENT,restaurants,Rice and Noodle,49.3238971,-123.072524
+NVAN_CENT,restaurants,Rosemary Rocksalt,49.3240173,-123.0725195
+NVAN_CENT,restaurants,Pizza Garden,49.323137,-123.0720611
+NVAN_CENT,restaurants,Yuko Maki,49.3227045,-123.0720872
+NVAN_CENT,restaurants,Pho North Vancouver,49.321125,-123.0710738
+NVAN_CENT,restaurants,Poke Bar,49.3217677,-123.0721213
+NVAN_CENT,restaurants,Tamarind Hill,49.3216488,-123.0721226
+NVAN_CENT,restaurants,Freshslice Pizza,49.3218539,-123.0725965
+NVAN_CENT,restaurants,Take Five Café,49.3197861,-123.0720516
+NVAN_CENT,restaurants,Chicko Chicken,49.3254598,-123.0724871
+NVAN_CENT,restaurants,Grab and Go Persian Restaurant,49.3253197,-123.072497
+NVAN_CENT,restaurants,Roastmastir's,49.3264632,-123.0720099
+NVAN_CENT,restaurants,OEB Breakfast Co.,49.3218795,-123.0703026
+NVAN_CENT,restaurants,Jordan Sushi,49.3218816,-123.0700146
+NVAN_CENT,restaurants,Freshii,49.3218789,-123.0697738
+NVAN_CENT,restaurants,Chipotle,49.3201798,-123.072639
+NVAN_CENT,restaurants,The Peri Peri Shack: Flame Grilled Chicken,49.3118474,-123.0764432
+NVAN_CENT,restaurants,Mr. Sushi,49.3121773,-123.0786326
+NVAN_CENT,restaurants,Quesada,49.3125199,-123.0782838
+NVAN_CENT,restaurants,Jam Cafe,49.3119053,-123.078315
+NVAN_CENT,restaurants,Akbar Joojeh,49.3232875,-123.0720089
+NVAN_CENT,restaurants,Best Falafel,49.3256907,-123.0724742
+NVAN_CENT,restaurants,KINTON RAMEN,49.3204821,-123.072635
+NVAN_CENT,restaurants,Bukchon Korean Cuisine,49.3230826,-123.072076
+NVAN_CENT,restaurants,Shishlik Grill House,49.3236666,-123.0725268
+NVAN_CENT,restaurants,Alloz Grill,49.3127032,-123.0758594
+NVAN_CENT,restaurants,Coral Court Szechuan Cuisine,49.3118877,-123.0765498
+NVAN_CENT,restaurants,Cream Pony,49.3113021,-123.0784509
+NVAN_CENT,restaurants,Bravo Cucina Ristorante Italiano,49.3191178,-123.0726664
+NVAN_CENT,restaurants,Sushi & Kitchen,49.312302,-123.0779397
+NVAN_CENT,restaurants,Ykiki Poke,49.3201455,-123.072056
+NVAN_CENT,restaurants,Jack Lonsdale's Public House,49.321441,-123.072694
+NVAN_CENT,restaurants,Haida Sandwich,49.321834,-123.0713306
+NVAN_CENT,restaurants,Catch 122,49.3110822,-123.081236
+NVAN_CENT,restaurants,Pho Spot,49.3216815,-123.0721243
+NVAN_CENT,restaurants,Dave & Mel's Pizzeria,49.3120038,-123.0793968
+NVAN_CENT,restaurants,49th Parallel Coffee Roasters,49.3118386,-123.0789907
+NVAN_CENT,restaurants,Roma Italian Ristorante,49.3207571,-123.0721438
+NVAN_CENT,restaurants,Browns Socialhouse,49.325047112207706,-123.07192166891082
+NVAN_CENT,restaurants,Red Chilli Szechuan,49.31765978852062,-123.07310955309366
+NVAN_CENT,restaurants,Kolbeh,49.31757364668568,-123.07319020441507
+NVAN_CENT,restaurants,Mythos Taverna,49.31420284454499,-123.0781828617894
+NVAN_CENT,restaurants,Jägerhof,49.31174025216694,-123.07922933556611
+NVAN_CENT,transit_stops,Lonsdale Ave (NB) at East 2nd St,49.3130385,-123.077283
+NVAN_CENT,transit_stops,Lonsdale Ave (NB) at East 4th St,49.3143301,-123.075895
+NVAN_CENT,transit_stops,Lonsdale Ave (NB) at East 8th St,49.3175217,-123.072696
+NVAN_CENT,transit_stops,Lonsdale Ave (NB) at East 13th St,49.3203185,-123.0722389
+NVAN_CENT,transit_stops,Lonsdale Ave (NB) at East 15th St,49.3224196,-123.072199
+NVAN_CENT,transit_stops,Lonsdale Ave (NB) at East 17th St,49.3244863,-123.072142
+NVAN_CENT,transit_stops,Lonsdale Ave (NB) at East 19th St,49.3265403,-123.072127
+NVAN_CENT,transit_stops,Lonsdale Ave (NB) at East 21st St,49.3286683,-123.072035
+NVAN_CENT,transit_stops,Lonsdale Ave (SB) at West 21st St,49.3278964,-123.072343
+NVAN_CENT,transit_stops,Lonsdale Ave (SB) at West 19th St,49.325948,-123.0724042
+NVAN_CENT,transit_stops,Lonsdale Ave (SB) at West 17th St,49.3237646,-123.072425
+NVAN_CENT,transit_stops,Lonsdale Ave (SB) at West 15th St,49.3217154,-123.072494
+NVAN_CENT,transit_stops,Lonsdale Ave (SB) at West 13th St,49.3195755,-123.072537
+NVAN_CENT,transit_stops,West Esplanade St (EB) at Semisch Ave,49.3128763,-123.0839018
+NVAN_CENT,transit_stops,Forbes Ave (SB) at West 1st St,49.3149057,-123.086052
+NVAN_CENT,transit_stops,West 15th St (WB) at Lonsdale Ave,49.3221149,-123.072938
+NVAN_CENT,transit_stops,West 15th St (WB) at Chesterfield Ave,49.3221843,-123.075906
+NVAN_CENT,transit_stops,Lonsdale Ave (NB) at East 1st St,49.3121464,-123.078257
+NVAN_CENT,transit_stops,Lonsdale Ave (SB) at East 3rd St,49.3131857,-123.077438
+NVAN_CENT,transit_stops,Lonsdale Ave (SB) at West 1st St,49.3115893,-123.079119
+NVAN_CENT,transit_stops,Lonsdale Quay Bay 4,49.3110248,-123.0823688
+NVAN_CENT,transit_stops,Lonsdale Quay Bay 6,49.3110416,-123.0824889
+NVAN_CENT,transit_stops,Lonsdale Ave (SB) at West 5th St,49.3148252,-123.075837
+NVAN_CENT,transit_stops,West Esplanade St (WB) at Rogers Ave,49.3119457,-123.081346
+NVAN_CENT,transit_stops,East 15th St (EB) at Saint George Ave,49.3219717,-123.068756
+NVAN_CENT,transit_stops,East 15th St (WB) at Saint George Ave,49.322122,-123.069604
+NVAN_CENT,transit_stops,East 15th St (EB) at Lonsdale Ave,49.3219769,-123.071717
+NVAN_CENT,transit_stops,East 3rd St (WB) at Saint Andrews Ave,49.3110183,-123.071305
+NVAN_CENT,transit_stops,East 3rd St (EB) at Lonsdale Ave,49.3131495,-123.076551
+NVAN_CENT,transit_stops,West 3rd St (EB) at Forbes Ave,49.3167738,-123.084863
+NVAN_CENT,transit_stops,West 3rd St (WB) at Forbes Ave,49.3170448,-123.0851
+NVAN_CENT,transit_stops,Jones Ave (SB) at West Keith Rd,49.320337,-123.081813
+NVAN_CENT,transit_stops,Jones Ave (NB) at West Keith Rd,49.3203396,-123.081627
+NVAN_CENT,transit_stops,Jones Ave (SB) at West 15th St,49.3218484,-123.081781
+NVAN_CENT,transit_stops,West 15th St (EB) at Jones Ave,49.3220997,-123.081146
+NVAN_CENT,transit_stops,East Keith Rd (EB) at Saint Andrews Ave,49.3139997,-123.067302
+NVAN_CENT,transit_stops,East Keith Rd (WB) at Saint Andrews Ave,49.3145628,-123.067719
+NVAN_CENT,transit_stops,Chesterfield Ave (SB) at West 3rd St,49.3144972,-123.080574
+NVAN_CENT,transit_stops,West 3rd St (WB) at Chesterfield Ave,49.315083,-123.080581
+NVAN_CENT,transit_stops,Lonsdale Ave (SB) at West Keith Rd,49.3169241,-123.073717
+NVAN_CENT,transit_stops,Lonsdale Ave (NB) at East Keith Rd,49.3169635,-123.073308
+NVAN_CENT,transit_stops,West Esplanade St (WB) at Semisch Ave,49.3132881,-123.084369
+NVAN_CENT,transit_stops,Forbes Ave (NB) at West 1st St,49.315277,-123.085772
+NVAN_CENT,transit_stops,East 3rd St (WB) at Saint Georges Ave,49.3123668,-123.074392
+NVAN_CENT,transit_stops,East Keith Rd (WB) at St Georges Ave,49.3158925,-123.070772
+NVAN_CENT,transit_stops,East Keith Rd (EB) at St Georges Ave,49.3152596,-123.070202
+NVAN_CENT,transit_stops,East Keith Rd (EB) at St Davids Ave,49.3135381,-123.065327
+NVAN_CENT,transit_stops,East Keith Rd (WB) at Ridgeview Ave,49.3136623,-123.063648
+NVAN_CENT,transit_stops,East Keith Rd (EB) at Ridgeview Ave,49.3135128,-123.062747
+NVAN_CENT,transit_stops,East Keith Rd (WB) at Moody Ave,49.3136255,-123.060976
+NVAN_CENT,transit_stops,East Keith Rd (EB) at Moody Ave,49.3134769,-123.059733
+NVAN_CENT,transit_stops,East 3rd St (EB) at Saint Georges Ave,49.3118286,-123.0736217
+NVAN_CENT,transit_stops,East 15th St (WB) at Moody Ave,49.322004,-123.060366
+NVAN_CENT,transit_stops,East 15th St (EB) at Moody Ave,49.3218677,-123.05958
+NVAN_CENT,transit_stops,West Keith Rd (WB) at Forbes Ave,49.3201613,-123.085345
+NVAN_CENT,transit_stops,West Keith Rd (EB) at Forbes Ave,49.3198746,-123.084434
+NVAN_CENT,transit_stops,West 15th St (WB) at Mahon Ave,49.3221972,-123.07905
+NVAN_CENT,transit_stops,West 15th St (EB) at Mahon Ave,49.3220687,-123.078184
+NVAN_CENT,transit_stops,West 15th St (EB) at Chesterfield Ave,49.3220381,-123.07487
+NVAN_CENT,transit_stops,East 15th St (WB) at Saint Andrews Ave,49.3220713,-123.066511
+NVAN_CENT,transit_stops,East 15th St (EB) at Saint Andrews Ave,49.3219315,-123.065411
+NVAN_CENT,transit_stops,East 15th St (EB) at Ridgeway Ave,49.3219035,-123.0627
+NVAN_CENT,transit_stops,East 15th St (WB) at Ridgeway Ave,49.3220364,-123.063498
+NVAN_CENT,transit_stops,Lonsdale Quay Bay 5,49.311199,-123.0823312
+NVAN_CENT,transit_stops,Chesterfield Avenue (SB) at W 1st Street,49.3129095,-123.082162
+NVAN_CENT,transit_stops,Chesterfield Avenue (NB) at W 2nd Street,49.3141988,-123.080668
+NVAN_CENT,transit_stops,Chesterfield Avenue (NB) at W 1st Street,49.3134631,-123.081421
+NVAN_CENT,transit_stops,W 3rd Street (WB) at Mahon Avenue,49.3164572,-123.083819
+NVAN_CENT,transit_stops,W 3rd Street (EB) at Mahon Avenue,49.3158264,-123.082741
+NVAN_CENT,transit_stops,West 3rd St (EB) at Chesterfield Ave,49.3144669,-123.0796512
+NVAN_CENT,transit_stops,East Keith Road (EB) at Lonsdale Avenue,49.316225,-123.0735535
+NVAN_CENT,parks,,49.3206712,-123.0705131
+NVAN_CENT,parks,Mahon Park,49.32433756524907,-123.0863739730552
+NVAN_CENT,parks,Semisch Park,49.314452921839795,-123.08266476301104
+NVAN_CENT,parks,Ray Perrault Park,49.32089658805891,-123.05879245267002
+NVAN_CENT,parks,Victoria Park,49.316868069995394,-123.07348809377733
+NVAN_CENT,parks,,49.31567696712874,-123.07079301188423
+NVAN_CENT,parks,,49.31488457768337,-123.06890451708726
+NVAN_CENT,parks,,49.313916626295324,-123.066661047742
+NVAN_CENT,parks,Ottawa Gardens,49.317943271310554,-123.07917703838804
+NVAN_CENT,parks,,49.31157811355352,-123.07589366232236
+NVAN_CENT,parks,Waterfront Park,49.311895041733834,-123.08571385403212
+NVAN_CENT,parks,,49.31137858237633,-123.07670195605789
+NVAN_CENT,parks,,49.312707178301906,-123.08453036478626
+NVAN_CENT,parks,Wagg Creek Park,49.3277759345585,-123.07681617479093
+NVAN_CENT,parks,St Andrews Park,49.317563750000005,-123.06851284999999
+NVAN_CENT,parks,Rodger Burnes Green,49.3286334324778,-123.07179926644656
+NVAN_CENT,parks,Rey Sargent Park,49.32854685,-123.07257175000002
+NVAN_CENT,parks,Jack Loucks Court,49.31275990119788,-123.08035844383605
+NVAN_CENT,parks,Katsalánexw Park,49.31475425187117,-123.0781822930039
+NVAN_CENT,parks,Chief Mathias Joe Park,49.3108571,-123.06919135000001
+NVAN_CENT,parks,Mc Evoy Park,49.318781933183956,-123.08220529821743
+NVAN_CENT,parks,Sam Walker Park,49.31555470000001,-123.06677276666667
+NVAN_CENT,parks,,49.324926673043876,-123.08275743523141
+NVAN_CENT,parks,Topo Park,49.32271441920013,-123.06654583921758
+NVAN_CENT,grocery,7-Eleven,49.319451,-123.0729582
+NVAN_CENT,grocery,Persia Foods,49.322225,-123.073362
+NVAN_CENT,grocery,Persia Foods,49.3275625,-123.072436
+NVAN_CENT,grocery,Lucky's Exotic Bodega,49.3116918,-123.0785528
+NVAN_CENT,grocery,Vanak,49.3260707,-123.0719789
+NVAN_CENT,grocery,Victor Anderson's General Store,49.3224464,-123.0720866
+NVAN_CENT,grocery,Fresh St. Market,49.312303,-123.0818702
+NVAN_CENT,grocery,Loblaws City Market;Loblaws,49.3239122,-123.0718946
+NVAN_CENT,grocery,Foxy Farm Market,49.3122625,-123.0790914
+NVAN_CENT,grocery,Whole Foods Market,49.32017,-123.071172
+NVAN_CENT,grocery,7-Eleven,49.314870839612965,-123.07976564708962
+VIC_DT,schools,Global Village English Centres,48.4262422,-123.3664245
+VIC_DT,schools,Pacific Design Academy,48.4268761,-123.3705268
+VIC_DT,schools,Inlingua,48.4238019,-123.3683789
+VIC_DT,schools,Pacific School of Innovation and Inquiry,48.4224121,-123.3662067
+VIC_DT,schools,George Jay Elementary,48.433078683756975,-123.35100212581632
+VIC_DT,schools,Vancouver Island School of Art,48.43655437822926,-123.35796899130246
+VIC_DT,restaurants,Earls,48.4255715,-123.367493
+VIC_DT,restaurants,Moxie's,48.4255604,-123.3561298
+VIC_DT,restaurants,Basic Cafe,48.4252795,-123.3571271
+VIC_DT,restaurants,Brickyard Pizza,48.426198,-123.3625952
+VIC_DT,restaurants,The Old Spaghetti Factory,48.4203847,-123.365962
+VIC_DT,restaurants,Local Urban Bites,48.4372156,-123.3660103
+VIC_DT,restaurants,Mantu,48.4270728,-123.3591091
+VIC_DT,restaurants,Caffe Fantastico,48.4322293,-123.3783274
+VIC_DT,restaurants,Sen Zushi,48.423996,-123.357902
+VIC_DT,restaurants,Habit Coffee,48.4261454,-123.3616547
+VIC_DT,restaurants,Caffè Fantastico,48.437365,-123.3588256
+VIC_DT,restaurants,The Parsonage Cafe,48.4303466,-123.3526763
+VIC_DT,restaurants,Cat's Coffee & Cake,48.4257743,-123.364774
+VIC_DT,restaurants,Fatburger,48.4257072,-123.364786
+VIC_DT,restaurants,Soupa Cafe,48.4254759,-123.3638392
+VIC_DT,restaurants,West Coast Waffles,48.4262042,-123.3661008
+VIC_DT,restaurants,A&W,48.4247186,-123.3677519
+VIC_DT,restaurants,Delicados,48.4242259,-123.3628078
+VIC_DT,restaurants,Dumpling Drop,48.4286307,-123.3675675
+VIC_DT,restaurants,Cenote Restaurant and Lounge,48.426229,-123.3628256
+VIC_DT,restaurants,Bin 4 Burger Lounge,48.4252436,-123.356851
+VIC_DT,restaurants,The Joint Pizzeria,48.4265949,-123.3700387
+VIC_DT,restaurants,Bean Around The World,48.4292373,-123.3684685
+VIC_DT,restaurants,Subway,48.4244508,-123.3622603
+VIC_DT,restaurants,Shiki Sushi,48.4246559,-123.3622104
+VIC_DT,restaurants,Choux Choux Charcuterie,48.4242924,-123.3611471
+VIC_DT,restaurants,Noodle Box,48.4227679,-123.3661265
+VIC_DT,restaurants,Milestones,48.4227278,-123.3688365
+VIC_DT,restaurants,Salt Chuck Pie Company,48.4352397,-123.3749866
+VIC_DT,restaurants,The Mantra,48.423432,-123.3561838
+VIC_DT,restaurants,MoMo Sushi,48.4312974,-123.3583122
+VIC_DT,restaurants,Flying Otter Grill,48.4236145,-123.370532
+VIC_DT,restaurants,Discovery Coffee,48.4320397,-123.3649647
+VIC_DT,restaurants,Tre Fantastico,48.420071,-123.3628864
+VIC_DT,restaurants,Siam Thai Cuisine,48.425118,-123.3690118
+VIC_DT,restaurants,The Keg,48.4251845,-123.369662
+VIC_DT,restaurants,Murchie's Cafe,48.4253494,-123.3679801
+VIC_DT,restaurants,Nautical Nellies Steak & Seafood House,48.4244549,-123.369405
+VIC_DT,restaurants,Momo Tea,48.4262445,-123.3629455
+VIC_DT,restaurants,Starbucks,48.4266716,-123.3672494
+VIC_DT,restaurants,Starbucks,48.4292284,-123.366605
+VIC_DT,restaurants,Wah Laiyuen,48.429475,-123.3675857
+VIC_DT,restaurants,A&W,48.4249904,-123.365929
+VIC_DT,restaurants,Wendy's,48.4358254,-123.36309
+VIC_DT,restaurants,Subway,48.4364828,-123.363063
+VIC_DT,restaurants,Subway,48.4235377,-123.354255
+VIC_DT,restaurants,Cascadia,48.430612,-123.3673211
+VIC_DT,restaurants,Jam Cafe,48.430337,-123.3677317
+VIC_DT,restaurants,Tim Hortons,48.4272638,-123.361995
+VIC_DT,restaurants,Good Earth,48.4249682,-123.3666426
+VIC_DT,restaurants,Macchiato Caffe,48.427073,-123.362134
+VIC_DT,restaurants,Second Slice Pizza,48.4269769,-123.3649927
+VIC_DT,restaurants,Burger King,48.4271088,-123.3649579
+VIC_DT,restaurants,Subway,48.4270271,-123.3649794
+VIC_DT,restaurants,Macchiato Caffe,48.4242668,-123.366707
+VIC_DT,restaurants,Original Pho,48.4241533,-123.3620757
+VIC_DT,restaurants,Good Ovening Korean Pub and Oven Roasted Chicken,48.4242216,-123.362763
+VIC_DT,restaurants,Fish Hook,48.4241666,-123.3621996
+VIC_DT,restaurants,Burger King,48.4236813,-123.3684025
+VIC_DT,restaurants,Milano,48.4233994,-123.3680717
+VIC_DT,restaurants,Shuck Taylor's,48.4268124,-123.362151
+VIC_DT,restaurants,Blenz Coffee,48.4239584,-123.3653024
+VIC_DT,restaurants,Il Terrazzo,48.4275357,-123.3687508
+VIC_DT,restaurants,Tractor,48.4230459,-123.3681116
+VIC_DT,restaurants,Ferris',48.4269403,-123.3690811
+VIC_DT,restaurants,The Mint,48.4275793,-123.364838
+VIC_DT,restaurants,Don Mee Seafood Restaurant,48.4294677,-123.3682128
+VIC_DT,restaurants,Ayo Eat,48.4282697,-123.3690512
+VIC_DT,restaurants,Brasserie L'école,48.4298192,-123.366884
+VIC_DT,restaurants,Union Pacific Coffee,48.430099,-123.3683847
+VIC_DT,restaurants,Fuego,48.4281807,-123.3694415
+VIC_DT,restaurants,Ocean Garden,48.4294766,-123.3673656
+VIC_DT,restaurants,Pagliacci's,48.4244768,-123.3664079
+VIC_DT,restaurants,Just Matcha,48.4286352,-123.3679645
+VIC_DT,restaurants,QV Cafe,48.4295028,-123.366712
+VIC_DT,restaurants,Hope Key,48.4266997,-123.364614
+VIC_DT,restaurants,My Thai Café,48.4226725,-123.3544883
+VIC_DT,restaurants,Santiago's,48.4213995,-123.3746492
+VIC_DT,restaurants,Browns Social House,48.4222944,-123.3656783
+VIC_DT,restaurants,Starbucks,48.4210217,-123.371103
+VIC_DT,restaurants,John's Place,48.4278091,-123.3637705
+VIC_DT,restaurants,Steamship Grill & Bar,48.4210431,-123.3713347
+VIC_DT,restaurants,Green Cuisine,48.4279321,-123.3686514
+VIC_DT,restaurants,Nubo Japanese Tapas,48.4277474,-123.363417
+VIC_DT,restaurants,Serena's Pizzeria and Hoagies,48.4245382,-123.3633893
+VIC_DT,restaurants,Yalla,48.4238612,-123.3624162
+VIC_DT,restaurants,El Furniture Warehouse,48.4267179,-123.3692715
+VIC_DT,restaurants,Cora,48.4228708,-123.366105
+VIC_DT,restaurants,Superbaba,48.4267222,-123.3616615
+VIC_DT,restaurants,James Joyce Bistro and Peacock Billiards,48.425269,-123.36489
+VIC_DT,restaurants,Chicken 649,48.4337971,-123.358598
+VIC_DT,restaurants,Zambri's,48.4261102,-123.3612503
+VIC_DT,restaurants,Taosis Ramen,48.4263833,-123.3611372
+VIC_DT,restaurants,The Local,48.4261062,-123.3698466
+VIC_DT,restaurants,Shanzee's Biscuit Café,48.4283808,-123.3684216
+VIC_DT,restaurants,Cactus Club Cafe,48.4248239,-123.365048
+VIC_DT,restaurants,J&J Wonton Noodle House,48.4237434,-123.3561317
+VIC_DT,restaurants,Freshii,48.4240875,-123.365742
+VIC_DT,restaurants,Edo Japan,48.4250352,-123.3657891
+VIC_DT,restaurants,BeaverTails,48.424271,-123.3676444
+VIC_DT,restaurants,Opa! of Greece,48.4249288,-123.3659147
+VIC_DT,restaurants,Bento,48.4248122,-123.3659933
+VIC_DT,restaurants,Jugo Juice,48.4254484,-123.3672646
+VIC_DT,restaurants,Ebizō Sushi,48.4242745,-123.3675426
+VIC_DT,restaurants,The Courtney Room,48.4233196,-123.3671433
+VIC_DT,restaurants,Momi Noodle,48.4286308,-123.3676199
+VIC_DT,restaurants,Tea at the Empress,48.4216174,-123.3678599
+VIC_DT,restaurants,Q at the Empress,48.4217472,-123.3674768
+VIC_DT,restaurants,Capital City Café,48.4207692,-123.3660286
+VIC_DT,restaurants,Vista 18,48.4224712,-123.3641836
+VIC_DT,restaurants,Indian Aroma Restaurant,48.4294854,-123.366601
+VIC_DT,restaurants,be love,48.4239753,-123.3623904
+VIC_DT,restaurants,Finn’s Seafood Chops Cocktails,48.4261134,-123.370225
+VIC_DT,restaurants,Pho Vy,48.4245227,-123.3632374
+VIC_DT,restaurants,Nourish Kitchen & Cafe,48.4216675,-123.376769
+VIC_DT,restaurants,Cafe Brio,48.4239525,-123.3576447
+VIC_DT,restaurants,Chimac,48.4270459,-123.3698755
+VIC_DT,restaurants,Blue Fox Cafe,48.4236293,-123.3587966
+VIC_DT,restaurants,Orchard on View,48.4254352,-123.3660719
+VIC_DT,restaurants,Uni Modern Japanese,48.4266994,-123.3700749
+VIC_DT,restaurants,Discovery Coffee,48.4236312,-123.3624292
+VIC_DT,restaurants,Taco Justice,48.4278916,-123.3534816
+VIC_DT,restaurants,Fern Cafe and Bakery,48.4294333,-123.3525098
+VIC_DT,restaurants,Empire Donuts,48.4254423,-123.3638853
+VIC_DT,restaurants,Pendray Tea House,48.4218038,-123.3752636
+VIC_DT,restaurants,Xin Korean Restaurant,48.435158,-123.3612659
+VIC_DT,restaurants,Bao,48.4294902,-123.3659542
+VIC_DT,restaurants,Sura Korean Restaurant,48.429281,-123.3647172
+VIC_DT,restaurants,Island Poké,48.4290202,-123.364719
+VIC_DT,restaurants,Green Leaf Vietnamese Bistro,48.4291506,-123.3647181
+VIC_DT,restaurants,Freshslice Pizza,48.4274854,-123.3643522
+VIC_DT,restaurants,Lotteria,48.4265362,-123.3655401
+VIC_DT,restaurants,Sakura Sushi,48.4252002,-123.3591754
+VIC_DT,restaurants,10 Acres Commons,48.4228755,-123.3677457
+VIC_DT,restaurants,Frankie's Modern Diner,48.4236647,-123.3685205
+VIC_DT,restaurants,Xing Fu Tang,48.4242749,-123.367378
+VIC_DT,restaurants,Gozen Sushi Bar Izakaya,48.4243807,-123.3686928
+VIC_DT,restaurants,Le Petit Saigon,48.4246183,-123.3688443
+VIC_DT,restaurants,Fiamo Pizza & Wine Bar,48.426749,-123.3699256
+VIC_DT,restaurants,Sounds Like Coffee,48.4238551,-123.3670602
+VIC_DT,restaurants,Varsha Indian Kitchen,48.4286715,-123.3673249
+VIC_DT,restaurants,Virtuous Pie,48.4286584,-123.3685065
+VIC_DT,restaurants,Cafe Mexico,48.4280222,-123.369385
+VIC_DT,restaurants,Red Cedar Cafe,48.4314557,-123.3649125
+VIC_DT,restaurants,Bangkok Modern Thai Cuisine,48.4307241,-123.3642548
+VIC_DT,restaurants,Pizza Hut,48.425185,-123.356803
+VIC_DT,restaurants,L'Apéro,48.4240618,-123.362827
+VIC_DT,restaurants,The Pink Bicycle,48.4237357,-123.3629172
+VIC_DT,restaurants,Pho Tru,48.4238344,-123.3628877
+VIC_DT,restaurants,Tourist Wine Bar,48.4236572,-123.3629274
+VIC_DT,restaurants,Menbow Ramen Bar,48.4238997,-123.3628737
+VIC_DT,restaurants,Starbucks,48.4233408,-123.3690561
+VIC_DT,restaurants,The Sour Pickle Cafe,48.4290716,-123.369466
+VIC_DT,restaurants,Habit Coffee,48.4286309,-123.3676724
+VIC_DT,restaurants,Friends of Dorothy,48.427577,-123.369236
+VIC_DT,restaurants,Tacofino,48.4279767,-123.3628964
+VIC_DT,restaurants,Cube Food Box,48.4280384,-123.3632989
+VIC_DT,restaurants,Belleville's,48.4211069,-123.3731394
+VIC_DT,restaurants,End Dive,48.4303199,-123.3673584
+VIC_DT,restaurants,Hey Happy,48.4278185,-123.3691736
+VIC_DT,restaurants,Quesadas Burritos & Tacos,48.4277718,-123.3559565
+VIC_DT,restaurants,Panago,48.4279251,-123.355938
+VIC_DT,restaurants,Volta,48.4262341,-123.3628655
+VIC_DT,restaurants,Cafe Malabar,48.4293538,-123.3710728
+VIC_DT,restaurants,Eva Schnitzelhous,48.4291912,-123.3692655
+VIC_DT,restaurants,The Palms Restaurant & Lounge,48.427886,-123.3647695
+VIC_DT,restaurants,Fire+ Water Restaurant,48.4213898,-123.3648496
+VIC_DT,restaurants,Cook & Dan Polish Delicatessen & Cafe,48.4284031,-123.3607017
+VIC_DT,restaurants,Tim Hortons,48.4245782,-123.3637797
+VIC_DT,restaurants,Burger Crush,48.4242482,-123.363037
+VIC_DT,restaurants,Sookjai Thai,48.4239336,-123.3601748
+VIC_DT,restaurants,Blue Nile African Restaurant,48.429949,-123.3647213
+VIC_DT,restaurants,Bray's,48.4287257,-123.3701127
+VIC_DT,restaurants,Nubo Kitchen + Bar,48.4287673,-123.3697475
+VIC_DT,restaurants,Ghost Ramen,48.4287954,-123.3694528
+VIC_DT,restaurants,Chubby Dumpling,48.4289957,-123.3694587
+VIC_DT,restaurants,Standard Pizza,48.4274994,-123.3527892
+VIC_DT,restaurants,Sun Wah,48.427562,-123.3529902
+VIC_DT,restaurants,Domino's,48.43633,-123.36345
+VIC_DT,restaurants,Ox King Noodles,48.42425,-123.35571
+VIC_DT,restaurants,Avalon Restaurant,48.42336,-123.35492
+VIC_DT,restaurants,Pinhalla,48.4294562,-123.3688996
+VIC_DT,restaurants,Dosa Paragon,48.4258693,-123.363614
+VIC_DT,restaurants,The Ruby,48.4273461,-123.3652153
+VIC_DT,restaurants,MAiiZ Tortilleria & Eatery,48.4294686,-123.3681331
+VIC_DT,restaurants,In Er G Plant Alchemy,48.4300348,-123.365552
+VIC_DT,restaurants,Bean Bandits Coffee,48.4235602,-123.3648802
+VIC_DT,restaurants,La Taquisa,48.4239276,-123.3623999
+VIC_DT,restaurants,Thai Food Near Me,48.4238056,-123.3590387
+VIC_DT,restaurants,Odd Burger,48.4295883,-123.3626148
+VIC_DT,restaurants,Roll N Bowl,48.4262103,-123.3625267
+VIC_DT,restaurants,Saint Franks,48.4260149,-123.3637858
+VIC_DT,restaurants,10 Acres Bistro,48.4233626,-123.367572
+VIC_DT,restaurants,Board with Friends Cafe,48.4270235,-123.3642587
+VIC_DT,restaurants,Emmaline's,48.4373744,-123.3583617
+VIC_DT,restaurants,Block Victoria,48.426914,-123.3688837
+VIC_DT,restaurants,Flourish BeauTea,48.4246127,-123.3661786
+VIC_DT,restaurants,Courtyard Café,48.4209415,-123.3725973
+VIC_DT,restaurants,Deer & Dough Bakery Cafe,48.4295466,-123.3635081
+VIC_DT,restaurants,Picnic Too,48.4234699,-123.3560606
+VIC_DT,restaurants,Mom's Kitchen,48.4279286,-123.3683369
+VIC_DT,restaurants,Wind Cries Mary,48.4256798,-123.3686153
+VIC_DT,restaurants,Saint Cecelia,48.4266846,-123.3691775
+VIC_DT,restaurants,Kebab On Fire,48.4233359,-123.3684558
+VIC_DT,restaurants,Pizza Garden,48.4234775,-123.3684492
+VIC_DT,restaurants,Sarpino's Pizza,48.4249892,-123.36261
+VIC_DT,restaurants,"Saint Cecilia Coffee, Ice Cream & Goods",48.4266328,-123.3691478
+VIC_DT,restaurants,Greek On the Street,48.4355416,-123.3733627
+VIC_DT,restaurants,Baan Thai,48.4247429,-123.3621995
+VIC_DT,restaurants,Interactivity Board Game Cafe,48.426029,-123.3639241
+VIC_DT,restaurants,L'Authentique Poutine & Burgers,48.4261082,-123.3704728
+VIC_DT,restaurants,Lindo Bistro,48.4262853,-123.3710363
+VIC_DT,restaurants,The Breakfast Shop,48.4229981,-123.3537412
+VIC_DT,restaurants,Frank's Honeybun Café,48.4264593,-123.3671006
+VIC_DT,restaurants,Wonderffle Cafe,48.4265894,-123.3659977
+VIC_DT,restaurants,Marilena Cafe & Raw Bar,48.4284387,-123.3641753
+VIC_DT,restaurants,Re:Bar Modern Food,48.425807948883346,-123.36824999542851
+VIC_DT,restaurants,Koto Japanese Restaurant,48.42525839219723,-123.36913082546884
+VIC_DT,restaurants,The Dutch Bakery & Diner,48.42480744648326,-123.3645098650436
+VIC_DT,restaurants,McDonald's,48.42561295000001,-123.36555350000002
+VIC_DT,restaurants,Red Fish Blue Fish,48.42435045,-123.37039175000001
+VIC_DT,restaurants,Harbour House Restaurant,48.421101376293166,-123.37439156480666
+VIC_DT,restaurants,Toro,48.42559030805031,-123.36447922073535
+VIC_DT,restaurants,Foo,48.425684450000006,-123.36257170000002
+VIC_DT,restaurants,Dairy Queen,48.4349903,-123.36548169999999
+VIC_DT,restaurants,McDonald's,48.42778165403981,-123.35675277555696
+VIC_DT,restaurants,Dosa Paragon,48.42646124438976,-123.37045320539424
+VIC_DT,restaurants,Melt,48.4363924714347,-123.36907400520016
+VIC_DT,restaurants,Wheelies Cafe,48.43713932037984,-123.370132415081
+VIC_DT,transit_stops,Fort at Blanchard,48.42421,-123.361962
+VIC_DT,transit_stops,Fort at Douglas,48.4244405,-123.36442
+VIC_DT,transit_stops,Douglas at Fort,48.4243553,-123.3653118
+VIC_DT,transit_stops,Yates at Cook,48.4252746,-123.354714
+VIC_DT,transit_stops,Fort at Quadra,48.4238592,-123.3591071
+VIC_DT,transit_stops,Fort at Cook,48.4232464,-123.3534592
+VIC_DT,transit_stops,Douglas at Kings,48.4370976,-123.3660735
+VIC_DT,transit_stops,Richardson at Cook,48.4195375,-123.354501
+VIC_DT,transit_stops,Richardson at Cook,48.4197366,-123.355511
+VIC_DT,transit_stops,Richardson at Vancouver,48.4199573,-123.357498
+VIC_DT,transit_stops,Douglas at Yates,48.4267554,-123.364658
+VIC_DT,transit_stops,Johnson at Douglas,48.4270286,-123.3638777
+VIC_DT,transit_stops,Johnson at Cook,48.4258094,-123.352757
+VIC_DT,transit_stops,Johnson at Vancouver,48.4261558,-123.3559017
+VIC_DT,transit_stops,Johnson at Quadra,48.4264539,-123.358626
+VIC_DT,transit_stops,Pandora at Cook,48.4272405,-123.3538078
+VIC_DT,transit_stops,Pandora at Quadra,48.4274979,-123.358226
+VIC_DT,transit_stops,Pandora at Blanshard,48.4278578,-123.36246
+VIC_DT,transit_stops,Cook at Richardson,48.4198362,-123.354843
+VIC_DT,transit_stops,Belleville at Douglas,48.4205003,-123.367452
+VIC_DT,transit_stops,Cook at Rockland,48.4218925,-123.354529
+VIC_DT,transit_stops,Cook at Rockland,48.4223431,-123.354193
+VIC_DT,transit_stops,Douglas at Courtney,48.4228163,-123.3659815
+VIC_DT,transit_stops,Cook at Meares,48.4230445,-123.354252
+VIC_DT,transit_stops,Cook at Fort,48.4236328,-123.353912
+VIC_DT,transit_stops,Douglas at Fort,48.4248718,-123.3654271
+VIC_DT,transit_stops,Yates at Vancouver,48.4255544,-123.357174
+VIC_DT,transit_stops,Yates at Quadra,48.4259371,-123.3606602
+VIC_DT,transit_stops,Fairfield at Blanchard,48.4211672,-123.3633175
+VIC_DT,transit_stops,Burdett at Douglas,48.4220399,-123.3654665
+VIC_DT,transit_stops,Douglas at Pandora,48.4278142,-123.3643918
+VIC_DT,transit_stops,Douglas at Pandora - Victoria City Hall,48.4285627,-123.3646172
+VIC_DT,transit_stops,Douglas at Herald,48.4300326,-123.3643538
+VIC_DT,transit_stops,Douglas at Discovery,48.4321814,-123.364456
+VIC_DT,transit_stops,Douglas at Discovery,48.4322635,-123.3647403
+VIC_DT,transit_stops,Douglas at Bay,48.4347378,-123.3647675
+VIC_DT,transit_stops,Douglas at Bay,48.4352507,-123.3653882
+VIC_DT,transit_stops,Quadra at View,48.4244219,-123.3595208
+VIC_DT,transit_stops,Fort at Langley,48.4249345,-123.3688418
+VIC_DT,transit_stops,Yates at Broad,48.4264606,-123.3657219
+VIC_DT,transit_stops,Wharf at Yates,48.4270949,-123.3703878
+VIC_DT,transit_stops,Quadra at Pandora,48.4272277,-123.3590698
+VIC_DT,transit_stops,Quadra at Mason,48.4279585,-123.3588642
+VIC_DT,transit_stops,Pandora at Government,48.4285379,-123.3681033
+VIC_DT,transit_stops,Quadra at Balmoral,48.429207,-123.3587387
+VIC_DT,transit_stops,Quadra at North Park,48.4295803,-123.3588925
+VIC_DT,transit_stops,Quadra at Caledonia,48.4304375,-123.3585782
+VIC_DT,transit_stops,Quadra at Caledonia,48.4305358,-123.3587439
+VIC_DT,transit_stops,Quadra at Princess,48.4328254,-123.358468
+VIC_DT,transit_stops,Quadra at Princess,48.4331814,-123.3582093
+VIC_DT,transit_stops,Quadra at Empress,48.4350389,-123.3581736
+VIC_DT,transit_stops,Quadra at Bay,48.4355768,-123.3579766
+VIC_DT,transit_stops,Fairfield at Quadra,48.4203037,-123.361009
+VIC_DT,transit_stops,Fairfield at Quadra,48.4202094,-123.360778
+VIC_DT,transit_stops,Bay at Turner,48.4348218,-123.375399
+VIC_DT,transit_stops,Bay at Turner,48.4350634,-123.374923
+VIC_DT,transit_stops,Bay at Fifth,48.4351547,-123.3567589
+VIC_DT,transit_stops,Bay at Quadra,48.43532,-123.357459
+VIC_DT,transit_stops,Bay at Douglas / Westbourne,48.4355308,-123.363995
+VIC_DT,transit_stops,,48.4355696,-123.361469
+VIC_DT,transit_stops,Bay at Douglas,48.4357955,-123.36602
+VIC_DT,transit_stops,Bay at Rock Bay,48.4358205,-123.369327
+VIC_DT,transit_stops,Bay at Rock Bay,48.4359612,-123.368495
+VIC_DT,transit_stops,Esquimalt at Tyee,48.4286469,-123.3780217
+VIC_DT,transit_stops,Esquimalt at Tyee,48.4288226,-123.3780039
+VIC_DT,transit_stops,Douglas at Humboldt,48.4217647,-123.3660074
+VIC_DT,transit_stops,Cook at Caledonia,48.4306287,-123.3527412
+VIC_DT,transit_stops,Superior at Oswego,48.4197794,-123.376599
+VIC_DT,transit_stops,Blanchard Terminus Bay A,48.421887,-123.3641213
+VIC_DT,transit_stops,Esquimalt at Harbour,48.4283,-123.3755368
+VIC_DT,transit_stops,Esquimalt at Harbour,48.4281163,-123.3753653
+VIC_DT,transit_stops,Government at Johnson,48.4272321,-123.3672541
+VIC_DT,transit_stops,Douglas at View,48.4257441,-123.3651674
+VIC_DT,transit_stops,Bay at Dowler,48.435413,-123.361428
+VIC_DT,transit_stops,Bay at Dowler,48.435561,-123.361435
+VIC_DT,transit_stops,Bay at Quadra,48.435328,-123.357475
+VIC_DT,transit_stops,Cook at Empress,48.434597,-123.35243
+VIC_DT,transit_stops,Cook at Bay,48.435219,-123.352165
+VIC_DT,transit_stops,Cook at Princess,48.433018,-123.352439
+VIC_DT,transit_stops,Cook at Princess,48.432402,-123.3527381
+VIC_DT,transit_stops,Cook at Caledonia,48.430226,-123.352994
+VIC_DT,transit_stops,Cook at Balmoral,48.428722,-123.352991
+VIC_DT,transit_stops,Cook at Haultain,48.436148,-123.352276
+VIC_DT,transit_stops,Cook at Johnson,48.42622,-123.353297
+VIC_DT,transit_stops,Cook at Pandora,48.427357,-123.353344
+VIC_DT,transit_stops,Government at Broughton,48.424059,-123.367951
+VIC_DT,transit_stops,Tyee at Wilson,48.431027,-123.378707
+VIC_DT,transit_stops,Johnson at Store,48.4276952,-123.369693
+VIC_DT,transit_stops,Blanshard Terminal,48.421742,-123.36412
+VIC_DT,transit_stops,Humboldt at Penwell,48.421551,-123.365418
+VIC_DT,transit_stops,Government at Belleville,48.419736,-123.368999
+VIC_DT,transit_stops,Johnson at Broad,48.427247,-123.365612
+VIC_DT,transit_stops,Johnson at Blanshard,48.426724,-123.36125
+VIC_DT,transit_stops,Quadra at Johnson,48.426144,-123.359062
+VIC_DT,transit_stops,Tyee at Wilson,48.4302097,-123.3778273
+VIC_DT,transit_stops,Wharf at Broughton,48.4241026,-123.3695769
+VIC_DT,parks,Songhees Point Park,48.42640924710498,-123.37525461431788
+VIC_DT,parks,Triangle Park,48.43179545459224,-123.37955825508782
+VIC_DT,parks,Vista Park,48.429265370278685,-123.37791848715264
+VIC_DT,parks,Peter Pollen Waterfront Park,48.423586328291876,-123.37656504962844
+VIC_DT,parks,Reeson Park,48.42717783670177,-123.37086768122488
+VIC_DT,parks,Pandora Green,48.428346587792475,-123.36663125266342
+VIC_DT,parks,Pandora Green,48.4271469740967,-123.3552488167639
+VIC_DT,parks,Harris Green,48.42686933524801,-123.35174600684746
+VIC_DT,parks,Westsong Walkway,48.426977655272616,-123.38133906648238
+VIC_DT,parks,Point Ellis Park,48.43338162962548,-123.37877364635611
+VIC_DT,parks,Tenas Park,48.42872378991153,-123.37746938149485
+VIC_DT,parks,Bridgehead Green,48.42794909682976,-123.37045746408518
+VIC_DT,parks,Pioneer Square,48.42293947737265,-123.35921881603997
+VIC_DT,parks,Blackwood Park,48.43684016117855,-123.35243946888963
+VIC_DT,parks,Wark Street Commons,48.43708537814781,-123.35958451789382
+VIC_DT,parks,Royal Athletic Park,48.43125878057155,-123.35426598967054
+VIC_DT,parks,Central Park,48.43298736512397,-123.35691428239325
+VIC_DT,parks,Blackwood Park,48.43612081541536,-123.35241551049478
+VIC_DT,parks,Mason Street Park,48.42793836656818,-123.35433449073622
+VIC_DT,parks,Bay and Government Park,48.43564060613503,-123.36766969883197
+VIC_DT,parks,Quadra Park,48.42125487218826,-123.37388813314955
+VIC_DT,parks,Belleville Street Green,48.42202501016389,-123.37452247430843
+VIC_DT,parks,Charles Redfern Park,48.42232666666666,-123.37719083333334
+VIC_DT,parks,Confederation Plaza,48.42048502787171,-123.3715134962913
+VIC_DT,parks,Fairfield Green,48.42109775456585,-123.36268456827024
+VIC_DT,parks,Fisgard Green,48.42918197513197,-123.35913880200725
+VIC_DT,parks,Fort Victoria,48.424737479992814,-123.36996443655781
+VIC_DT,parks,Law Courts Green,48.422134497004414,-123.3607071851464
+VIC_DT,parks,Penwell Green,48.42193952693832,-123.36393620576811
+VIC_DT,parks,Rupert Terrace Green,48.42098240463807,-123.36063681317337
+VIC_DT,parks,Songhees Park,48.42624892569857,-123.3770511236133
+VIC_DT,parks,Thunderbird Park,48.41973669899265,-123.36672485984072
+VIC_DT,parks,St. Ann's Academy National Historic Site,48.41929220919198,-123.36348711055146
+VIC_DT,parks,Saghalie Park,48.42947895283851,-123.37900504993993
+VIC_DT,parks,,48.429304621755385,-123.37969495175864
+VIC_DT,parks,Triangle Green,48.428367178322546,-123.37018042198689
+VIC_DT,parks,Cridge Park,48.420293385009565,-123.36504707303273
+VIC_DT,parks,,48.43015447938949,-123.37770016988183
+VIC_DT,parks,Ship's Point Park,48.423480212956235,-123.36966034043314
+VIC_DT,grocery,Filipino Mart,48.4322197,-123.3648053
+VIC_DT,grocery,Circle K,48.4265201,-123.3651105
+VIC_DT,grocery,7-Eleven,48.4224433,-123.365665
+VIC_DT,grocery,Best Buy,48.4297526,-123.3647163
+VIC_DT,grocery,Casa Convenience Store,48.4277461,-123.3642968
+VIC_DT,grocery,Jia Hua Trading,48.4292604,-123.3675318
+VIC_DT,grocery,Mediterranean & Middle Eastern Foods,48.4275793,-123.3577926
+VIC_DT,grocery,Tai Sang Company,48.4298763,-123.3669036
+VIC_DT,grocery,Vegas Convenience Store,48.4324515,-123.3594023
+VIC_DT,grocery,Victoria Giftplus,48.4288155,-123.3672665
+VIC_DT,grocery,Bulk Barn,48.4264224,-123.364358
+VIC_DT,grocery,Circle K,48.4273412,-123.3528048
+VIC_DT,grocery,Silk Road Tea,48.4291406,-123.3672973
+VIC_DT,grocery,Daily Fresh,48.4288744,-123.3586716
+VIC_DT,grocery,Save-On-Foods,48.4274875,-123.355612
+VIC_DT,grocery,Market on Yates,48.4253317672979,-123.35874834759349
+VIC_DT,grocery,On the Run,48.43252527088843,-123.35886541763323
+VIC_DT,grocery,Shell Select,48.42897315143718,-123.37758413509567
+VIC_DT,grocery,Fisgard Market,48.429535687080126,-123.36783093628782
+KEL_DT,schools,First College,49.8847507,-119.4923542
+KEL_DT,schools,Elevare Career institute,49.8839574,-119.4968884
+KEL_DT,schools,,49.88124556357833,-119.4871285546906
+KEL_DT,schools,St. Joseph Elementary School,49.87957016809074,-119.4842178091145
+KEL_DT,restaurants,Deville Coffee Bernard,49.8861364,-119.4952397
+KEL_DT,restaurants,The Bread Company,49.8861836,-119.4956058
+KEL_DT,restaurants,Bike Shop Cafe and Catering,49.8898518,-119.4932513
+KEL_DT,restaurants,Sushi Sai,49.8852937,-119.4933488
+KEL_DT,restaurants,King Taps,49.890462,-119.4976669
+KEL_DT,restaurants,Earls Kitchen + Bar,49.886024,-119.4991046
+KEL_DT,restaurants,Kelly O' Bryan's Neighborhood Restaurant,49.8864969,-119.497693
+KEL_DT,restaurants,Wicked chicken,49.8865083,-119.4973305
+KEL_DT,restaurants,Korean Restaurant,49.8865091,-119.4971835
+KEL_DT,restaurants,,49.8864798,-119.495521
+KEL_DT,restaurants,Asuka Japanese Restaurant,49.8861783,-119.4986727
+KEL_DT,restaurants,Pita Pit,49.8861786,-119.4986115
+KEL_DT,restaurants,Gorgeous Georges,49.8861749,-119.4984467
+KEL_DT,restaurants,Moo-Lix Ice Cream,49.8861787,-119.4983835
+KEL_DT,restaurants,Salt & Brick,49.8861782,-119.4983219
+KEL_DT,restaurants,The Rotten Grape,49.8861774,-119.4985423
+KEL_DT,restaurants,Bai Tong Thai Food,49.8861713,-119.497377
+KEL_DT,restaurants,Fresh Healthy Cafe,49.8861699,-119.4975882
+KEL_DT,restaurants,Ginza Japanese Restaurant,49.886171,-119.4975017
+KEL_DT,restaurants,Blenz Coffee,49.8861691,-119.4967802
+KEL_DT,restaurants,Memphis Blues,49.8861658,-119.4969957
+KEL_DT,restaurants,Fernando's Taqueria,49.8861667,-119.4972642
+KEL_DT,restaurants,Subway,49.8871728,-119.4952
+KEL_DT,restaurants,Pilgrim & Pearl,49.8838567,-119.4991759
+KEL_DT,restaurants,Dunn Enzies,49.885739,-119.4933063
+KEL_DT,restaurants,Micro Bar,49.8861232,-119.4967803
+KEL_DT,restaurants,Bohemian Cafe & Catering Co.,49.8864802,-119.492764
+KEL_DT,restaurants,Yamas Greek Taverna,49.8848245,-119.4936876
+KEL_DT,restaurants,KRAFTY kitchen + bar,49.8852622,-119.4975338
+KEL_DT,restaurants,Raudz,49.8859961,-119.4967841
+KEL_DT,restaurants,Social 242 Lounge & Grill,49.8855353,-119.4981957
+KEL_DT,restaurants,Cactus Club Cafe,49.8894669,-119.4971808
+KEL_DT,restaurants,Starbucks,49.8839496,-119.4908612
+KEL_DT,restaurants,West Coast Grill & Oyster Bar,49.8838393,-119.4991812
+KEL_DT,restaurants,Tim Hortons,49.88614,-119.4979327
+KEL_DT,restaurants,The Curious café,49.8884187,-119.4934658
+KEL_DT,restaurants,Pizza Studio,49.890055,-119.4939977
+KEL_DT,restaurants,Bouchons Bistro,49.8943991,-119.4958599
+KEL_DT,restaurants,Waterfront Wines Restaurant,49.8945386,-119.4961481
+KEL_DT,restaurants,Nagano Sushi,49.8918949,-119.4937982
+KEL_DT,restaurants,Pulp Fiction Coffee House,49.8855213,-119.4952285
+KEL_DT,restaurants,Thai Terrace Restaurant,49.8855219,-119.4993008
+KEL_DT,restaurants,,49.88608,-119.4990009
+KEL_DT,restaurants,Pacific Poke,49.8861249,-119.4988696
+KEL_DT,restaurants,Momo Sushi Downtown,49.8861839,-119.4953791
+KEL_DT,restaurants,Subway,49.8833028,-119.49276
+KEL_DT,restaurants,Dosa Crepe Café,49.8861849,-119.4926894
+KEL_DT,restaurants,Skinny Duke's Glorious Emporium,49.8866823,-119.4963979
+KEL_DT,restaurants,Bernies,49.8861835,-119.4957408
+KEL_DT,restaurants,Antico Pizza Napoletana,49.8861843,-119.4958744
+KEL_DT,restaurants,Crafted Street Food,49.8934914,-119.4986893
+KEL_DT,restaurants,Boathouse on Bernard,49.8865078,-119.4945856
+KEL_DT,restaurants,Subcity Donair,49.886186,-119.4939598
+KEL_DT,restaurants,Pick Thai Restaurant,49.8861858,-119.4940321
+KEL_DT,restaurants,Chilango,49.8864803,-119.4929568
+KEL_DT,restaurants,Soban Korean Bistro,49.88648,-119.4925165
+KEL_DT,restaurants,Mad Mango Café,49.8861794,-119.4917292
+KEL_DT,restaurants,OEB,49.8854971,-119.4940552
+KEL_DT,restaurants,motherlove ferments,49.8943225,-119.4828936
+KEL_DT,restaurants,Naked Cafe,49.8851455,-119.4907639
+KEL_DT,restaurants,Ten 13,49.8865091,-119.4974302
+KEL_DT,restaurants,Chaibaba,49.8921331,-119.493282
+KEL_DT,restaurants,Catelowna,49.8880021,-119.4931928
+KEL_DT,restaurants,Kinton Ramen,49.8864993,-119.4913606
+KEL_DT,restaurants,Blenz Coffee,49.8893227,-119.4937264
+KEL_DT,restaurants,Gather Restaurant,49.8891448,-119.4937264
+KEL_DT,restaurants,Triple O's,49.8831447,-119.4950284
+KEL_DT,restaurants,The Nook Cafe + Bar,49.8861807,-119.490939
+KEL_DT,restaurants,Eurobean Coffee,49.8912834,-119.4969244
+KEL_DT,restaurants,Analog Coffee,49.8944015,-119.4947496
+KEL_DT,restaurants,The Galley Lakeside Cafe,49.8896863,-119.4971434
+KEL_DT,restaurants,O-Lake Cafe & Bistro,49.8852876,-119.4953982
+KEL_DT,restaurants,Tackle Box Coffee Bar,49.8946971,-119.4859058
+KEL_DT,restaurants,Bean Scene North,49.8891454,-119.4931822
+KEL_DT,restaurants,J’s Cafe & Bistro,49.8920977,-119.4938009
+KEL_DT,restaurants,Blend Bites Kelowna,49.8873394,-119.4916714
+KEL_DT,restaurants,Switch Cafe,49.8857357,-119.4933042
+KEL_DT,restaurants,CeCe's Coffee,49.8946359,-119.4870185
+KEL_DT,restaurants,Tamm Mexican Restaurant,49.883857268391964,-119.49471693088682
+KEL_DT,restaurants,Boston Pizza,49.88338316830384,-119.49155893375902
+KEL_DT,restaurants,Central Kitchen,49.894628149999996,-119.49323215000001
+KEL_DT,transit_stops,Harvey at Richter,49.8835999,-119.4904918
+KEL_DT,transit_stops,Queensway,49.8874336,-119.4958857
+KEL_DT,transit_stops,Harvey at Bertram,49.8838351,-119.4916021
+KEL_DT,transit_stops,Queensway,49.8872696,-119.4946028
+KEL_DT,transit_stops,Queensway Exchange,49.8872706,-119.4940474
+KEL_DT,transit_stops,Queensway Exchange,49.8873731,-119.4947046
+KEL_DT,transit_stops,Queensway Exchange,49.8873762,-119.4941806
+KEL_DT,transit_stops,Queensway Exchange,49.8872767,-119.494877
+KEL_DT,transit_stops,Queensway Exchange,49.8872677,-119.4942762
+KEL_DT,transit_stops,Queensway Exchange,49.8874332,-119.4954941
+KEL_DT,transit_stops,Queensway Exchange,49.8873741,-119.494452
+KEL_DT,transit_stops,Queensway Exchange,49.887379,-119.4938738
+KEL_DT,transit_stops,Ellis at Clement,49.893153,-119.493617
+KEL_DT,transit_stops,Clement at Richter,49.893488,-119.487941
+KEL_DT,transit_stops,Clement at Richter,49.893715,-119.4893144
+KEL_DT,transit_stops,Ellis at Clement,49.893181,-119.493396
+KEL_DT,transit_stops,Clement at Ethel,49.8936928,-119.4834134
+KEL_DT,transit_stops,Clement at Ethel,49.893467,-119.482296
+KEL_DT,transit_stops,1300 Block Ellis,49.889823,-119.49363
+KEL_DT,transit_stops,Ellis at Doyle,49.890383,-119.493404
+KEL_DT,transit_stops,Sutherland at Ethel,49.879755,-119.482304
+KEL_DT,transit_stops,Sutherland at Ethel,49.87992,-119.483106
+KEL_DT,transit_stops,Pandosy at Sutherland,49.879037,-119.49296
+KEL_DT,transit_stops,Richter at Gaston,49.895678,-119.4886
+KEL_DT,transit_stops,Bernard at Ethel,49.886355,-119.483125
+KEL_DT,transit_stops,Ellis at Industrial,49.895813,-119.493415
+KEL_DT,transit_stops,Pandosy at Buckland,49.88135,-119.494939
+KEL_DT,transit_stops,Pandosy at Buckland,49.881662,-119.495149
+KEL_DT,transit_stops,Richter at Fuller,49.890611,-119.48836
+KEL_DT,transit_stops,Bernard at Richter,49.886224,-119.488185
+KEL_DT,transit_stops,Richter at Lawrence,49.8856343,-119.4886064
+KEL_DT,transit_stops,Doyle at Bertram,49.889073,-119.490581
+KEL_DT,transit_stops,Doyle at St Paul,49.888909,-119.491494
+KEL_DT,transit_stops,Sutherland at Richter,49.879777,-119.488127
+KEL_DT,transit_stops,Richter at Clement,49.893209,-119.488618
+KEL_DT,transit_stops,Bernard at Bertram,49.8864,-119.489862
+KEL_DT,transit_stops,Water at Leon,49.884199,-119.496348
+KEL_DT,transit_stops,Cawston at Ethel,49.891553,-119.482337
+KEL_DT,transit_stops,Richter at Sutherland,49.880037,-119.488366
+KEL_DT,transit_stops,Cawston at Ethel,49.891682,-119.48331
+KEL_DT,transit_stops,Leon at Ethel,49.884535,-119.483686
+KEL_DT,transit_stops,Richter at Dehart,49.882196,-119.488379
+KEL_DT,transit_stops,Richter at Dehart,49.8819252,-119.4887445
+KEL_DT,transit_stops,Water at Doyle,49.889233,-119.496511
+KEL_DT,transit_stops,Leon at Ethel,49.884407,-119.483863
+KEL_DT,transit_stops,Leon at Richter,49.884579,-119.486903
+KEL_DT,transit_stops,Richter at Wilson,49.891021,-119.488622
+KEL_DT,transit_stops,Clement at Sunset,49.893504,-119.494902
+KEL_DT,transit_stops,Bernard at Ethel,49.886229,-119.482355
+KEL_DT,transit_stops,Pandosy at Sutherland,49.879699,-119.493572
+KEL_DT,transit_stops,Leon at Richter,49.884417,-119.48666
+KEL_DT,transit_stops,Water at Cawston,49.892092,-119.496518
+KEL_DT,transit_stops,Water at Leon,49.884795,-119.496735
+KEL_DT,transit_stops,Harvey at Richter,49.8834859,-119.4902196
+KEL_DT,parks,Sunset Drive Park,49.896752672164126,-119.49673428420436
+KEL_DT,parks,Lake Avenue Beach Access,49.88050695607923,-119.50230683899595
+KEL_DT,parks,McTavish Avenue Beach Access,49.87990535511582,-119.50170458968798
+KEL_DT,parks,Vimy Avenue Beach Access,49.879137137694364,-119.50042748257547
+KEL_DT,parks,Abbott Street Recreation Corridor,49.87776915315616,-119.49791864327409
+KEL_DT,parks,Recreation Avenue Park,49.896560090857605,-119.49083431602057
+KEL_DT,parks,Cawston Avenue Recreation Corridor,49.8917723883696,-119.48411750784011
+KEL_DT,parks,Waterfront Park,49.89298391677998,-119.49866236310376
+KEL_DT,parks,Rotary Marsh Park,49.89588619504333,-119.50014567861868
+KEL_DT,parks,Stuart Park,49.88870129512493,-119.49717698727046
+KEL_DT,parks,Knowles Heritage Park,49.88589783930983,-119.48334386086574
+KEL_DT,parks,Kerry Park,49.886730851951796,-119.49856419743095
+KEL_DT,parks,City Park,49.88374248857632,-119.50228315634641
+KEL_DT,grocery,Pandosy Food Basket,49.879412,-119.4931216
+KEL_DT,grocery,On the Run,49.8831428,-119.4951599
+KEL_DT,grocery,Safeway,49.88565156315934,-119.48931395669652
+KEL_DT,grocery,Petro-Canada,49.88311244621158,-119.487890395486
+KEL_DT,grocery,Shell,49.8839255,-119.4896805
+KEL_DT,grocery,One Stop,49.89380428140994,-119.48246089983698

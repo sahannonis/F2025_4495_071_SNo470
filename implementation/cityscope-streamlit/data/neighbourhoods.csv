@@ -1,0 +1,10 @@
+neighbourhood_id,name,city,region,lat,lon,population,transit_score,school_score,safety_score
+VAN_DT,Downtown Vancouver,Vancouver,Metro Vancouver,49.2827,-123.1207,65000,95,80,65
+VAN_KITS,Kitsilano,Vancouver,Metro Vancouver,49.2683,-123.1689,41000,80,85,75
+BBY_METRO,Metrotown,Burnaby,Metro Vancouver,49.2276,-122.9990,45000,90,78,70
+SUR_CC,Surrey City Centre,Surrey,Metro Vancouver,49.1897,-122.8489,60000,85,72,55
+RMD_CC,Richmond City Centre,Richmond,Metro Vancouver,49.1666,-123.1336,50000,88,77,68
+NVAN_CENT,North Vancouver Central,North Vancouver,Metro Vancouver,49.3200,-123.0726,35000,82,83,80
+VIC_DT,Downtown Victoria,Victoria,Vancouver Island,48.4284,-123.3656,40000,87,79,72
+KEL_DT,Downtown Kelowna,Kelowna,Interior BC,49.8879,-119.4960,30000,75,76,73
+
